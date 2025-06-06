@@ -1,0 +1,32 @@
+{
+    "Hematology": {
+        "Eosinophils #": {
+            "value": 0.03,
+            "unit": "x10^3 /uL",
+            "reference_range": "0 - 0.45"
+        },
+        "Basophils %": {
+            "value": 1.0,
+            "unit": "%",
+            "reference_range": "0 - 1.8"
+        },
+        "Basophils #": {
+            "value": 0.02,
+            "unit": "x10^3 /uL",
+            "reference_range": "0 - 0.2"
+        },
+        "Nucleated Red Cell %": {
+            "value": 2,
+            "unit": "/100 WBC"
+        },
+        "Nucleated Red Cell #": {
+            "value": null,
+            "unit": "x10^3 /uL",
+            "note": "Not detected"
+        },
+        "Limit of Detection (nRBC)": {
+            "value": 0.02,
+            "unit": "x10^3 /uL"
+        }
+    }
+}

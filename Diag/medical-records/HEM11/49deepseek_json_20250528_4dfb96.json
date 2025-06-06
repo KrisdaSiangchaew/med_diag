@@ -1,0 +1,167 @@
+{
+  "hospital": {
+    "name": "สถาบันโรคทรวงอก",
+    "address": "74 ถ.ดิวานนท์ ต.บางกระสอ อ.เมือง จ.นนทบุรี 11000",
+    "phone": "02-547-0999"
+  },
+  "patient": {
+    "name": "นาง ปนุกูลา เสียงแจ้ว",
+    "HN": "00439282",
+    "AN": "",
+    "LN": "66130748",
+    "insurance": "เงินสด",
+    "age": "77 ปี 4 เดือน 13 วัน",
+    "gender": "หญิง",
+    "contract": "",
+    "department": "คลินิกผู้ป่วยนอกโรคหัวใจ (11)",
+    "registration_date": "24/05/2566 13:01",
+    "ordering_doctor": "แพทย์โรคหัวใจ",
+    "specimen_received_date": "24/05/2566 13:13"
+  },
+  "tests": {
+    "hematology": {
+      "specimen": "EDTA Tube (ฝ่ามีม่วง)",
+      "cbc": [
+        {
+          "test": "Hb",
+          "result": "LL2",
+          "flag": "L",
+          "unit": "g/dl",
+          "normal_range": "F (12 - 16)",
+          "method": "Automation"
+        },
+        {
+          "test": "Het",
+          "result": 35,
+          "flag": "L",
+          "unit": "%",
+          "normal_range": "F (36 - 48)",
+          "method": "Automation"
+        },
+        {
+          "test": "WBC",
+          "result": 5150,
+          "unit": "cells/cu.mm",
+          "normal_range": "(5000 - 10000)",
+          "method": "Automation"
+        },
+        {
+          "test": "PMN",
+          "result": 58,
+          "unit": "%",
+          "normal_range": "(40 - 70)",
+          "method": "Automation"
+        },
+        {
+          "test": "Lymph",
+          "result": 32,
+          "unit": "%",
+          "normal_range": "(20 - 40)",
+          "method": "Automation"
+        },
+        {
+          "test": "Eos",
+          "result": 1,
+          "unit": "%",
+          "normal_range": "(0 - 5)",
+          "method": "Automation"
+        },
+        {
+          "test": "Mono",
+          "result": 2,
+          "unit": "%",
+          "normal_range": "(2 - 8)",
+          "method": "Automation"
+        },
+        {
+          "test": "Baso",
+          "result": 0,
+          "unit": "%",
+          "normal_range": "(0 - 2)",
+          "method": "Automation"
+        },
+        {
+          "test": "Band",
+          "result": 0,
+          "unit": "%",
+          "normal_range": "(0 - 5)",
+          "method": "Automation"
+        },
+        {
+          "test": "NRC",
+          "result": 0,
+          "unit": "cells/100 WB",
+          "method": "Automation"
+        },
+        {
+          "test": "Absolute neutrophil count",
+          "result": 2987,
+          "unit": "cells/cu.mm",
+          "normal_range": "F (1800 - 6800)",
+          "method": "Automation"
+        },
+        {
+          "test": "RDW",
+          "result": 22.7,
+          "unit": "%",
+          "normal_range": "(12.0 - 14.8)",
+          "method": "Automation"
+        },
+        {
+          "test": "MCV",
+          "result": 88,
+          "unit": "fl",
+          "normal_range": "(80 - 92)",
+          "method": "Automation"
+        },
+        {
+          "test": "MCH",
+          "result": 28,
+          "unit": "pg",
+          "normal_range": "(27 - 32)",
+          "method": "Automation"
+        },
+        {
+          "test": "MCHC",
+          "result": 32,
+          "unit": "g/dl",
+          "normal_range": "(33 - 37)",
+          "method": "Automation"
+        },
+        {
+          "test": "Platelet count",
+          "result": 158000,
+          "unit": "cells/cu.mm",
+          "normal_range": "(140000 - 440000)",
+          "method": "Automation"
+        },
+        {
+          "test": "Platelet Smear",
+          "result": "Adequate",
+          "normal_range": "Adequate",
+          "method": "Automation"
+        },
+        {
+          "test": "RBC Morphology",
+          "result": "Abnormal",
+          "normal_range": "Normal",
+          "method": "Automation"
+        },
+        {
+          "test": "Hypochromia",
+          "result": "Few",
+          "method": "Automation"
+        }
+      ]
+    }
+  },
+  "financial": {
+    "test_cost": "90.00 บาท"
+  },
+  "staff": {
+    "reported_by": "ทนพญ. กุลธิดา กองศิลป์ ทน.13263",
+    "approved_by": "ทนพญ. กุลธิดา กองศิลป์ ทน.13263",
+    "report_date": "24/05/2566 13:28",
+    "approval_date": "24/05/2566 13:28"
+  }
+}

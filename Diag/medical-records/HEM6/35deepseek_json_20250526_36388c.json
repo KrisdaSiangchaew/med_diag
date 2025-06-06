@@ -1,0 +1,68 @@
+{
+  "hospital": {
+    "name": "โรงพยาบาลจุฬาลงกรณ์ สภากาชาดไทย",
+    "address": "1873 ถนนพระราม + ปทุมวัน กรุงเทพฯ 10330",
+    "department": "ฝ่าย เวชศาสตร์รัษฎีสาร",
+    "contact": "+66 22564000 ext. 80324-5",
+    "accreditation": {
+      "standard": "ISO 15189",
+      "number": "4006/47"
+    }
+  },
+  "patient": {
+    "name": "นางปนุกูลา เสียงแจ้ว",
+    "HN": "12014/66",
+    "gender": "หญิง",
+    "age": 78,
+    "specimen": "EDTA blood",
+    "requesting_unit": "เคมีบำบัด Med Onco ภูมิสิริ+1C (นอกเวลา)"
+  },
+  "test_details": {
+    "access_no": "247795455",
+    "lab_no": "CH-550654/67",
+    "collection_date": "30/10/2567 14:29:44",
+    "received_date": "30/10/2567 15:13:22",
+    "requested_by": "นพ.วิโรจน์ ศรีอุหารพงศ์",
+    "request_date": "16/10/2567 16:30:00",
+    "released_by": "นายฐานกรณ์ เทพนรินทร์",
+    "approved_by": "น.ส.สุนัดดา เบาวรัตน์โสภณ",
+    "approval_date": "30/10/2567 15:43:34"
+  },
+  "test_results": [
+    {
+      "test_name": "Eosinophils #",
+      "result": 0.07,
+      "unit": "x10*3 /uL",
+      "reference_range": "0 - 0.45"
+    },
+    {
+      "test_name": "Basophils %",
+      "result": 0.2,
+      "unit": "%",
+      "reference_range": "0 - 1.8"
+    },
+    {
+      "test_name": "Basophils #",
+      "result": 0.01,
+      "unit": "x10*3 /uL",
+      "reference_range": "0 - 0.2"
+    },
+    {
+      "test_name": "Nucleated Red Cell %",
+      "result": "--",
+      "unit": "/ 100 WBC",
+      "reference_range": null,
+      "note": "เป็นผลการตรวจวิเคราะห์จากเครื่องอัตโนมัติที่มี Limit of Detection ของ nRBC 0.02 x 10*3/uL กรุณาพิจานาผลการตรวจวิเคราะห์ร่วมกับอาการทางคลินิก"
+    },
+    {
+      "test_name": "Nucleated Red Cell #",
+      "result": "--",
+      "unit": "x10*3 /uL",
+      "reference_range": null,
+      "note": "เป็นผลการตรวจวิเคราะห์จากเครื่องอัตโนมัติที่มี Limit of Detection ของ nRBC 0.02 x 10*3/uL กรุณาพิจานาผลการตรวจวิเคราะห์ร่วมกับอาการทางคลินิก"
+    }
+  ],
+  "notes": {
+    "result_notes": "*= ผิดปกติ L=ต่ำ LL=ต่ำ(วิกฤต), H=สูง HH=สูง(วิกฤต) ! = ค่ำวิกฤต"
+  }
+}

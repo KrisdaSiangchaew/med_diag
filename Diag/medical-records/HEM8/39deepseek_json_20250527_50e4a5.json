@@ -1,0 +1,55 @@
+{
+  "hospital": "โรงพยาบาลจุฬาลงกรณ์ สภากาชาดไทย",
+  "address": "1873 ถนนพระราม + ปทุมวัน กรุงเทพฯ 10330",
+  "department": "ฝ่าย เวชศาสตร์ชั้นสูตร +66 22564000 ext. 80324-5",
+  "accreditation": "Accreditation No. 4006/47",
+  "patient": {
+    "name": "นางปนุกูลา เสียงแจ้ว",
+    "HN": "12014/66",
+    "age": "78 ปี",
+    "specimen": "EDTA blood",
+    "lab_no": "CH-511659/67",
+    "collection_date": "09/10/2567 14:18:46",
+    "received_date": "09/10/2567 14:45:01"
+  },
+  "tests": [
+    {
+      "test": "Eosinophils #",
+      "result": "0.02",
+      "unit": "x10^3/uL",
+      "reference_range": "0 - 0.45"
+    },
+    {
+      "test": "Basophils %",
+      "result": "0.4",
+      "unit": "%",
+      "reference_range": "0 - 1.8"
+    },
+    {
+      "test": "Basophils #",
+      "result": "0.01",
+      "unit": "x10^3/uL",
+      "reference_range": "0 - 0.2"
+    },
+    {
+      "test": "Nucleated Red Cell %",
+      "result": "--",
+      "unit": "/ 100 WBC",
+      "reference_range": ""
+    },
+    {
+      "test": "Nucleated Red Cell #",
+      "result": "เป็นผลการตรวจวิเคราะห์จากเครื่องอัตโนมัติที่มี Limit of Detection ของ nRBC 0.02 x 10*3/uL กรุณาที่จำแนกผลการตรวจวิเคราะห์ร่วมกับอาการทางคลินิก -- x10^3/uL เป็นผลการตรวจวิเคราะห์จากเครื่องอัตโนมัติที่มี Limit of Detection ของ nRBC 0.02 x 10*3/uL กรุณาที่จำแนกผลการตรวจวิเคราะห์ร่วมกับอาการทางคลินิก --",
+      "unit": "",
+      "reference_range": ""
+    }
+  ],
+  "medical_staff": {
+    "requested_by": "ศ.ดร.นพ.วิโรจน์ ศรีอุหารพงศ์",
+    "request_date": "25/09/2567 16:30:00",
+    "released_by": "ไม่ระบุแพทย์",
+    "approved_by": "น.ส.สุนัดดา แนวรัตน์โสภณ",
+    "approval_date": "09/10/2567 15:40:42"
+  },
+  "notes": "หมายเหตุผลตรวจ *= ผิดปกติ L=ต่ำ LL=ต่ำ(วิกฤต), H=สูง HH=สูง(วิกฤต) ! = ค่ำวิกฤต"
+}

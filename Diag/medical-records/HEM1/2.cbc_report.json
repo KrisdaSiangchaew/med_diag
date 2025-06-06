@@ -1,0 +1,83 @@
+{
+    "CBC": {
+        "Red Cell Count": {
+            "value": 2.92,
+            "unit": "x10^6 /uL",
+            "flag": "L",
+            "reference_range": "3.9 - 5.5"
+        },
+        "Hemoglobin": {
+            "value": 8.9,
+            "unit": "g/dL",
+            "flag": "L",
+            "reference_range": "12.0 - 15.0"
+        },
+        "Hematocrit": {
+            "value": 27.8,
+            "unit": "%",
+            "flag": "L",
+            "reference_range": "36.0 - 45.0"
+        },
+        "MCV": {
+            "value": 95.2,
+            "unit": "fL",
+            "reference_range": "80.0 - 100.0"
+        },
+        "MCH": {
+            "value": 30.5,
+            "unit": "pg",
+            "reference_range": "27.0 - 33.0"
+        },
+        "MCHC": {
+            "value": 32.0,
+            "unit": "g/dL",
+            "flag": "L",
+            "reference_range": "33.0 - 37.0"
+        },
+        "RDW": {
+            "value": 20.3,
+            "unit": "%",
+            "flag": "H",
+            "reference_range": "11.0 - 14.5"
+        },
+        "Platelets Count": {
+            "value": 287,
+            "unit": "x10^3 /uL",
+            "reference_range": "150 - 450"
+        },
+        "MPV": {
+            "value": 9.7,
+            "unit": "fL",
+            "reference_range": "9.2 - 12.0"
+        },
+        "White Cell Count": {
+            "value": 2.85,
+            "unit": "x10^3 /uL",
+            "flag": "L",
+            "reference_range": "4.5 - 11.0"
+        },
+        "Neutrophils %": {
+            "value": 59.3,
+            "unit": "%",
+            "reference_range": "40.0 - 70.9"
+        },
+        "Neutrophils #": {
+            "value": 1.69,
+            "unit": "x10^3 /uL",
+            "flag": "L",
+            "reference_range": "1.8 - 7.8"
+        },
+        "Lymphocytes %": {
+            "value": 21.4,
+            "unit": "%",
+            "flag": "L",
+            "reference_range": "22.2 - 43.6"
+        },
+        "Lymphocytes #": {
+            "value": 0.61,
+            "unit": "x10^3 /uL",
+            "flag": "L",
+            "reference_range": "1.0 - 4.8"
+        }
+    }
+}

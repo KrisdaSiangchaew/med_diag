@@ -1,0 +1,3193 @@
+[
+    [
+        {
+            "Access No": "247703006",
+            "Lab No": "CH-524127/67",
+            "Specimen": "EDTA blood",
+            "Collection Date": "16/10/2567 14:24:39",
+            "Report Date": "16/10/2567 15:14:23",
+            "Tests": [
+                {
+                    "Name": "Basophils #",
+                    "Value": "0.01",
+                    "Unit": "x10^3 /uL",
+                    "Reference Range": "0 - 0.2"
+                },
+                {
+                    "Name": "Nucleated Red Cell %",
+                    "Value": "-",
+                    "Unit": "/ 100 WBC"
+                },
+                {
+                    "Name": "Nucleated Red Cell #",
+                    "Value": "-",
+                    "Unit": "x10^3 /uL"
+                }
+            ]
+        },
+        {
+            "Access No": "247703006",
+            "Lab No": "CH-524127/67",
+            "Specimen": "EDTA blood",
+            "Collection Date": "16/10/2567 14:24:39",
+            "Report Date": "16/10/2567 15:14:23",
+            "Tests": [
+                {
+                    "Name": "Red Cell Count",
+                    "Value": "3.52 L",
+                    "Unit": "x10^6 /uL",
+                    "Reference Range": "3.9 - 5.5"
+                },
+                {
+                    "Name": "Hemoglobin",
+                    "Value": "9.7 L",
+                    "Unit": "g/dL",
+                    "Reference Range": "12.0 - 15.0"
+                },
+                {
+                    "Name": "Hematocrit",
+                    "Value": "30.7 L",
+                    "Unit": "%",
+                    "Reference Range": "36.0 - 45.0"
+                },
+                {
+                    "Name": "MCV",
+                    "Value": "87.2",
+                    "Unit": "fL",
+                    "Reference Range": "80.0 - 100.0"
+                },
+                {
+                    "Name": "MCH",
+                    "Value": "27.6",
+                    "Unit": "pg",
+                    "Reference Range": "27.0 - 33.0"
+                },
+                {
+                    "Name": "MCHC",
+                    "Value": "31.6 L",
+                    "Unit": "g/dL",
+                    "Reference Range": "33.0 - 37.0"
+                },
+                {
+                    "Name": "RDW",
+                    "Value": "17.2 H",
+                    "Unit": "%",
+                    "Reference Range": "11.0 - 14.5"
+                },
+                {
+                    "Name": "Platelets Count",
+                    "Value": "526 H",
+                    "Unit": "x10^3 /uL",
+                    "Reference Range": "150 - 450"
+                },
+                {
+                    "Name": "MPV",
+                    "Value": "9.1 L",
+                    "Unit": "fL",
+                    "Reference Range": "9.2 - 12.0"
+                },
+                {
+                    "Name": "White Cell Count",
+                    "Value": "3.47 L",
+                    "Unit": "x10^3 /uL",
+                    "Reference Range": "4.5 - 11.0"
+                },
+                {
+                    "Name": "Neutrophils %",
+                    "Value": "49.8",
+                    "Unit": "%",
+                    "Reference Range": "40.0 - 70.9"
+                },
+                {
+                    "Name": "Neutrophils #",
+                    "Value": "1.73 L",
+                    "Unit": "x10^3 /uL",
+                    "Reference Range": "1.8 - 7.8"
+                },
+                {
+                    "Name": "Lymphocytes %",
+                    "Value": "30.6",
+                    "Unit": "%",
+                    "Reference Range": "22.2 - 43.6"
+                },
+                {
+                    "Name": "Lymphocytes #",
+                    "Value": "1.06",
+                    "Unit": "x10^3 /uL"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "hospital": {
+                "name": "\u0e42\u0e23\u0e07\u0e1e\u0e22\u0e32\u0e1a\u0e32\u0e25\u0e08\u0e38\u0e2c\u0e32\u0e25\u0e07\u0e01\u0e23\u0e13\u0e4c \u0e2a\u0e20\u0e32\u0e01\u0e32\u0e0a\u0e32\u0e14\u0e44\u0e17\u0e22",
+                "english_name": "King Chulalongkorn Memorial Hospital",
+                "department": "\u0e1d\u0e48\u0e32\u0e22 \u0e40\u0e27\u0e0a\u0e28\u0e32\u0e2a\u0e15\u0e23\u0e4c\u0e02\u0e31\u0e49\u0e19\u0e2a\u0e39\u0e07",
+                "accreditation": {
+                    "status": "\u0e44\u0e14\u0e49\u0e23\u0e31\u0e1a\u0e01\u0e32\u0e23\u0e23\u0e31\u0e1a\u0e23\u0e2d\u0e07\u0e04\u0e27\u0e32\u0e21\u0e2a\u0e32\u0e21\u0e32\u0e23\u0e16",
+                    "standard": "\u0e2b\u0e49\u0e2d\u0e07\u0e1b\u0e0f\u0e34\u0e1a\u0e31\u0e15\u0e34\u0e01\u0e32\u0e23 ISO 15189",
+                    "number": "Accreditation No. 4006/47"
+                }
+            },
+            "patient": {
+                "name": "\u0e19\u0e32\u0e07\u0e1b\u0e19\u0e38\u0e01\u0e39\u0e25\u0e32 \u0e40\u0e2a\u0e35\u0e22\u0e07\u0e41\u0e25\u0e49\u0e27",
+                "HN": "12014/66",
+                "gender": "\u0e2b\u0e0d\u0e34\u0e07",
+                "age": "77 \u0e1b\u0e35",
+                "department": "F/U Med Onco \u0e20\u0e39\u0e21\u0e34\u0e2a\u0e34\u0e23\u0e34\u0e15\u0e32 (\u0e19\u0e2d\u0e01\u0e40\u0e27\u0e25\u0e32)",
+                "access_no": "235765782",
+                "specimen": "Heparinized blood"
+            },
+            "report_info": {
+                "print_date": "20/12/2566 16:33:23",
+                "page": "page 1 of 1",
+                "request_date": "20/12/2566 13:39:50"
+            },
+            "tests": [
+                {
+                    "test": "Bilirubin (Total)",
+                    "result": 0.58,
+                    "unit": "mg/dL",
+                    "reference_range": "0.20 - 1.20"
+                },
+                {
+                    "test": "Bilirubin (direct)",
+                    "result": 0.21,
+                    "unit": "mg/dL",
+                    "reference_range": "0.00 - 0.50"
+                },
+                {
+                    "test": "SGOT",
+                    "result": 28,
+                    "unit": "U/L",
+                    "reference_range": "5 - 35"
+                },
+                {
+                    "test": "SGPT",
+                    "result": 20,
+                    "unit": "U/L",
+                    "reference_range": "0 - 40"
+                },
+                {
+                    "test": "Alkaline phosphatase",
+                    "result": 94,
+                    "unit": "U/L",
+                    "reference_range": "40 - 120"
+                }
+            ],
+            "medical_staff": {
+                "requested_by": "\u0e23\u0e28.\u0e14\u0e23.\u0e19\u0e1e.\u0e27\u0e34\u0e42\u0e23\u0e08\u0e19\u0e4c \u0e28\u0e23\u0e35\u0e2d\u0e38\u0e17\u0e32\u0e23",
+                "reported_by": "\u0e19\u0e32\u0e22\u0e40\u0e2a\u0e01\u0e2a\u0e23\u0e23 \u0e2a\u0e38\u0e27\u0e23\u0e23\u0e13\u0e1a\u0e38\u0e15\u0e23",
+                "approved_by": "\u0e19\u0e32\u0e22\u0e40\u0e2a\u0e01\u0e2a\u0e23\u0e23 \u0e2a\u0e38\u0e27\u0e23\u0e23\u0e13\u0e1a\u0e38\u0e15\u0e23"
+            },
+            "notes": {
+                "accreditation_note": "\u0e01\u0e32\u0e23\u0e17\u0e14\u0e2a\u0e2d\u0e1a\u0e17\u0e35\u0e48\u0e44\u0e21\u0e48\u0e44\u0e14\u0e49\u0e02\u0e2d\u0e07\u0e01\u0e32\u0e23\u0e23\u0e31\u0e1a\u0e23\u0e2d\u0e07 ISO 15189 (\u0e40\u0e09\u0e1e\u0e32\u0e30\u0e2b\u0e49\u0e2d\u0e07\u0e1b\u0e0f\u0e34\u0e1a\u0e31\u0e15\u0e34\u0e01\u0e32\u0e23\u0e17\u0e35\u0e48\u0e1c\u0e48\u0e32\u0e19\u0e01\u0e32\u0e23\u0e23\u0e31\u0e1a\u0e23\u0e2d\u0e07\u0e04\u0e27\u0e32\u0e21\u0e2a\u0e32\u0e21\u0e32\u0e23\u0e16\u0e41\u0e25\u0e49\u0e27)"
+            }
+        }
+    ],
+    [
+        {
+            "hospital": {
+                "name": "\u0e42\u0e23\u0e07\u0e1e\u0e22\u0e32\u0e1a\u0e32\u0e25\u0e08\u0e38\u0e2c\u0e32\u0e25\u0e07\u0e01\u0e23\u0e13\u0e4c \u0e2a\u0e20\u0e32\u0e01\u0e32\u0e0a\u0e32\u0e14\u0e44\u0e17\u0e22",
+                "address": "1873 \u0e16\u0e19\u0e19\u0e1e\u0e23\u0e30\u0e23\u0e32\u0e21 4 \u0e1b\u0e17\u0e38\u0e21\u0e27\u0e31\u0e19 \u0e01\u0e23\u0e38\u0e07\u0e40\u0e17\u0e1e\u0e2f 10330",
+                "department": "\u0e1d\u0e48\u0e32\u0e22 \u0e40\u0e27\u0e0a\u0e28\u0e32\u0e2a\u0e15\u0e23\u0e4c\u0e08\u0e31\u0e19\u0e18\u0e38\u0e15\u0e23\u0e32",
+                "contact": "+66 22564000 ext. 80324-5"
+            },
+            "patient": {
+                "name": "\u0e19\u0e32\u0e07\u0e1b\u0e19\u0e0e\u0e0a\u0e32 \u0e40\u0e2a\u0e35\u0e22\u0e07\u0e41\u0e08\u0e49\u0e27",
+                "hn": "12014/66",
+                "gender": "\u0e2b\u0e0d\u0e34\u0e07",
+                "age": 78,
+                "an": null,
+                "department": "\u0e40\u0e04\u0e21\u0e35\u0e1a\u0e33\u0e1a\u0e31\u0e14 Med Onco \u0e20\u0e39\u0e21\u0e34\u0e2a\u0e34\u0e23\u0e34\u0e02\u0e32IC (\u0e19\u0e2d\u0e01\u0e40\u0e27\u0e25\u0e32)"
+            },
+            "specimen": {
+                "type": "EDTA blood",
+                "collection_date": "11/12/2567 14:19:38",
+                "received_date": "11/12/2567 14:45:04",
+                "access_no": "240082365",
+                "lab_no": "CH-632166/67"
+            },
+            "test_results": {
+                "CBC": [
+                    {
+                        "test_name": "Red Cell Count",
+                        "result": 2.92,
+                        "flag": "L",
+                        "unit": "x10^6/uL",
+                        "reference_range": "3.9 - 5.5"
+                    },
+                    {
+                        "test_name": "Hemoglobin",
+                        "result": 8.9,
+                        "flag": "L",
+                        "unit": "g/dL",
+                        "reference_range": "12.0 - 15.0"
+                    },
+                    {
+                        "test_name": "Hematocrit",
+                        "result": 27.8,
+                        "flag": "L",
+                        "unit": "%",
+                        "reference_range": "36.0 - 45.0"
+                    },
+                    {
+                        "test_name": "MCV",
+                        "result": 95.2,
+                        "flag": null,
+                        "unit": "fL",
+                        "reference_range": "80.0 - 100.0"
+                    },
+                    {
+                        "test_name": "MCH",
+                        "result": 30.5,
+                        "flag": null,
+                        "unit": "pg",
+                        "reference_range": "27.0 - 33.0"
+                    },
+                    {
+                        "test_name": "MCHC",
+                        "result": 32.0,
+                        "flag": "L",
+                        "unit": "g/dL",
+                        "reference_range": "33.0 - 37.0"
+                    },
+                    {
+                        "test_name": "RDW",
+                        "result": 20.3,
+                        "flag": "H",
+                        "unit": "%",
+                        "reference_range": "11.0 - 14.5"
+                    },
+                    {
+                        "test_name": "Platelets Counts",
+                        "result": 287,
+                        "flag": null,
+                        "unit": "x10^3/uL",
+                        "reference_range": "150 - 450"
+                    },
+                    {
+                        "test_name": "MPV",
+                        "result": 9.7,
+                        "flag": null,
+                        "unit": "fL",
+                        "reference_range": "9.2 - 12.0"
+                    },
+                    {
+                        "test_name": "White Cell Count",
+                        "result": 2.85,
+                        "flag": "L",
+                        "unit": "x10^3/uL",
+                        "reference_range": "4.5 - 11.0"
+                    },
+                    {
+                        "test_name": "Neutrophils %",
+                        "result": 59.3,
+                        "flag": null,
+                        "unit": "%",
+                        "reference_range": "40.0 - 70.9"
+                    },
+                    {
+                        "test_name": "Neutrophils #",
+                        "result": 1.69,
+                        "flag": "L",
+                        "unit": "x10^3/uL",
+                        "reference_range": "1.8 - 7.8"
+                    },
+                    {
+                        "test_name": "Lymphocytes %",
+                        "result": 21.4,
+                        "flag": "L",
+                        "unit": "%",
+                        "reference_range": "22.2 - 43.6"
+                    },
+                    {
+                        "test_name": "Lymphocytes #",
+                        "result": 0.61,
+                        "flag": "L",
+                        "unit": "x10^3/uL",
+                        "reference_range": "1.0 - 4.8"
+                    },
+                    {
+                        "test_name": "Monocytes %",
+                        "result": 14.4,
+                        "flag": "H",
+                        "unit": "%",
+                        "reference_range": "0 - 7.3"
+                    },
+                    {
+                        "test_name": "Monocytes #",
+                        "result": 0.41,
+                        "flag": null,
+                        "unit": "x10^3/uL",
+                        "reference_range": "0 - 0.8"
+                    },
+                    {
+                        "test_name": "Eosinophils %",
+                        "result": 4.2,
+                        "flag": "H",
+                        "unit": "%",
+                        "reference_range": "0 - 4.1"
+                    },
+                    {
+                        "test_name": "Eosinophils #",
+                        "result": 0.12,
+                        "flag": null,
+                        "unit": "x10^3/uL",
+                        "reference_range": "0 - 0.45"
+                    },
+                    {
+                        "test_name": "Basophils %",
+                        "result": 0.7,
+                        "flag": null,
+                        "unit": "%",
+                        "reference_range": "0 - 1.8"
+                    }
+                ]
+            },
+            "metadata": {
+                "requested_by": "\u0e28.\u0e14\u0e23.\u0e19\u0e1e.\u0e27\u0e34\u0e42\u0e23\u0e08\u0e19\u0e4c \u0e28\u0e23\u0e35\u0e2d\u0e38\u0e2c\u0e32\u0e23\u0e1e\u0e07\u0e28\u0e4c",
+                "request_date": "27/11/2567 16:30:00",
+                "released_by": "\u0e19\u0e32\u0e22\u0e28\u0e38\u0e20\u0e01\u0e23 \u0e27\u0e07\u0e28\u0e4c\u0e01\u0e33\u0e0a\u0e31\u0e22",
+                "approved_by": "\u0e19.\u0e2a.\u0e2a\u0e38\u0e19\u0e31\u0e25\u0e15\u0e32 \u0e41\u0e19\u0e27\u0e23\u0e31\u0e15\u0e19\u0e4c\u0e42\u0e2a\u0e20\u0e13",
+                "approval_date": "11/12/2567 14:55:08",
+                "notes": "\u0e2b\u0e21\u0e32\u0e22\u0e40\u0e2b\u0e15\u0e38\u0e1c\u0e25\u0e15\u0e23\u0e27\u0e08 *= \u0e1c\u0e34\u0e14\u0e1b\u0e01\u0e15\u0e34 L=\u0e04\u0e48\u0e32 LL=\u0e04\u0e48\u0e32(\u0e27\u0e34\u0e01\u0e24\u0e15), H=\u0e2a\u0e39\u0e07 HH=\u0e2a\u0e39\u0e07(\u0e27\u0e34\u0e01\u0e24\u0e15) 1 = \u0e04\u0e48\u0e32\u0e27\u0e34\u0e01\u0e24\u0e15",
+                "accreditation": "ISO 15189"
+            }
+        },
+        {
+            "department": "CHEMISTRY",
+            "accreditation": "\u0e44\u0e14\u0e49\u0e23\u0e31\u0e1a\u0e01\u0e32\u0e23\u0e23\u0e31\u0e1a\u0e23\u0e2d\u0e07\u0e04\u0e27\u0e32\u0e21\u0e2a\u0e32\u0e21\u0e32\u0e23\u0e16 \u0e2b\u0e49\u0e2d\u0e07\u0e1b\u0e0f\u0e34\u0e1a\u0e31\u0e15\u0e34\u0e01\u0e32\u0e23 ISO 15189",
+            "patient": {
+                "name": "\u0e19\u0e32\u0e07\u0e1b\u0e19\u0e38\u0e0d\u0e0a\u0e32 \u0e40\u0e25\u0e35\u0e22\u0e07\u0e41\u0e08\u0e49\u0e27",
+                "gender": "\u0e2b\u0e0d\u0e34\u0e07",
+                "age": "78 \u0e1b\u0e35",
+                "HN": "12014/66",
+                "AN": "",
+                "referring_unit": "\u0e40\u0e04\u0e21\u0e35\u0e1a\u0e33\u0e1a\u0e31\u0e14 Med Onco \u0e20\u0e39\u0e21\u0e34\u0e2a\u0e34\u0e23\u0e34\u0e2f1C (\u0e19\u0e2d\u0e01\u0e40\u0e27\u0e25\u0e32)"
+            },
+            "specimen": {
+                "type": "Heparinized blood",
+                "collection_date": "27/11/2567 14:22:42",
+                "received_date": "27/11/2567 15:14:11"
+            },
+            "test_results": [
+                {
+                    "test_name": "Creatinine",
+                    "result": "0.77",
+                    "flag": "",
+                    "unit": "mg/dL",
+                    "reference_range": "0.50 - 1.00"
+                },
+                {
+                    "test_name": "Thai eGFR Equation",
+                    "result": "68.33",
+                    "flag": "",
+                    "unit": "mL/min/1.73sqm",
+                    "reference_range": ""
+                },
+                {
+                    "test_name": "eGFR MDRD (Caucasian)",
+                    "result": "72.50",
+                    "flag": "",
+                    "unit": "mL/min/1.73sqm",
+                    "reference_range": ""
+                },
+                {
+                    "test_name": "eGFR CKD-EPI",
+                    "result": "74.19",
+                    "flag": "",
+                    "unit": "mL/min/1.73sqm",
+                    "reference_range": ""
+                },
+                {
+                    "test_name": "Bilirubin (Total)",
+                    "result": "0.40",
+                    "flag": "",
+                    "unit": "mg/dL",
+                    "reference_range": "0.20 - 1.20"
+                },
+                {
+                    "test_name": "Bilirubin (direct)",
+                    "result": "0.15",
+                    "flag": "",
+                    "unit": "mg/dL",
+                    "reference_range": "0.0 - 0.5"
+                },
+                {
+                    "test_name": "AST (SGOT)",
+                    "result": "39",
+                    "flag": "H",
+                    "unit": "U/L",
+                    "reference_range": "5 - 35"
+                },
+                {
+                    "test_name": "ALT (SGPT)",
+                    "result": "23",
+                    "flag": "",
+                    "unit": "U/L",
+                    "reference_range": "0 - 40"
+                },
+                {
+                    "test_name": "Alkaline phosphatase",
+                    "result": "82",
+                    "flag": "",
+                    "unit": "U/L",
+                    "reference_range": "40 - 120"
+                }
+            ],
+            "notes": "\u0e2b\u0e21\u0e32\u0e22\u0e40\u0e2b\u0e15\u0e38\u0e1c\u0e25\u0e15\u0e23\u0e27\u0e08 *= \u0e1c\u0e34\u0e14\u0e1b\u0e01\u0e15\u0e34 L=\u0e15\u0e48\u0e33 LL=\u0e15\u0e48\u0e33(\u0e27\u0e34\u0e01\u0e24\u0e15), H=\u0e2a\u0e39\u0e07 HH=\u0e2a\u0e39\u0e07(\u0e27\u0e34\u0e01\u0e24\u0e15) ! = \u0e04\u0e48\u0e32\u0e27\u0e34\u0e01\u0e24\u0e15\n\u26a0 \u0e01\u0e32\u0e23\u0e17\u0e14\u0e2a\u0e2d\u0e1a\u0e17\u0e35\u0e48\u0e44\u0e21\u0e48\u0e44\u0e14\u0e49\u0e02\u0e2d\u0e07\u0e01\u0e23\u0e31\u0e21\u0e02\u0e2d\u0e07 ISO 15189",
+            "requested_by": "\u0e28.\u0e14\u0e23.\u0e19\u0e1e.\u0e27\u0e34\u0e42\u0e23\u0e08\u0e19\u0e4c \u0e28\u0e23\u0e35\u0e2d\u0e38\u0e17\u0e32\u0e23\u0e1e\u0e07\u0e28\u0e4c",
+            "request_date": "13/11/2567 16:30:00",
+            "released_by": "\u0e19\u0e32\u0e22\u0e18\u0e35\u0e0a\u0e1e\u0e25 \u0e19\u0e31\u0e19\u0e17\u0e02\u0e31\u0e19\u0e18\u0e4c",
+            "approved_by": "\u0e19\u0e32\u0e22\u0e18\u0e35\u0e0a\u0e1e\u0e25 \u0e19\u0e31\u0e19\u0e17\u0e02\u0e31\u0e19\u0e18\u0e4c",
+            "approval_date": "27/11/2567 15:42:42",
+            "accreditation_no": "400647"
+        },
+        {
+            "hematology_report": {
+                "laboratory_info": {
+                    "name": "HEMATOLOGY",
+                    "accreditation": "ISO 15189",
+                    "acc_mra": {
+                        "accreditation_no": "4006/47"
+                    }
+                },
+                "patient_info": {
+                    "name": "\u0e19\u0e32\u0e07\u0e1b\u0e19\u0e38\u0e0f\u0e0a\u0e32 \u0e40\u0e2a\u0e35\u0e22\u0e07\u0e41\u0e08\u0e49\u0e27",
+                    "hn": "12014/66",
+                    "gender": "\u0e2b\u0e0d\u0e34\u0e07",
+                    "age": "78 \u0e1b\u0e35",
+                    "an": null,
+                    "requesting_department": "\u0e40\u0e04\u0e21\u0e35\u0e1a\u0e33\u0e1a\u0e31\u0e14 Med Onco \u0e20\u0e39\u0e21\u0e34\u0e28\u0e34\u0e23\u0e34\u0e2f1C (\u0e19\u0e2d\u0e01\u0e40\u0e27\u0e25\u0e32)"
+                },
+                "specimen_info": {
+                    "access_no": "240082365",
+                    "type": "EDTA blood",
+                    "lab_no": "CH-632166/67",
+                    "collection_date": "11/12/2567 14:19:38",
+                    "received_date": "11/12/2567 14:45:04"
+                },
+                "test_results": {
+                    "basophils": {
+                        "value": 0.02,
+                        "unit": "x10^3/uL",
+                        "reference_range": "0 - 0.2"
+                    },
+                    "nucleated_red_cell_percentage": {
+                        "value": null,
+                        "unit": "/100 WBC",
+                        "reference_range": null,
+                        "note": "Limit of Detection \u0e02\u0e2d\u0e07 nRBC 0.02 x 10^3/uL"
+                    }
+                },
+                "notes": [
+                    "\u0e40\u0e1b\u0e47\u0e19\u0e1c\u0e25\u0e01\u0e32\u0e23\u0e15\u0e23\u0e27\u0e08\u0e27\u0e34\u0e40\u0e04\u0e23\u0e32\u0e30\u0e2b\u0e4c\u0e08\u0e32\u0e01\u0e40\u0e04\u0e23\u0e37\u0e48\u0e2d\u0e07\u0e2d\u0e31\u0e15\u0e42\u0e19\u0e21\u0e31\u0e15\u0e34\u0e17\u0e35\u0e48\u0e21\u0e35 Limit of Detection \u0e02\u0e2d\u0e07 nRBC 0.02 x 10^3/uL",
+                    "\u0e01\u0e23\u0e38\u0e13\u0e32\u0e1e\u0e34\u0e08\u0e32\u0e23\u0e13\u0e32\u0e1c\u0e25\u0e01\u0e32\u0e23\u0e15\u0e23\u0e27\u0e08\u0e27\u0e34\u0e40\u0e04\u0e23\u0e32\u0e30\u0e2b\u0e4c\u0e23\u0e48\u0e27\u0e21\u0e01\u0e31\u0e1a\u0e2d\u0e32\u0e01\u0e32\u0e23\u0e17\u0e32\u0e07\u0e04\u0e25\u0e34\u0e19\u0e34\u0e01",
+                    "\u0e2b\u0e21\u0e32\u0e22\u0e40\u0e2b\u0e15\u0e38\u0e1c\u0e25\u0e15\u0e23\u0e27\u0e08 *= \u0e1c\u0e34\u0e14\u0e1b\u0e01\u0e15\u0e34 L=\u0e15\u0e48\u0e33 LL=\u0e15\u0e48\u0e33(\u0e27\u0e34\u0e01\u0e24\u0e15), H=\u0e2a\u0e39\u0e07 HH=\u0e2a\u0e39\u0e07(\u0e27\u0e34\u0e01\u0e24\u0e15) ! = \u0e04\u0e48\u0e32\u0e27\u0e34\u0e01\u0e24\u0e15"
+                ],
+                "personnel": {
+                    "requested_by": "\u0e1e.\u0e14\u0e23.\u0e19\u0e1e.\u0e27\u0e34\u0e42\u0e23\u0e08\u0e19\u0e4c \u0e28\u0e23\u0e35\u0e2d\u0e38\u0e17\u0e23\u0e32\u0e1e\u0e07\u0e28\u0e4c",
+                    "request_date": "27/11/2567 16:30:00",
+                    "released_by": "\u0e19\u0e32\u0e22\u0e2a\u0e38\u0e20\u0e01\u0e23 \u0e27\u0e07\u0e28\u0e4c\u0e01\u0e33\u0e0a\u0e31\u0e22",
+                    "tracking_system": "TRACK BY LIS",
+                    "approved_by": "\u0e19.\u0e2a.\u0e2a\u0e38\u0e19\u0e31\u0e02\u0e14\u0e33\u0e40\u0e19\u0e32\u0e27\u0e23\u0e31\u0e15\u0e19\u0e4c\u0e42\u0e2a\u0e20\u0e13",
+                    "approval_date": "11/12/2567 14:55:08"
+                },
+                "report_metadata": {
+                    "print_date": "11/12/2567 16:23:14",
+                    "pages": "2 of 2"
+                }
+            }
+        },
+        {
+            "Hematology": {
+                "Eosinophils #": {
+                    "value": 0.03,
+                    "unit": "x10^3 /uL",
+                    "reference_range": "0 - 0.45"
+                },
+                "Basophils %": {
+                    "value": 1.0,
+                    "unit": "%",
+                    "reference_range": "0 - 1.8"
+                },
+                "Basophils #": {
+                    "value": 0.02,
+                    "unit": "x10^3 /uL",
+                    "reference_range": "0 - 0.2"
+                },
+                "Nucleated Red Cell %": {
+                    "value": 2,
+                    "unit": "/100 WBC"
+                },
+                "Nucleated Red Cell #": {
+                    "value": null,
+                    "unit": "x10^3 /uL",
+                    "note": "Not detected"
+                },
+                "Limit of Detection (nRBC)": {
+                    "value": 0.02,
+                    "unit": "x10^3 /uL"
+                }
+            }
+        },
+        {
+            "hospital": "\u0e42\u0e23\u0e07\u0e1e\u0e22\u0e32\u0e1a\u0e32\u0e25\u0e08\u0e38\u0e2c\u0e32\u0e25\u0e07\u0e01\u0e23\u0e13\u0e4c \u0e2a\u0e20\u0e32\u0e01\u0e32\u0e0a\u0e32\u0e14\u0e44\u0e17\u0e22",
+            "address": "1873 \u0e16\u0e19\u0e19\u0e1e\u0e23\u0e30\u0e23\u0e32\u0e21 4 \u0e1b\u0e17\u0e38\u0e21\u0e27\u0e31\u0e19 \u0e01\u0e23\u0e38\u0e07\u0e40\u0e17\u0e1e\u0e2f 10330",
+            "department": "\u0e1d\u0e48\u0e32\u0e22 \u0e40\u0e27\u0e0a\u0e28\u0e32\u0e2a\u0e15\u0e23\u0e4c\u0e08\u0e31\u0e19\u0e2a\u0e39\u0e15\u0e23",
+            "phone": "+66 22564000 ext. 80324-5",
+            "laboratory": "HEMATOLOGY",
+            "accreditation": "\u0e44\u0e14\u0e49\u0e23\u0e31\u0e1a\u0e01\u0e32\u0e23\u0e23\u0e31\u0e1a\u0e23\u0e2d\u0e07\u0e04\u0e27\u0e32\u0e21\u0e2a\u0e32\u0e21\u0e32\u0e23\u0e16 \u0e2b\u0e49\u0e2d\u0e07\u0e1b\u0e0f\u0e34\u0e1a\u0e31\u0e15\u0e34\u0e01\u0e32\u0e23 ISO 15189",
+            "patient": {
+                "name": "\u0e19\u0e32\u0e07\u0e1b\u0e19\u0e0e\u0e0a\u0e32 \u0e40\u0e25\u0e35\u0e22\u0e07\u0e41\u0e08\u0e49\u0e27",
+                "HN": "12014/66",
+                "gender": "\u0e2b\u0e0d\u0e34\u0e07",
+                "age": "78 \u0e1b\u0e35",
+                "AN": "",
+                "referring_unit": "\u0e40\u0e04\u0e21\u0e35\u0e1a\u0e33\u0e1a\u0e31\u0e14 Med Onco \u0e20\u0e39\u0e21\u0e34\u0e28\u0e34\u0e23\u0e34\u0e08\u0e32IC (\u0e19\u0e2d\u0e01\u0e40\u0e27\u0e25\u0e32)"
+            },
+            "specimen": {
+                "type": "EDTA blood",
+                "collection_date": "27/11/2567 14:22:47",
+                "received_date": "27/11/2567 15:13:20"
+            },
+            "test_results": [
+                {
+                    "test_name": "Red Cell Count",
+                    "result": "2.85",
+                    "flag": "L",
+                    "unit": "x10^6 /uL",
+                    "reference_range": "3.9 - 5.5"
+                },
+                {
+                    "test_name": "Hemoglobin",
+                    "result": "8.2",
+                    "flag": "L",
+                    "unit": "g/dL",
+                    "reference_range": "12.0 - 15.0"
+                },
+                {
+                    "test_name": "Hematocrit",
+                    "result": "26.3",
+                    "flag": "L",
+                    "unit": "%",
+                    "reference_range": "36.0 - 45.0"
+                },
+                {
+                    "test_name": "MCV",
+                    "result": "92.3",
+                    "flag": "",
+                    "unit": "fL",
+                    "reference_range": "80.0 - 100.0"
+                },
+                {
+                    "test_name": "MCH",
+                    "result": "28.8",
+                    "flag": "",
+                    "unit": "pg",
+                    "reference_range": "27.0 - 33.0"
+                },
+                {
+                    "test_name": "MCHC",
+                    "result": "31.2",
+                    "flag": "L",
+                    "unit": "g/dL",
+                    "reference_range": "33.0 - 37.0"
+                },
+                {
+                    "test_name": "RDW",
+                    "result": "20.3",
+                    "flag": "H",
+                    "unit": "%",
+                    "reference_range": "11.0 - 14.5"
+                },
+                {
+                    "test_name": "Platelets Counts",
+                    "result": "87",
+                    "flag": "L",
+                    "unit": "x10^3 /uL",
+                    "reference_range": "150 - 450"
+                },
+                {
+                    "test_name": "Platelet on smear",
+                    "result": "decreased",
+                    "flag": "",
+                    "unit": "",
+                    "reference_range": ""
+                },
+                {
+                    "test_name": "MPV",
+                    "result": "10.3",
+                    "flag": "",
+                    "unit": "fL",
+                    "reference_range": "9.2 - 12.0"
+                },
+                {
+                    "test_name": "White Cell Count",
+                    "result": "2.11",
+                    "flag": "L",
+                    "unit": "x10^3 /uL",
+                    "reference_range": "4.5 - 11.0"
+                },
+                {
+                    "test_name": "Neutrophils %",
+                    "result": "50.0",
+                    "flag": "",
+                    "unit": "%",
+                    "reference_range": "40.0 - 70.9"
+                },
+                {
+                    "test_name": "Neutrophils #",
+                    "result": "1.06",
+                    "flag": "L",
+                    "unit": "x10^3 /uL",
+                    "reference_range": "1.8 - 7.8"
+                },
+                {
+                    "test_name": "Lymphocytes %",
+                    "result": "29.0",
+                    "flag": "",
+                    "unit": "%",
+                    "reference_range": "22.2 - 43.6"
+                },
+                {
+                    "test_name": "Lymphocytes #",
+                    "result": "0.61",
+                    "flag": "L",
+                    "unit": "x10^3 /uL",
+                    "reference_range": "1.0 - 4.8"
+                },
+                {
+                    "test_name": "Monocytes %",
+                    "result": "18.6",
+                    "flag": "H",
+                    "unit": "%",
+                    "reference_range": "0 - 7.3"
+                },
+                {
+                    "test_name": "Monocytes #",
+                    "result": "0.39",
+                    "flag": "",
+                    "unit": "x10^3 /uL",
+                    "reference_range": "0 - 0.8"
+                },
+                {
+                    "test_name": "Eosinophils %",
+                    "result": "1.4",
+                    "flag": "",
+                    "unit": "%",
+                    "reference_range": "0 - 4.1"
+                }
+            ],
+            "notes": "\u0e2b\u0e21\u0e32\u0e22\u0e40\u0e2b\u0e15\u0e38\u0e1c\u0e25\u0e15\u0e23\u0e27\u0e08 *= \u0e1c\u0e34\u0e14\u0e1b\u0e01\u0e15\u0e34 L=\u0e15\u0e48\u0e33 LL=\u0e15\u0e48\u0e33(\u0e27\u0e34\u0e01\u0e24\u0e15), H=\u0e2a\u0e39\u0e07 HH=\u0e2a\u0e39\u0e07(\u0e27\u0e34\u0e01\u0e24\u0e15) ! = \u0e04\u0e48\u0e33\u0e27\u0e34\u0e01\u0e24\u0e15",
+            "requested_by": "\u0e28.\u0e14\u0e23.\u0e19\u0e1e.\u0e27\u0e34\u0e42\u0e23\u0e08\u0e19\u0e4c \u0e28\u0e23\u0e35\u0e2d\u0e38\u0e2c\u0e32\u0e23\u0e1e\u0e07\u0e28\u0e4c",
+            "request_date": "13/11/2567 16:30:00",
+            "released_by": "\u0e19.\u0e2a.\u0e25\u0e31\u0e01\u0e21\u0e13 \u0e40\u0e17\u0e34\u0e1e\u0e22\u0e4c\u0e2a\u0e38\u0e23\u0e34\u0e22\u0e30",
+            "approved_by": "\u0e19.\u0e2a.\u0e27\u0e23\u0e32\u0e18\u0e31\u0e15\u0e19\u0e4c \u0e21\u0e32\u0e2a\u0e30\u0e41\u0e25\u0e30",
+            "approval_date": "27/11/2567 15:55:34"
+        }
+    ],
+    [
+        {
+            "CBC": {
+                "Red Cell Count": {
+                    "value": 2.92,
+                    "unit": "x10^6 /uL",
+                    "flag": "L",
+                    "reference_range": "3.9 - 5.5"
+                },
+                "Hemoglobin": {
+                    "value": 8.9,
+                    "unit": "g/dL",
+                    "flag": "L",
+                    "reference_range": "12.0 - 15.0"
+                },
+                "Hematocrit": {
+                    "value": 27.8,
+                    "unit": "%",
+                    "flag": "L",
+                    "reference_range": "36.0 - 45.0"
+                },
+                "MCV": {
+                    "value": 95.2,
+                    "unit": "fL",
+                    "reference_range": "80.0 - 100.0"
+                },
+                "MCH": {
+                    "value": 30.5,
+                    "unit": "pg",
+                    "reference_range": "27.0 - 33.0"
+                },
+                "MCHC": {
+                    "value": 32.0,
+                    "unit": "g/dL",
+                    "flag": "L",
+                    "reference_range": "33.0 - 37.0"
+                },
+                "RDW": {
+                    "value": 20.3,
+                    "unit": "%",
+                    "flag": "H",
+                    "reference_range": "11.0 - 14.5"
+                },
+                "Platelets Count": {
+                    "value": 287,
+                    "unit": "x10^3 /uL",
+                    "reference_range": "150 - 450"
+                },
+                "MPV": {
+                    "value": 9.7,
+                    "unit": "fL",
+                    "reference_range": "9.2 - 12.0"
+                },
+                "White Cell Count": {
+                    "value": 2.85,
+                    "unit": "x10^3 /uL",
+                    "flag": "L",
+                    "reference_range": "4.5 - 11.0"
+                },
+                "Neutrophils %": {
+                    "value": 59.3,
+                    "unit": "%",
+                    "reference_range": "40.0 - 70.9"
+                },
+                "Neutrophils #": {
+                    "value": 1.69,
+                    "unit": "x10^3 /uL",
+                    "flag": "L",
+                    "reference_range": "1.8 - 7.8"
+                },
+                "Lymphocytes %": {
+                    "value": 21.4,
+                    "unit": "%",
+                    "flag": "L",
+                    "reference_range": "22.2 - 43.6"
+                },
+                "Lymphocytes #": {
+                    "value": 0.61,
+                    "unit": "x10^3 /uL",
+                    "flag": "L",
+                    "reference_range": "1.0 - 4.8"
+                }
+            }
+        },
+        {
+            "Test Name": "Creatinine",
+            "Result": "0.97",
+            "Unit": "mg/dL",
+            "Flag": "",
+            "Reference Range": "0.50 \u2013 1.00"
+        },
+        {
+            "Test Name": "Thai eGFR Equation",
+            "Result": "56.18",
+            "Unit": "mL/min/1.73sqm",
+            "Flag": "",
+            "Reference Range": ""
+        },
+        {
+            "Test Name": "eGFR MDRD (Caucasian)",
+            "Result": "55.54",
+            "Unit": "mL/min/1.73sqm",
+            "Flag": "",
+            "Reference Range": ""
+        },
+        {
+            "Test Name": "eGFR CKD-EPI",
+            "Result": "46.12",
+            "Unit": "mL/min/1.73sqm",
+            "Flag": "",
+            "Reference Range": ""
+        },
+        {
+            "Test Name": "Bilirubin (Total)",
+            "Result": "0.48",
+            "Unit": "mg/dL",
+            "Flag": "",
+            "Reference Range": "0.20 \u2013 1.20"
+        },
+        {
+            "Test Name": "Bilirubin (Direct)",
+            "Result": "0.15",
+            "Unit": "mg/dL",
+            "Flag": "",
+            "Reference Range": "0.0 \u2013 0.5"
+        },
+        {
+            "Test Name": "AST (SGOT)",
+            "Result": "36",
+            "Unit": "U/L",
+            "Flag": "H",
+            "Reference Range": "5 \u2013 34"
+        },
+        {
+            "Test Name": "ALT (SGPT)",
+            "Result": "24",
+            "Unit": "U/L",
+            "Flag": "",
+            "Reference Range": "0 \u2013 55"
+        },
+        {
+            "Test Name": "Alkaline Phosphatase",
+            "Result": "95",
+            "Unit": "U/L",
+            "Flag": "",
+            "Reference Range": "40 \u2013 120"
+        },
+        {
+            "patient_information": {
+                "name": "\u0e19\u0e32\u0e07\u0e1b\u0e19\u0e0e\u0e17\u0e32 \u0e40\u0e2a\u0e35\u0e22\u0e07\u0e41\u0e08\u0e49\u0e27",
+                "hn": "12014/66",
+                "an": null,
+                "gender": "\u0e2b\u0e0d\u0e34\u0e07",
+                "age": 78,
+                "age_unit": "\u0e1b\u0e35"
+            },
+            "sample_information": {
+                "type": "Clotted blood",
+                "requesting_department": "\u0e42\u0e04\u0e23\u0e07\u0e01\u0e32\u0e23\u0e21\u0e30\u0e40\u0e23\u0e47\u0e07\u0e04\u0e23\u0e1a\u0e27\u0e07\u0e08\u0e23 \u0e23\u0e31\u0e07\u0e2a\u0e35\u0e23\u0e31\u0e01\u0e29\u0e32",
+                "sample_id": "250258859",
+                "collection_date": "08/01/2568 14:03:44",
+                "received_date": "08/01/2568 14:03:44",
+                "lab_number": "HL-4836/68",
+                "accreditation_number": "4299/65"
+            },
+            "test_results": [
+                {
+                    "test_item": "CEA",
+                    "result": 9.01,
+                    "flag": "H",
+                    "unit": "ng/mL",
+                    "reference_range": "0-5"
+                }
+            ],
+            "personnel": {
+                "requested_by": "\u0e04.\u0e14\u0e23.\u0e19\u0e1e.\u0e27\u0e34\u0e42\u0e23\u0e08\u0e19\u0e35 \u0e28\u0e23\u0e35\u0e2d\u0e38\u0e17\u0e32\u0e23\u0e1e\u0e07\u0e28\u0e4c",
+                "reported_by": "\u0e19.\u0e2a.\u0e1b\u0e32\u0e23\u0e34\u0e09\u0e31\u0e15\u0e23 \u0e2d\u0e37\u0e48\u0e19\u0e19\u0e49\u0e2d\u0e22",
+                "approved_by": "\u0e19.\u0e2a.\u0e1b\u0e32\u0e23\u0e34\u0e09\u0e31\u0e15\u0e23 \u0e2d\u0e37\u0e48\u0e19\u0e19\u0e49\u0e2d\u0e22"
+            },
+            "dates": {
+                "request_date": "08/01/2568 14:03:44",
+                "report_date": "08/01/2568 16:15:13",
+                "approved_date": "08/01/2568 16:16:41"
+            },
+            "notes": {
+                "flags": {
+                    "*": "\u0e16\u0e37\u0e2d\u0e1b\u0e01\u0e15\u0e34",
+                    "L": "\u0e15\u0e48\u0e33",
+                    "LL": "\u0e15\u0e48\u0e33(\u0e27\u0e34\u0e01\u0e24\u0e15)",
+                    "U,H": "\u0e2a\u0e39\u0e07",
+                    "HH": "\u0e2a\u0e39\u0e07(\u0e27\u0e34\u0e01\u0e24\u0e15)",
+                    "I": "\u0e04\u0e48\u0e33\u0e27\u0e34\u0e01\u0e24\u0e15"
+                },
+                "accreditation_note": "\u0e01\u0e32\u0e23\u0e17\u0e14\u0e2a\u0e2d\u0e1a\u0e17\u0e35\u0e48\u0e44\u0e21\u0e48\u0e44\u0e14\u0e49\u0e02\u0e2d\u0e01\u0e32\u0e23\u0e23\u0e31\u0e1a\u0e23\u0e2d\u0e07 ISO 15189 Accreditation No.4299/65 (\u0e40\u0e09\u0e1e\u0e32\u0e30\u0e2b\u0e49\u0e2d\u0e07\u0e1b\u0e0f\u0e34\u0e1a\u0e31\u0e15\u0e34\u0e01\u0e32\u0e23\u0e17\u0e35\u0e48\u0e1c\u0e48\u0e32\u0e19\u0e01\u0e32\u0e23\u0e23\u0e31\u0e1a\u0e23\u0e2d\u0e07\u0e04\u0e27\u0e32\u0e21\u0e2a\u0e32\u0e21\u0e32\u0e23\u0e16\u0e41\u0e25\u0e49\u0e27)"
+            },
+            "metadata": {
+                "institution": "\u0e28\u0e39\u0e19\u0e22\u0e4c\u0e2b\u0e49\u0e2d\u0e07\u0e1b\u0e0f\u0e34\u0e1a\u0e31\u0e15\u0e34\u0e01\u0e32\u0e23\u0e17\u0e32\u0e07\u0e01\u0e32\u0e23\u0e41\u0e1e\u0e17\u0e22\u0e4c \u0e04\u0e13\u0e30\u0e41\u0e1e\u0e17\u0e22\u0e28\u0e32\u0e2a\u0e15\u0e23\u0e4c \u0e08\u0e38\u0e2c\u0e32\u0e25\u0e07\u0e01\u0e23\u0e13\u0e4c\u0e21\u0e2b\u0e32\u0e27\u0e34\u0e17\u0e22\u0e32\u0e25\u0e31\u0e22",
+                "hospital": "\u0e42\u0e23\u0e07\u0e1e\u0e22\u0e32\u0e1a\u0e32\u0e25\u0e08\u0e38\u0e2c\u0e32\u0e25\u0e07\u0e01\u0e23\u0e13\u0e4c \u0e2a\u0e20\u0e32\u0e01\u0e32\u0e0a\u0e32\u0e14\u0e44\u0e17\u0e22",
+                "contact": "02-256-4000 \u0e15\u0e48\u0e2d 3609",
+                "print_date": "08/01/2568 16:18:02",
+                "document_reference": "F-WI-CMDL-AC-007/06 Ver.2"
+            }
+        },
+        {
+            "Test Name": "Red Cell Count",
+            "Result": "2.47",
+            "Unit": "x10\u2076 /\u00b5L",
+            "Flag": "L",
+            "Reference Range": "3.9 \u2013 5.5"
+        },
+        {
+            "Test Name": "Hemoglobin",
+            "Result": "9.1",
+            "Unit": "g/dL",
+            "Flag": "L",
+            "Reference Range": "12.0 \u2013 15.0"
+        },
+        {
+            "Test Name": "Hematocrit",
+            "Result": "20.1",
+            "Unit": "%",
+            "Flag": "L",
+            "Reference Range": "36.0 \u2013 45.0"
+        },
+        {
+            "Test Name": "MCV",
+            "Result": "98.0",
+            "Unit": "fL",
+            "Flag": "",
+            "Reference Range": "80.0 \u2013 100.0"
+        },
+        {
+            "Test Name": "MCH",
+            "Result": "30.6",
+            "Unit": "pg",
+            "Flag": "",
+            "Reference Range": "27.0 \u2013 33.0"
+        },
+        {
+            "Test Name": "MCHC",
+            "Result": "31.4",
+            "Unit": "g/dL",
+            "Flag": "L",
+            "Reference Range": "33.0 \u2013 37.0"
+        },
+        {
+            "Test Name": "RDW",
+            "Result": "19.4",
+            "Unit": "%",
+            "Flag": "H",
+            "Reference Range": "11.0 \u2013 14.5"
+        },
+        {
+            "Test Name": "Platelet Count",
+            "Result": "250",
+            "Unit": "x10\u00b3 /\u00b5L",
+            "Flag": "",
+            "Reference Range": "150 \u2013 450"
+        },
+        {
+            "Test Name": "MPV",
+            "Result": "0.6",
+            "Unit": "fL",
+            "Flag": "",
+            "Reference Range": "9.2 \u2013 12.0"
+        },
+        {
+            "Test Name": "White Cell Count",
+            "Result": "6.08",
+            "Unit": "x10\u00b3 /\u00b5L",
+            "Flag": "",
+            "Reference Range": "4.5 \u2013 11.0"
+        },
+        {
+            "Test Name": "Neutrophils %",
+            "Result": "73.5",
+            "Unit": "%",
+            "Flag": "H",
+            "Reference Range": "40.0 \u2013 70.0"
+        },
+        {
+            "Test Name": "Neutrophils #",
+            "Result": "4.47",
+            "Unit": "x10\u00b3 /\u00b5L",
+            "Flag": "",
+            "Reference Range": "1.8 \u2013 7.8"
+        },
+        {
+            "Test Name": "Lymphocytes %",
+            "Result": "15.1",
+            "Unit": "%",
+            "Flag": "L",
+            "Reference Range": "22.2 \u2013 43.6"
+        },
+        {
+            "Test Name": "Lymphocytes #",
+            "Result": "0.92",
+            "Unit": "x10\u00b3 /\u00b5L",
+            "Flag": "L",
+            "Reference Range": "1.0 \u2013 4.8"
+        },
+        {
+            "Test Name": "Monocytes %",
+            "Result": "9.4",
+            "Unit": "%",
+            "Flag": "H",
+            "Reference Range": "0.0 \u2013 7.3"
+        },
+        {
+            "Test Name": "Monocytes #",
+            "Result": "0.57",
+            "Unit": "x10\u00b3 /\u00b5L",
+            "Flag": "",
+            "Reference Range": "0.2 \u2013 0.8"
+        },
+        {
+            "Test Name": "Eosinophils %",
+            "Result": "1.0",
+            "Unit": "%",
+            "Flag": "",
+            "Reference Range": "0.0 \u2013 4.1"
+        },
+        {
+            "Test Name": "Eosinophils #",
+            "Result": "0.09",
+            "Unit": "x10\u00b3 /\u00b5L",
+            "Flag": "",
+            "Reference Range": "0.0 \u2013 0.45"
+        },
+        {
+            "Test Name": "Basophils %",
+            "Result": "0.5",
+            "Unit": "%",
+            "Flag": "",
+            "Reference Range": "0.0 \u2013 1.8"
+        }
+    ],
+    [
+        {
+            "hospital": {
+                "name": "\u0e42\u0e23\u0e07\u0e1e\u0e22\u0e32\u0e1a\u0e32\u0e25\u0e08\u0e38\u0e2c\u0e32\u0e25\u0e07\u0e01\u0e23\u0e13\u0e4c \u0e2a\u0e20\u0e32\u0e01\u0e32\u0e0a\u0e32\u0e14\u0e44\u0e17\u0e22",
+                "english_name": "King Chulalongkorn Memorial Hospital"
+            },
+            "report_info": {
+                "print_date": "24/04/2567 17:57:01",
+                "department": "\u0e1d\u0e48\u0e32\u0e22 \u0e40\u0e27\u0e0a\u0e28\u0e32\u0e2a\u0e15\u0e23\u0e4c\u0e02\u0e31\u0e19\u0e2a\u0e39\u0e15\u0e23",
+                "page": "page 2 of 2",
+                "accreditation": "\u0e2b\u0e49\u0e2d\u0e07\u0e1b\u0e0f\u0e34\u0e1a\u0e31\u0e15\u0e34\u0e01\u0e32\u0e23 ISO 15189",
+                "accreditation_no": "4006/47"
+            },
+            "patient": {
+                "name": "\u0e19\u0e32\u0e07\u0e1b\u0e19\u0e39\u0e2a\u0e38\u0e0a\u0e32 \u0e40\u0e2a\u0e35\u0e22\u0e07\u0e41\u0e08\u0e49\u0e27",
+                "HN": "12014/66",
+                "gender": "\u0e2b\u0e0d\u0e34\u0e07",
+                "age": "78 \u0e1b\u0e35",
+                "department": "F/U Med Onco \u0e20\u0e39\u0e21\u0e34\u0e2a\u0e34\u0e23\u0e34\u0e2f 1 (\u0e19\u0e2d\u0e01\u0e40\u0e27\u0e25\u0e32)",
+                "access_no": "246539461",
+                "lab_no": "CH-183520/67",
+                "specimen": "EDTA blood",
+                "collection_date": "24/04/2567 14:13:15",
+                "received_date": "24/04/2567 13:44:27"
+            },
+            "tests": [
+                {
+                    "test": "Nucleated Red Cell %",
+                    "result": "--",
+                    "unit": "/ 100 WBC",
+                    "note": "\u0e40\u0e1b\u0e47\u0e19\u0e1c\u0e25\u0e01\u0e32\u0e23\u0e15\u0e23\u0e27\u0e08\u0e27\u0e34\u0e40\u0e04\u0e23\u0e32\u0e30\u0e2b\u0e4c\u0e08\u0e32\u0e01\u0e40\u0e04\u0e23\u0e37\u0e48\u0e2d\u0e07\u0e2d\u0e31\u0e15\u0e42\u0e19\u0e21\u0e31\u0e15\u0e34\u0e17\u0e35\u0e48\u0e21\u0e35 Limit of Detection \u0e02\u0e2d\u0e07 nRBC 0.02 x 10^3/uL \u0e01\u0e23\u0e38\u0e13\u0e32\u0e1e\u0e34\u0e08\u0e32\u0e19\u0e32\u0e1c\u0e25\u0e01\u0e32\u0e23\u0e15\u0e23\u0e27\u0e08\u0e27\u0e34\u0e40\u0e04\u0e23\u0e32\u0e30\u0e2b\u0e4c\u0e23\u0e48\u0e27\u0e21\u0e01\u0e31\u0e1a\u0e2d\u0e32\u0e01\u0e32\u0e23\u0e17\u0e32\u0e07\u0e04\u0e25\u0e34\u0e19\u0e34\u0e01"
+                },
+                {
+                    "test": "Nucleated Red Cell #",
+                    "result": "--",
+                    "unit": "x10^3/uL",
+                    "note": "\u0e40\u0e1b\u0e47\u0e19\u0e1c\u0e25\u0e01\u0e32\u0e23\u0e15\u0e23\u0e27\u0e08\u0e27\u0e34\u0e40\u0e04\u0e23\u0e32\u0e30\u0e2b\u0e4c\u0e08\u0e32\u0e01\u0e40\u0e04\u0e23\u0e37\u0e48\u0e2d\u0e07\u0e2d\u0e31\u0e15\u0e42\u0e19\u0e21\u0e31\u0e15\u0e34\u0e17\u0e35\u0e48\u0e21\u0e35 Limit of Detection \u0e02\u0e2d\u0e07 nRBC 0.02 x 10^3/uL \u0e01\u0e23\u0e38\u0e13\u0e32\u0e1e\u0e34\u0e08\u0e32\u0e19\u0e32\u0e1c\u0e25\u0e01\u0e32\u0e23\u0e15\u0e23\u0e27\u0e08\u0e27\u0e34\u0e40\u0e04\u0e23\u0e32\u0e30\u0e2b\u0e4c\u0e23\u0e48\u0e27\u0e21\u0e01\u0e31\u0e1a\u0e2d\u0e32\u0e01\u0e32\u0e23\u0e17\u0e32\u0e07\u0e04\u0e25\u0e34\u0e19\u0e34\u0e01"
+                }
+            ],
+            "medical_staff": {
+                "requested_by": "\u0e23\u0e28.\u0e14\u0e23.\u0e19\u0e1e.\u0e27\u0e34\u0e42\u0e23\u0e08\u0e19\u0e4c \u0e28\u0e23\u0e35\u0e2d\u0e38\u0e2c\u0e32\u0e23",
+                "request_date": "24/04/2567 13:44:27",
+                "reported_by": "\u0e19.\u0e2a.\u0e27\u0e23\u0e32\u0e23\u0e31\u0e15\u0e19\u0e4c \u0e21\u0e32\u0e2a\u0e30\u0e41\u0e25\u0e30",
+                "report_date": "24/04/2567 14:13:18",
+                "approved_by": "\u0e19.\u0e2a.\u0e27\u0e23\u0e32\u0e23\u0e31\u0e15\u0e19\u0e4c \u0e21\u0e32\u0e2a\u0e30\u0e41\u0e25\u0e30",
+                "approval_date": "24/04/2567 14:22:33"
+            },
+            "notes": "\u0e2b\u0e21\u0e32\u0e22\u0e40\u0e2b\u0e15\u0e38\u0e1c\u0e25\u0e15\u0e23\u0e27\u0e08 *= \u0e1c\u0e34\u0e14\u0e1b\u0e01\u0e15\u0e34 L=\u0e15\u0e48\u0e33 LL=\u0e15\u0e48\u0e33(\u0e27\u0e34\u0e01\u0e24\u0e15) U,H=\u0e2a\u0e39\u0e07 HH=\u0e2a\u0e39\u0e07(\u0e27\u0e34\u0e01\u0e24\u0e15) = \u0e04\u0e48\u0e33\u0e27\u0e34\u0e01\u0e24\u0e15"
+        },
+        {
+            "Access No": "246539460",
+            "Lab No": "CC-243169/67",
+            "Specimen": "Heparinized blood",
+            "Collection Date": "24/04/2567 14:13:34",
+            "Report Date": "24/04/2567 13:44:23",
+            "Tests": [
+                {
+                    "Name": "Creatinine",
+                    "Value": "0.96",
+                    "Unit": "mg/dL",
+                    "Reference Range": "0.50 - 1.00"
+                },
+                {
+                    "Name": "eGFR Thai Equation",
+                    "Value": "56.68",
+                    "Unit": "mL/min/1.73m^2"
+                },
+                {
+                    "Name": "eGFR MDRD (Caucasian)",
+                    "Value": "56.21",
+                    "Unit": "mL/min/1.73m^2"
+                },
+                {
+                    "Name": "eGFR CKD-EPI",
+                    "Value": "56.83",
+                    "Unit": "mL/min/1.73m^2"
+                },
+                {
+                    "Name": "Bilirubin (Total)",
+                    "Value": "0.77",
+                    "Unit": "mg/dL",
+                    "Reference Range": "0.20 - 1.20"
+                },
+                {
+                    "Name": "Bilirubin (Direct)",
+                    "Value": "0.28",
+                    "Unit": "mg/dL",
+                    "Reference Range": "0.00 - 0.50"
+                },
+                {
+                    "Name": "AST (SGOT)",
+                    "Value": "53 H",
+                    "Unit": "U/L",
+                    "Reference Range": "5 - 35"
+                },
+                {
+                    "Name": "ALT (SGPT)",
+                    "Value": "30",
+                    "Unit": "U/L",
+                    "Reference Range": "0 - 40"
+                },
+                {
+                    "Name": "Alkaline Phosphatase",
+                    "Value": "131 H",
+                    "Unit": "U/L",
+                    "Reference Range": "40 - 120"
+                }
+            ]
+        },
+        {
+            "hospital": {
+                "name": "\u0e42\u0e23\u0e07\u0e1e\u0e22\u0e32\u0e1a\u0e32\u0e25\u0e08\u0e38\u0e2c\u0e32\u0e25\u0e07\u0e01\u0e23\u0e13\u0e4c \u0e2a\u0e20\u0e32\u0e01\u0e32\u0e0a\u0e32\u0e14\u0e44\u0e17\u0e22",
+                "english_name": "King Chulalongkorn Memorial Hospital"
+            },
+            "report_info": {
+                "print_date": "24/04/2567 17:57:03",
+                "department": "\u0e1d\u0e48\u0e32\u0e22 \u0e40\u0e27\u0e0a\u0e28\u0e32\u0e2a\u0e15\u0e23\u0e4c\u0e0a\u0e31\u0e19\u0e2a\u0e39\u0e15\u0e23",
+                "page": "page 1 of 1",
+                "accreditation": "\u0e2b\u0e49\u0e2d\u0e07\u0e1b\u0e0f\u0e34\u0e1a\u0e31\u0e15\u0e34\u0e01\u0e32\u0e23 ISO 15189",
+                "accreditation_no": "4006/47"
+            },
+            "patient": {
+                "name": "\u0e19\u0e32\u0e07\u0e1b\u0e19\u0e39\u0e20\u0e39\u0e0a\u0e32 \u0e40\u0e25\u0e35\u0e22\u0e07\u0e41\u0e08\u0e49\u0e27",
+                "HN": "12014/66",
+                "gender": "\u0e2b\u0e0d\u0e34\u0e07",
+                "age": "78 \u0e1b\u0e35",
+                "department": "F/J Med Onco \u0e20\u0e39\u0e21\u0e34\u0e2a\u0e34\u0e23\u0e34*1 (\u0e19\u0e2d\u0e01\u0e40\u0e27\u0e25\u0e32)",
+                "access_no": "246539460",
+                "lab_no": "CC-243169/67",
+                "specimen": "Heparinized blood",
+                "collection_date": "24/04/2567 14:13:34",
+                "received_date": "24/04/2567 13:44:23"
+            },
+            "tests": {
+                "chemistry": [
+                    {
+                        "category": "Creatinine",
+                        "tests": [
+                            {
+                                "test": "Creatinine",
+                                "result": 0.96,
+                                "unit": "mg/dL",
+                                "reference_range": "0.50 - 1.00"
+                            },
+                            {
+                                "test": "Thai eGFR Equation",
+                                "result": 56.68,
+                                "unit": "mL/min/1.73m^2"
+                            },
+                            {
+                                "test": "eGFR MDRD (Caucasian)",
+                                "result": 56.21,
+                                "unit": "mL/min/1.73m^2"
+                            },
+                            {
+                                "test": "eGFR CKD-EPI",
+                                "result": 56.83,
+                                "unit": "mL/min/1.73m^2"
+                            }
+                        ]
+                    },
+                    {
+                        "test": "Bilirubin (Total)",
+                        "result": 0.77,
+                        "unit": "mg/dL",
+                        "reference_range": "0.20 - 1.20"
+                    },
+                    {
+                        "test": "Bilirubin (direct)",
+                        "result": 0.28,
+                        "unit": "mg/dL",
+                        "reference_range": "0.00 - 0.50"
+                    },
+                    {
+                        "test": "AST (SGOT)",
+                        "result": 53,
+                        "flag": "H",
+                        "unit": "U/L",
+                        "reference_range": "5 - 35"
+                    },
+                    {
+                        "test": "ALT (SGPT)",
+                        "result": 30,
+                        "unit": "U/L",
+                        "reference_range": "0 - 40"
+                    },
+                    {
+                        "test": "Alkaline phosphatase",
+                        "result": 131,
+                        "flag": "H",
+                        "unit": "U/L",
+                        "reference_range": "40 - 120"
+                    }
+                ]
+            },
+            "eGFR_info": {
+                "description": "eGER(estimated Glomerular Filtration Rate) \u0e40\u0e1b\u0e47\u0e19\u0e27\u0e34\u0e18\u0e35\u0e01\u0e32\u0e23\u0e04\u0e4d\u0e32\u0e19\u0e27\u0e13\u0e15\u0e31\u0e14\u0e23\u0e32\u0e04\u0e32\u0e23\u0e25\u0e32\u0e08\u0e07\u0e02\u0e2d\u0e07\u0e40\u0e2a\u0e35\u0e22\u0e0a\u0e35\u0e27\u0e34\u0e15 (GFR) \u0e08\u0e32\u0e01\u0e04\u0e48\u0e32 creatinine \u0e43\u0e19\u0e40\u0e25\u0e37\u0e2d\u0e14",
+                "reference": {
+                    "source": "KDOQI clinical practice guidelines for chronic kidney disease",
+                    "stages": [
+                        {
+                            "stage": "CKD Stage1",
+                            "description": "eGFR \u2265 90 mL/min/1.73 m^2 \u0e23\u0e48\u0e27\u0e21\u0e01\u0e31\u0e1a proteinuria,albuminuria,hematuria \u0e2b\u0e23\u0e37\u0e2d\u0e04\u0e32\u0e22\u0e27\u0e34\u0e20\u0e32\u0e04\u0e43\u0e15\u0e01\u0e47\u0e14\u0e1b\u0e01\u0e15\u0e34"
+                        },
+                        {
+                            "stage": "CKD Stage2",
+                            "description": "eGFR = 60-89 mL/min/1.73 m^2 \u0e23\u0e48\u0e27\u0e21\u0e01\u0e31\u0e1a proteinuria,albuminuria,hematuria \u0e2b\u0e23\u0e37\u0e2d\u0e04\u0e32\u0e22\u0e27\u0e34\u0e20\u0e32\u0e04\u0e43\u0e15\u0e01\u0e47\u0e14\u0e1b\u0e01\u0e15\u0e34"
+                        },
+                        {
+                            "stage": "CKD Stage3",
+                            "description": "eGFR = 30-59 mL/min/1.73 m^2 \u0e23\u0e48\u0e27\u0e21\u0e01\u0e31\u0e1a proteinuria,albuminuria,hematuria \u0e2b\u0e23\u0e37\u0e2d\u0e04\u0e32\u0e22\u0e27\u0e34\u0e20\u0e32\u0e04\u0e43\u0e15\u0e01\u0e47\u0e14\u0e1b\u0e01\u0e15\u0e34"
+                        },
+                        {
+                            "stage": "CKD Stage4",
+                            "description": "eGFR = 15-29 mL/min/1.73 m^2"
+                        },
+                        {
+                            "stage": "CKD Stage5",
+                            "description": "eGFR < 15 mL/min/1.73 m^2"
+                        }
+                    ]
+                },
+                "note": "Incalculable = \u0e44\u0e21\u0e48\u0e2a\u0e32\u0e21\u0e32\u0e23\u0e16\u0e04\u0e4d\u0e32\u0e19\u0e27\u0e13\u0e44\u0e14\u0e49 \u0e40\u0e19\u0e37\u0e48\u0e2d\u0e07\u0e08\u0e32\u0e01\u0e02\u0e32\u0e14\u0e02\u0e49\u0e2d\u0e21\u0e2d\u0e1a\u0e27\u0e07\u0e04\u0e48\u0e32\u0e17\u0e35\u0e48\u0e43\u0e0a\u0e49\u0e01\u0e32\u0e23\u0e04\u0e4d\u0e32\u0e19\u0e27\u0e13",
+                "contact": "\u0e15\u0e49\u0e2d\u0e07\u0e01\u0e32\u0e23\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25\u0e40\u0e1e\u0e34\u0e48\u0e21\u0e40\u0e15\u0e34\u0e21\u0e42\u0e1b\u0e23\u0e14\u0e15\u0e34\u0e14\u0e15\u0e48\u0e2d 02-2564251 \u0e15\u0e48\u0e2d 222"
+            },
+            "medical_staff": {
+                "requested_by": "\u0e23\u0e28.\u0e14\u0e23.\u0e19\u0e1e.\u0e27\u0e34\u0e42\u0e23\u0e08\u0e19\u0e4c \u0e28\u0e23\u0e35\u0e2d\u0e38\u0e2c\u0e32\u0e23",
+                "request_date": "24/04/2567 13:44:23",
+                "reported_by": "\u0e19.\u0e2a.\u0e21\u0e31\u0e25\u0e25\u0e34\u0e01\u0e32 \u0e08\u0e32\u0e23\u0e38\u0e2d\u0e32\u0e23\u0e22\u0e19\u0e31\u0e19\u0e17\u0e4c",
+                "report_date": "24/04/2567 14:13:36",
+                "approved_by": "\u0e19.\u0e2a.\u0e21\u0e31\u0e25\u0e25\u0e34\u0e01\u0e32 \u0e08\u0e32\u0e23\u0e38\u0e2d\u0e32\u0e23\u0e22\u0e19\u0e31\u0e19\u0e17\u0e4c",
+                "approval_date": "24/04/2567 14:41:12"
+            },
+            "notes": "\u0e2b\u0e21\u0e32\u0e22\u0e40\u0e2b\u0e15\u0e38\u0e1c\u0e25\u0e15\u0e23\u0e27\u0e08 *= \u0e1c\u0e34\u0e14\u0e1b\u0e01\u0e15\u0e34 L=\u0e15\u0e48\u0e4d\u0e32 LL=\u0e15\u0e48\u0e4d\u0e32(\u0e27\u0e34\u0e01\u0e24\u0e15) U,H=\u0e2a\u0e39\u0e07 HH=\u0e2a\u0e39\u0e07(\u0e27\u0e34\u0e01\u0e24\u0e15) = \u0e04\u0e48\u0e32\u0e27\u0e34\u0e01\u0e24\u0e15"
+        },
+        {
+            "hospital": {
+                "name": "\u0e42\u0e23\u0e07\u0e1e\u0e22\u0e32\u0e1a\u0e32\u0e25\u0e08\u0e38\u0e2c\u0e32\u0e25\u0e07\u0e01\u0e23\u0e13\u0e4c \u0e2a\u0e20\u0e32\u0e01\u0e32\u0e23\u0e02\u0e32\u0e44\u0e17\u0e22",
+                "english_name": "King Chulalongkorn Memorial Hospital"
+            },
+            "report_info": {
+                "print_date": "24/04/2567 17:57:01",
+                "department": "\u0e1d\u0e48\u0e32\u0e22 \u0e40\u0e27\u0e0a\u0e28\u0e32\u0e2a\u0e15\u0e23\u0e4c\u0e0a\u0e31\u0e19\u0e2a\u0e39\u0e15\u0e23",
+                "page": "page 1 of 2",
+                "accreditation": "\u0e2b\u0e49\u0e2d\u0e07\u0e1b\u0e0f\u0e34\u0e1a\u0e31\u0e15\u0e34\u0e01\u0e32\u0e23 ISO 15189",
+                "accreditation_no": "4006/47"
+            },
+            "patient": {
+                "name": "\u0e19\u0e32\u0e07\u0e1b\u0e19\u0e0e\u0e23\u0e32 \u0e40\u0e2a\u0e35\u0e22\u0e07\u0e41\u0e08\u0e49\u0e27",
+                "HN": "12014/66",
+                "gender": "\u0e2b\u0e0d\u0e34\u0e07",
+                "age": "78 \u0e1b\u0e35",
+                "department": "F/U Med Onco \u0e20\u0e39\u0e21\u0e34\u0e2a\u0e34\u0e23\u0e34\u0e0b\u0e32 (\u0e19\u0e2d\u0e01\u0e40\u0e27\u0e25\u0e32)",
+                "access_no": "246539461",
+                "lab_no": "CH-183520/67",
+                "specimen": "EDTA blood",
+                "collection_date": "24/04/2567 14:13:15",
+                "received_date": "24/04/2567 13:44:27"
+            },
+            "tests": {
+                "CBC": [
+                    {
+                        "test": "Red Cell Count",
+                        "result": 3.71,
+                        "flag": "L",
+                        "unit": "x10^6/uL",
+                        "reference_range": "3.9 - 5.5"
+                    },
+                    {
+                        "test": "Hemoglobin",
+                        "result": 10.1,
+                        "flag": "L",
+                        "unit": "g/dL",
+                        "reference_range": "12.0 - 15.0"
+                    },
+                    {
+                        "test": "Hematocrit",
+                        "result": 32.8,
+                        "flag": "L",
+                        "unit": "%",
+                        "reference_range": "36.0 - 45.0"
+                    },
+                    {
+                        "test": "MCV",
+                        "result": 88.4,
+                        "unit": "fL",
+                        "reference_range": "80.0 - 100.0"
+                    },
+                    {
+                        "test": "MCH",
+                        "result": 27.2,
+                        "unit": "pg",
+                        "reference_range": "27.0 - 33.0"
+                    },
+                    {
+                        "test": "MCHC",
+                        "result": 30.8,
+                        "flag": "L",
+                        "unit": "g/dL",
+                        "reference_range": "33.0 - 37.0"
+                    },
+                    {
+                        "test": "RDW",
+                        "result": 15.7,
+                        "flag": "H",
+                        "unit": "%",
+                        "reference_range": "11.0 - 14.5"
+                    },
+                    {
+                        "test": "Platelets Counts",
+                        "result": 225,
+                        "unit": "x10^3/uL",
+                        "reference_range": "150 - 450"
+                    },
+                    {
+                        "test": "MPV",
+                        "result": 9.2,
+                        "unit": "fL",
+                        "reference_range": ""
+                    },
+                    {
+                        "test": "White Cell Count",
+                        "result": 7.48,
+                        "unit": "x10^3/uL",
+                        "reference_range": "4.5 - 11.0"
+                    }
+                ],
+                "Differential": [
+                    {
+                        "test": "Neutrophils %",
+                        "result": 68.3,
+                        "unit": "%",
+                        "reference_range": "40.0 - 70.9"
+                    },
+                    {
+                        "test": "Neutrophils #",
+                        "result": 5.11,
+                        "unit": "x10^3/uL",
+                        "reference_range": "1.8 - 7.8"
+                    },
+                    {
+                        "test": "Lymphocytes %",
+                        "result": 17.5,
+                        "flag": "L",
+                        "unit": "%",
+                        "reference_range": "22.2 - 43.6"
+                    },
+                    {
+                        "test": "Lymphocytes #",
+                        "result": 1.31,
+                        "unit": "x10^3/uL",
+                        "reference_range": "1.0 - 4.8"
+                    },
+                    {
+                        "test": "Monocytes %",
+                        "result": 6.8,
+                        "unit": "%",
+                        "reference_range": "0 - 7.3"
+                    },
+                    {
+                        "test": "Monocytes #",
+                        "result": 0.51,
+                        "unit": "x10^3/uL",
+                        "reference_range": "0 - 0.8"
+                    },
+                    {
+                        "test": "Eosinophils %",
+                        "result": 7.0,
+                        "unit": "%",
+                        "reference_range": "0 - 4.1"
+                    },
+                    {
+                        "test": "Eosinophils #",
+                        "result": 0.52,
+                        "unit": "x10^3/uL",
+                        "reference_range": "0 - 0.45"
+                    },
+                    {
+                        "test": "Basophils %",
+                        "result": 0.4,
+                        "unit": "%",
+                        "reference_range": "0 - 1.8"
+                    },
+                    {
+                        "test": "Basophils #",
+                        "result": 0.03,
+                        "unit": "x10^3/uL",
+                        "reference_range": "0 - 0.2"
+                    }
+                ]
+            },
+            "medical_staff": {
+                "requested_by": "\u0e23\u0e28.\u0e14\u0e23.\u0e19\u0e1e.\u0e27\u0e34\u0e42\u0e23\u0e08\u0e19\u0e4c \u0e28\u0e23\u0e35\u0e2d\u0e38\u0e2b\u0e32\u0e23",
+                "request_date": "24/04/2567 13:44:27",
+                "reported_by": "\u0e19.\u0e2a.\u0e27\u0e23\u0e32\u0e23\u0e31\u0e15\u0e19\u0e4c \u0e1a\u0e32\u0e2a\u0e30\u0e41\u0e25\u0e30",
+                "report_date": "24/04/2567 14:13:18",
+                "approved_by": "\u0e19.\u0e2a.\u0e27\u0e23\u0e32\u0e23\u0e31\u0e15\u0e19\u0e4c \u0e1a\u0e32\u0e2a\u0e30\u0e41\u0e25\u0e30",
+                "approval_date": "24/04/2567 14:22:33"
+            },
+            "notes": "\u0e2b\u0e21\u0e32\u0e22\u0e40\u0e2b\u0e15\u0e38\u0e1c\u0e25\u0e15\u0e23\u0e27\u0e08 *= \u0e1c\u0e34\u0e14\u0e1b\u0e01\u0e15\u0e34 L=\u0e15\u0e48\u0e33 LL=\u0e15\u0e48\u0e33(\u0e27\u0e34\u0e01\u0e24\u0e15) U, H=\u0e2a\u0e39\u0e07 HH=\u0e2a\u0e39\u0e07(\u0e27\u0e34\u0e01\u0e24\u0e15) = \u0e04\u0e48\u0e32\u0e27\u0e34\u0e01\u0e24\u0e15"
+        }
+    ],
+    [
+        {
+            "hospital": "\u0e42\u0e23\u0e07\u0e1e\u0e22\u0e32\u0e1a\u0e32\u0e25\u0e08\u0e38\u0e2c\u0e32\u0e25\u0e07\u0e01\u0e23\u0e13\u0e4c \u0e2a\u0e20\u0e32\u0e01\u0e32\u0e0a\u0e32\u0e14\u0e44\u0e17\u0e22",
+            "address": "1873 \u0e16\u0e19\u0e19\u0e1e\u0e23\u0e30\u0e23\u0e32\u0e21 4 \u0e1b\u0e17\u0e38\u0e21\u0e27\u0e31\u0e19 \u0e01\u0e23\u0e38\u0e07\u0e40\u0e17\u0e1e\u0e2f 10330",
+            "department": "\u0e1d\u0e48\u0e32\u0e22 \u0e40\u0e27\u0e0a\u0e28\u0e32\u0e2a\u0e15\u0e23\u0e4c\u0e23\u0e31\u0e2b\u0e0d\u0e15\u0e23 +66 22564000 ext. 80324-5",
+            "accreditation": "Accreditation No. 4006/47",
+            "patient": {
+                "name": "\u0e19\u0e32\u0e07\u0e1b\u0e19\u0e38\u0e18\u0e38\u0e23\u0e32 \u0e40\u0e2a\u0e35\u0e22\u0e07\u0e41\u0e08\u0e49\u0e27",
+                "HN": "12014/66",
+                "gender": "\u0e2b\u0e0d\u0e34\u0e07",
+                "age": "78 \u0e1b\u0e35",
+                "specimen": "Heparinized blood",
+                "lab_no": "CC-619394/67",
+                "collection_date": "09/10/2567 14:18:41",
+                "received_date": "09/10/2567 14:44:38"
+            },
+            "tests": [
+                {
+                    "category": "Creatinine",
+                    "tests": [
+                        {
+                            "test": "Creatinine",
+                            "result": 0.9,
+                            "unit": "mg/dL",
+                            "reference_range": "0.50 - 1.00"
+                        },
+                        {
+                            "test": "Thai eGFR Equation",
+                            "result": 59.86,
+                            "unit": "mL/min/1.73sqm",
+                            "reference_range": ""
+                        },
+                        {
+                            "test": "eGFR MDRD (Caucasian)",
+                            "result": 60.56,
+                            "unit": "mL/min/1.73sqm",
+                            "reference_range": ""
+                        },
+                        {
+                            "test": "eGFR CKD-EPI",
+                            "result": 61.44,
+                            "unit": "mL/min/1.73sqm",
+                            "reference_range": ""
+                        }
+                    ]
+                },
+                {
+                    "test": "Bilirubin (Total)",
+                    "result": 0.3,
+                    "unit": "mg/dL",
+                    "reference_range": "0.20 - 1.20"
+                },
+                {
+                    "test": "Bilirubin (direct)",
+                    "result": 0.12,
+                    "unit": "mg/dL",
+                    "reference_range": "0.0 - 0.5"
+                },
+                {
+                    "test": "AST (SGOT)",
+                    "result": 46,
+                    "unit": "U/L",
+                    "reference_range": "5 - 35",
+                    "flag": "H"
+                },
+                {
+                    "test": "ALT (SGPT)",
+                    "result": 40,
+                    "unit": "U/L",
+                    "reference_range": "0 - 40"
+                },
+                {
+                    "test": "Alkaline phosphatase",
+                    "result": 96,
+                    "unit": "U/L",
+                    "reference_range": "40 - 120"
+                }
+            ],
+            "medical_staff": {
+                "requested_by": "\u0e28.\u0e14\u0e23.\u0e19\u0e1e.\u0e27\u0e34\u0e42\u0e23\u0e08\u0e19\u0e4c \u0e28\u0e23\u0e35\u0e2d\u0e38\u0e15\u0e32\u0e23\u0e1e\u0e07\u0e28\u0e4c",
+                "request_date": "25/09/2567 16:30:00",
+                "released_by": "\u0e19.\u0e2a.\u0e19\u0e20\u0e31\u0e2a \u0e2d\u0e21\u0e23\u0e1e\u0e34\u0e0a\u0e0d\u0e4c",
+                "approved_by": "\u0e19.\u0e2a.\u0e19\u0e31\u0e14\u0e25\u0e34\u0e01\u0e32 \u0e08\u0e32\u0e23\u0e38\u0e2d\u0e32\u0e23\u0e2d\u0e19\u0e31\u0e19\u0e17\u0e4c",
+                "approval_date": "09/10/2567 15:14:08"
+            },
+            "notes": "\u0e2b\u0e21\u0e32\u0e22\u0e40\u0e2b\u0e15\u0e38\u0e1c\u0e25\u0e15\u0e23\u0e27\u0e08 *= \u0e1c\u0e34\u0e14\u0e1b\u0e01\u0e15\u0e34 L=\u0e15\u0e48\u0e33 LL=\u0e15\u0e48\u0e33(\u0e27\u0e34\u0e01\u0e24\u0e15), H=\u0e2a\u0e39\u0e07 HH=\u0e2a\u0e39\u0e07(\u0e27\u0e34\u0e01\u0e24\u0e15) ! = \u0e04\u0e48\u0e33\u0e27\u0e34\u0e01\u0e24\u0e15"
+        },
+        {
+            "hospital": "\u0e42\u0e23\u0e07\u0e1e\u0e22\u0e32\u0e1a\u0e32\u0e25\u0e08\u0e38\u0e2c\u0e32\u0e25\u0e07\u0e01\u0e23\u0e13\u0e4c \u0e2a\u0e20\u0e32\u0e01\u0e32\u0e0a\u0e32\u0e14\u0e44\u0e17\u0e22",
+            "address": "1873 \u0e16\u0e19\u0e19\u0e1e\u0e23\u0e30\u0e23\u0e32\u0e21 + \u0e1b\u0e17\u0e38\u0e21\u0e27\u0e31\u0e19 \u0e01\u0e23\u0e38\u0e07\u0e40\u0e17\u0e1e\u0e2f 10330",
+            "department": "\u0e1d\u0e48\u0e32\u0e22 \u0e40\u0e27\u0e0a\u0e28\u0e32\u0e2a\u0e15\u0e23\u0e4c\u0e0a\u0e31\u0e49\u0e19\u0e2a\u0e39\u0e15\u0e23 +66 22564000 ext. 80324-5",
+            "accreditation": "Accreditation No. 4006/47",
+            "patient": {
+                "name": "\u0e19\u0e32\u0e07\u0e1b\u0e19\u0e38\u0e01\u0e39\u0e25\u0e32 \u0e40\u0e2a\u0e35\u0e22\u0e07\u0e41\u0e08\u0e49\u0e27",
+                "HN": "12014/66",
+                "age": "78 \u0e1b\u0e35",
+                "specimen": "EDTA blood",
+                "lab_no": "CH-511659/67",
+                "collection_date": "09/10/2567 14:18:46",
+                "received_date": "09/10/2567 14:45:01"
+            },
+            "tests": [
+                {
+                    "test": "Eosinophils #",
+                    "result": "0.02",
+                    "unit": "x10^3/uL",
+                    "reference_range": "0 - 0.45"
+                },
+                {
+                    "test": "Basophils %",
+                    "result": "0.4",
+                    "unit": "%",
+                    "reference_range": "0 - 1.8"
+                },
+                {
+                    "test": "Basophils #",
+                    "result": "0.01",
+                    "unit": "x10^3/uL",
+                    "reference_range": "0 - 0.2"
+                },
+                {
+                    "test": "Nucleated Red Cell %",
+                    "result": "--",
+                    "unit": "/ 100 WBC",
+                    "reference_range": ""
+                },
+                {
+                    "test": "Nucleated Red Cell #",
+                    "result": "\u0e40\u0e1b\u0e47\u0e19\u0e1c\u0e25\u0e01\u0e32\u0e23\u0e15\u0e23\u0e27\u0e08\u0e27\u0e34\u0e40\u0e04\u0e23\u0e32\u0e30\u0e2b\u0e4c\u0e08\u0e32\u0e01\u0e40\u0e04\u0e23\u0e37\u0e48\u0e2d\u0e07\u0e2d\u0e31\u0e15\u0e42\u0e19\u0e21\u0e31\u0e15\u0e34\u0e17\u0e35\u0e48\u0e21\u0e35 Limit of Detection \u0e02\u0e2d\u0e07 nRBC 0.02 x 10*3/uL \u0e01\u0e23\u0e38\u0e13\u0e32\u0e17\u0e35\u0e48\u0e08\u0e33\u0e41\u0e19\u0e01\u0e1c\u0e25\u0e01\u0e32\u0e23\u0e15\u0e23\u0e27\u0e08\u0e27\u0e34\u0e40\u0e04\u0e23\u0e32\u0e30\u0e2b\u0e4c\u0e23\u0e48\u0e27\u0e21\u0e01\u0e31\u0e1a\u0e2d\u0e32\u0e01\u0e32\u0e23\u0e17\u0e32\u0e07\u0e04\u0e25\u0e34\u0e19\u0e34\u0e01 -- x10^3/uL \u0e40\u0e1b\u0e47\u0e19\u0e1c\u0e25\u0e01\u0e32\u0e23\u0e15\u0e23\u0e27\u0e08\u0e27\u0e34\u0e40\u0e04\u0e23\u0e32\u0e30\u0e2b\u0e4c\u0e08\u0e32\u0e01\u0e40\u0e04\u0e23\u0e37\u0e48\u0e2d\u0e07\u0e2d\u0e31\u0e15\u0e42\u0e19\u0e21\u0e31\u0e15\u0e34\u0e17\u0e35\u0e48\u0e21\u0e35 Limit of Detection \u0e02\u0e2d\u0e07 nRBC 0.02 x 10*3/uL \u0e01\u0e23\u0e38\u0e13\u0e32\u0e17\u0e35\u0e48\u0e08\u0e33\u0e41\u0e19\u0e01\u0e1c\u0e25\u0e01\u0e32\u0e23\u0e15\u0e23\u0e27\u0e08\u0e27\u0e34\u0e40\u0e04\u0e23\u0e32\u0e30\u0e2b\u0e4c\u0e23\u0e48\u0e27\u0e21\u0e01\u0e31\u0e1a\u0e2d\u0e32\u0e01\u0e32\u0e23\u0e17\u0e32\u0e07\u0e04\u0e25\u0e34\u0e19\u0e34\u0e01 --",
+                    "unit": "",
+                    "reference_range": ""
+                }
+            ],
+            "medical_staff": {
+                "requested_by": "\u0e28.\u0e14\u0e23.\u0e19\u0e1e.\u0e27\u0e34\u0e42\u0e23\u0e08\u0e19\u0e4c \u0e28\u0e23\u0e35\u0e2d\u0e38\u0e2b\u0e32\u0e23\u0e1e\u0e07\u0e28\u0e4c",
+                "request_date": "25/09/2567 16:30:00",
+                "released_by": "\u0e44\u0e21\u0e48\u0e23\u0e30\u0e1a\u0e38\u0e41\u0e1e\u0e17\u0e22\u0e4c",
+                "approved_by": "\u0e19.\u0e2a.\u0e2a\u0e38\u0e19\u0e31\u0e14\u0e14\u0e32 \u0e41\u0e19\u0e27\u0e23\u0e31\u0e15\u0e19\u0e4c\u0e42\u0e2a\u0e20\u0e13",
+                "approval_date": "09/10/2567 15:40:42"
+            },
+            "notes": "\u0e2b\u0e21\u0e32\u0e22\u0e40\u0e2b\u0e15\u0e38\u0e1c\u0e25\u0e15\u0e23\u0e27\u0e08 *= \u0e1c\u0e34\u0e14\u0e1b\u0e01\u0e15\u0e34 L=\u0e15\u0e48\u0e33 LL=\u0e15\u0e48\u0e33(\u0e27\u0e34\u0e01\u0e24\u0e15), H=\u0e2a\u0e39\u0e07 HH=\u0e2a\u0e39\u0e07(\u0e27\u0e34\u0e01\u0e24\u0e15) ! = \u0e04\u0e48\u0e33\u0e27\u0e34\u0e01\u0e24\u0e15"
+        },
+        {
+            "hospital": "\u0e42\u0e23\u0e07\u0e1e\u0e22\u0e32\u0e1a\u0e32\u0e25\u0e08\u0e38\u0e2c\u0e32\u0e25\u0e07\u0e01\u0e23\u0e13\u0e4c \u0e2a\u0e20\u0e32\u0e01\u0e32\u0e0a\u0e32\u0e14\u0e44\u0e17\u0e22",
+            "address": "1873 \u0e16\u0e19\u0e19\u0e1e\u0e23\u0e30\u0e23\u0e32\u0e21 4 \u0e1b\u0e17\u0e38\u0e21\u0e27\u0e31\u0e19 \u0e01\u0e23\u0e38\u0e07\u0e40\u0e17\u0e1e\u0e2f 10330",
+            "department": "\u0e1d\u0e48\u0e32\u0e22 \u0e40\u0e27\u0e0a\u0e28\u0e32\u0e2a\u0e15\u0e23\u0e4c\u0e23\u0e31\u0e21\u0e22\u0e4c\u0e2a\u0e38\u0e15\u0e23 +66 22564000 ext. 80324-5",
+            "print_date": "09/10/2567 16:50:31",
+            "accreditation": "Accreditation No. 4006/47",
+            "patient": {
+                "name": "\u0e19\u0e32\u0e07\u0e1b\u0e19\u0e39\u0e25\u0e39\u0e08\u0e32 \u0e40\u0e2a\u0e35\u0e22\u0e07\u0e41\u0e08\u0e49\u0e27",
+                "HN": "12014/66",
+                "specimen": "EDTA blood",
+                "lab_no": "CH-511659/67",
+                "collection_date": "09/10/2567 14:18:46",
+                "received_date": "09/10/2567 14:45:01"
+            },
+            "tests": {
+                "CBC": [
+                    {
+                        "test": "Red Cell Count",
+                        "value": 3.31,
+                        "flag": "L",
+                        "unit": "x10^6/uL",
+                        "reference_range": "3.9 - 5.5"
+                    },
+                    {
+                        "test": "Hemoglobin",
+                        "value": 9.2,
+                        "flag": "L",
+                        "unit": "g/dL",
+                        "reference_range": "12.0 - 15.0"
+                    },
+                    {
+                        "test": "Hematocrit",
+                        "value": 28.5,
+                        "flag": "L",
+                        "unit": "%",
+                        "reference_range": "36.0 - 45.0"
+                    },
+                    {
+                        "test": "MCV",
+                        "value": 86.1,
+                        "flag": "",
+                        "unit": "fL",
+                        "reference_range": "80.0 - 100.0"
+                    },
+                    {
+                        "test": "MCH",
+                        "value": 27.8,
+                        "flag": "",
+                        "unit": "pg",
+                        "reference_range": "27.0 - 33.0"
+                    },
+                    {
+                        "test": "MCHC",
+                        "value": 32.3,
+                        "flag": "L",
+                        "unit": "g/dL",
+                        "reference_range": "33.0 - 37.0"
+                    },
+                    {
+                        "test": "RDW",
+                        "value": 15.1,
+                        "flag": "H",
+                        "unit": "%",
+                        "reference_range": "11.0 - 14.5"
+                    },
+                    {
+                        "test": "Platelets Counts",
+                        "value": 115,
+                        "flag": "L",
+                        "unit": "x10^3/uL",
+                        "reference_range": "150 - 450"
+                    },
+                    {
+                        "test": "MPV",
+                        "value": 10.2,
+                        "flag": "",
+                        "unit": "fL",
+                        "reference_range": "9.2 - 12.0"
+                    },
+                    {
+                        "test": "White Cell Count",
+                        "value": 2.74,
+                        "flag": "L",
+                        "unit": "x10^3/uL",
+                        "reference_range": "4.5 - 11.0"
+                    }
+                ],
+                "Differential": [
+                    {
+                        "test": "Neutrophils %",
+                        "value": 45.6,
+                        "flag": "",
+                        "unit": "%",
+                        "reference_range": "40.0 - 70.9"
+                    },
+                    {
+                        "test": "Neutrophils #",
+                        "value": 1.25,
+                        "flag": "L",
+                        "unit": "x10^3/uL",
+                        "reference_range": "1.8 - 7.8"
+                    },
+                    {
+                        "test": "Lymphocytes %",
+                        "value": 38.0,
+                        "flag": "",
+                        "unit": "%",
+                        "reference_range": "22.2 - 43.6"
+                    },
+                    {
+                        "test": "Lymphocytes #",
+                        "value": 1.04,
+                        "flag": "",
+                        "unit": "x10^3/uL",
+                        "reference_range": "1.0 - 4.8"
+                    },
+                    {
+                        "test": "Monocytes %",
+                        "value": 15.3,
+                        "flag": "H",
+                        "unit": "%",
+                        "reference_range": "0 - 7.3"
+                    },
+                    {
+                        "test": "Monocytes #",
+                        "value": 0.42,
+                        "flag": "",
+                        "unit": "x10^3/uL",
+                        "reference_range": "0 - 0.8"
+                    },
+                    {
+                        "test": "Eosinophils %",
+                        "value": 0.7,
+                        "flag": "",
+                        "unit": "%",
+                        "reference_range": "0 - 4.1"
+                    }
+                ]
+            },
+            "medical_staff": {
+                "requested_by": "\u0e1e.\u0e28\u0e23.\u0e19\u0e1e.\u0e27\u0e34\u0e42\u0e23\u0e08\u0e19\u0e4c \u0e28\u0e23\u0e35\u0e2d\u0e38\u0e15\u0e32\u0e23\u0e1e\u0e07\u0e28\u0e4c",
+                "request_date": "25/09/2567 16:30:00",
+                "released_by": "\u0e44\u0e21\u0e48\u0e23\u0e30\u0e1a\u0e38\u0e41\u0e1e\u0e17\u0e22\u0e4c",
+                "approved_by": "\u0e19.\u0e2a.\u0e18\u0e38\u0e38\u0e19\u0e34\u0e15\u0e34\u0e14\u0e32 \u0e41\u0e19\u0e27\u0e23\u0e31\u0e15\u0e19\u0e4c\u0e42\u0e2a\u0e20\u0e13",
+                "approval_date": "09/10/2567 15:40:42"
+            },
+            "notes": "\u0e2b\u0e21\u0e32\u0e22\u0e40\u0e2b\u0e15\u0e38\u0e1c\u0e25\u0e15\u0e23\u0e27\u0e08 *= \u0e1c\u0e34\u0e14\u0e1b\u0e01\u0e15\u0e34 L=\u0e15\u0e48\u0e33 LL=\u0e15\u0e48\u0e33(\u0e27\u0e34\u0e01\u0e24\u0e15), H=\u0e2a\u0e39\u0e07 HH=\u0e2a\u0e39\u0e07(\u0e27\u0e34\u0e01\u0e24\u0e15) 1 = \u0e04\u0e48\u0e33\u0e27\u0e34\u0e01\u0e24\u0e15"
+        }
+    ],
+    [
+        {
+            "Access No": "247893436",
+            "Lab No": "CH-578993/67",
+            "Specimen": "EDTA blood",
+            "Collection Date": "13/11/2567 14:35:49",
+            "Report Date": "13/11/2567 15:08:05",
+            "Tests": [
+                {
+                    "Name": "Eosinophils #",
+                    "Value": "0.02",
+                    "Unit": "x10^3 /uL",
+                    "Reference Range": "0 - 0.45"
+                },
+                {
+                    "Name": "Basophils %",
+                    "Value": "0.7",
+                    "Unit": "%",
+                    "Reference Range": "0 - 1.8"
+                },
+                {
+                    "Name": "Basophils #",
+                    "Value": "0.01",
+                    "Unit": "x10^3 /uL",
+                    "Reference Range": "0 - 0.2"
+                },
+                {
+                    "Name": "Nucleated Red Cell %",
+                    "Value": "-",
+                    "Unit": "/ 100 WBC"
+                },
+                {
+                    "Name": "Nucleated Red Cell #",
+                    "Value": "-",
+                    "Unit": "x10^3 /uL"
+                }
+            ]
+        },
+        {
+            "hospital": {
+                "name": "\u0e42\u0e23\u0e07\u0e1e\u0e22\u0e32\u0e1a\u0e32\u0e25\u0e08\u0e38\u0e2c\u0e32\u0e25\u0e07\u0e01\u0e23\u0e13\u0e4c \u0e2a\u0e20\u0e32\u0e01\u0e32\u0e0a\u0e32\u0e14\u0e44\u0e17\u0e22",
+                "address": "1873 \u0e16\u0e19\u0e19\u0e1e\u0e23\u0e30\u0e23\u0e32\u0e21 4 \u0e1b\u0e17\u0e38\u0e21\u0e27\u0e31\u0e19 \u0e01\u0e23\u0e38\u0e07\u0e40\u0e17\u0e1e\u0e2f 10330",
+                "department": "\u0e1d\u0e48\u0e32\u0e22 \u0e40\u0e27\u0e0a\u0e28\u0e32\u0e2a\u0e15\u0e23\u0e4c\u0e0a\u0e31\u0e19\u0e2a\u0e39\u0e15\u0e23",
+                "contact": "+66 12564000 ext. 80324-5"
+            },
+            "report": {
+                "print_date": "13/11/2567 16:30:40",
+                "pages": "page 1 of 2",
+                "accreditation": "ISO 15189"
+            },
+            "patient": {
+                "name": "\u0e19\u0e32\u0e07\u0e1b\u0e19\u0e38\u0e01\u0e39\u0e25\u0e32 \u0e40\u0e25\u0e35\u0e22\u0e07\u0e41\u0e08\u0e49\u0e27",
+                "hn": "12014/66",
+                "gender": "\u0e2b\u0e0d\u0e34\u0e07",
+                "age": 78,
+                "an": null,
+                "department": "\u0e40\u0e04\u0e21\u0e35\u0e1a\u0e33\u0e1a\u0e31\u0e14 Med Onco \u0e20\u0e39\u0e21\u0e34\u0e2a\u0e34\u0e23\u0e34\u0e02\u0e32IC (\u0e19\u0e2d\u0e01\u0e40\u0e27\u0e25\u0e32)"
+            },
+            "specimen": {
+                "access_no": "247893436",
+                "lab_no": "CH-578993/67",
+                "type": "EDTA blood",
+                "collection_date": "13/11/2567 14:35:49",
+                "received_date": "13/11/2567 15:08:05"
+            },
+            "test_results": {
+                "CBC": [
+                    {
+                        "test_name": "Red Cell Count",
+                        "result": 3.17,
+                        "flag": "L",
+                        "unit": "x10^6/uL",
+                        "reference_range": "3.9 - 5.5"
+                    },
+                    {
+                        "test_name": "Hemoglobin",
+                        "result": 8.9,
+                        "flag": "L",
+                        "unit": "g/dL",
+                        "reference_range": "12.0 - 15.0"
+                    },
+                    {
+                        "test_name": "Hematocrit",
+                        "result": 27.7,
+                        "flag": "L",
+                        "unit": "%",
+                        "reference_range": "36.0 - 45.0"
+                    },
+                    {
+                        "test_name": "MCV",
+                        "result": 87.4,
+                        "flag": null,
+                        "unit": "fL",
+                        "reference_range": "80.0 - 100.0"
+                    },
+                    {
+                        "test_name": "MCH",
+                        "result": 28.1,
+                        "flag": null,
+                        "unit": "pg",
+                        "reference_range": "27.0 - 33.0"
+                    },
+                    {
+                        "test_name": "MCHC",
+                        "result": 32.1,
+                        "flag": "L",
+                        "unit": "g/dL",
+                        "reference_range": "33.0 - 37.0"
+                    },
+                    {
+                        "test_name": "RDW",
+                        "result": 17.1,
+                        "flag": "H",
+                        "unit": "%",
+                        "reference_range": "11.0 - 14.5"
+                    },
+                    {
+                        "test_name": "Platelets Counts",
+                        "result": 129,
+                        "flag": "L",
+                        "unit": "x10^3/uL",
+                        "reference_range": "150 - 450"
+                    },
+                    {
+                        "test_name": "MPV",
+                        "result": 10.0,
+                        "flag": null,
+                        "unit": "fL",
+                        "reference_range": "9.2 - 12.0"
+                    },
+                    {
+                        "test_name": "White Cell Count",
+                        "result": 1.47,
+                        "flag": "L",
+                        "unit": "x10^3/uL",
+                        "reference_range": "4.5 - 11.0"
+                    }
+                ],
+                "differential": {
+                    "note": "Too low to differential by slide",
+                    "results": [
+                        {
+                            "test_name": "Neutrophils %",
+                            "result": 36.7,
+                            "flag": "L",
+                            "unit": "%",
+                            "reference_range": "40.0 - 70.9"
+                        },
+                        {
+                            "test_name": "Neutrophils #",
+                            "result": 0.54,
+                            "flag": "L",
+                            "unit": "x10^3/uL",
+                            "reference_range": "1.8 - 7.8"
+                        },
+                        {
+                            "test_name": "Lymphocytes %",
+                            "result": 55.8,
+                            "flag": "H",
+                            "unit": "%",
+                            "reference_range": "22.2 - 43.6"
+                        },
+                        {
+                            "test_name": "Lymphocytes #",
+                            "result": 0.82,
+                            "flag": "L",
+                            "unit": "x10^3/uL",
+                            "reference_range": "1.0 - 4.8"
+                        },
+                        {
+                            "test_name": "Monocytes %",
+                            "result": 5.4,
+                            "flag": null,
+                            "unit": "%",
+                            "reference_range": "0 - 7.3"
+                        },
+                        {
+                            "test_name": "Monocytes #",
+                            "result": 0.08,
+                            "flag": null,
+                            "unit": "x10^3/uL",
+                            "reference_range": "0 - 0.8"
+                        },
+                        {
+                            "test_name": "Eosinophils %",
+                            "result": 1.4,
+                            "flag": null,
+                            "unit": "%",
+                            "reference_range": "0 - 4.1"
+                        }
+                    ]
+                }
+            },
+            "metadata": {
+                "requested_by": "\u0e1e.\u0e14\u0e23.\u0e19\u0e1e.\u0e27\u0e34\u0e42\u0e23\u0e08\u0e19\u0e4c \u0e28\u0e23\u0e35\u0e2d\u0e38\u0e15\u0e32\u0e23\u0e1e\u0e07\u0e28\u0e4c",
+                "request_date": "06/11/2567 16:30:00",
+                "released_by": "\u0e19.\u0e2a.\u0e25\u0e31\u0e01\u0e29\u0e21\u0e13 \u0e17\u0e34\u0e1e\u0e22\u0e4c\u0e2a\u0e38\u0e23\u0e34\u0e22\u0e30",
+                "approved_by": "\u0e19\u0e32\u0e22\u0e28\u0e38\u0e20\u0e01\u0e23 \u0e27\u0e07\u0e28\u0e4c\u0e01\u0e33\u0e0a\u0e31\u0e22",
+                "approval_date": "13/11/2567 15:50:59",
+                "notes": "\u0e2b\u0e21\u0e32\u0e22\u0e40\u0e2b\u0e15\u0e38\u0e1c\u0e25\u0e15\u0e23\u0e27\u0e08 \u2190 \u0e1c\u0e34\u0e14\u0e1b\u0e01\u0e15\u0e34 L=\u0e04\u0e48\u0e32 LL=\u0e04\u0e48\u0e32(\u0e27\u0e34\u0e01\u0e24\u0e15), H=\u0e2a\u0e39\u0e07 HH=\u0e2a\u0e39\u0e07(\u0e27\u0e34\u0e01\u0e24\u0e15) I = \u0e04\u0e48\u0e32\u0e27\u0e34\u0e01\u0e24\u0e15",
+                "non_accredited_tests": "\u0e01\u0e32\u0e23\u0e17\u0e14\u0e2a\u0e2d\u0e1a\u0e17\u0e35\u0e48\u0e44\u0e21\u0e48\u0e44\u0e14\u0e49\u0e2b\u0e22\u0e01\u0e01\u0e23\u0e23\u0e31\u0e1a\u0e23\u0e2d\u0e07 ISO 15189"
+            }
+        }
+    ],
+    [
+        {
+            "laboratory": "HEMATOLOGY",
+            "accreditation": {
+                "standard": "ISO 15189",
+                "accreditation_no": "4006/47"
+            },
+            "test_results": [
+                {
+                    "test_name": "Eosinophils #",
+                    "result": 0.03,
+                    "unit": "x10^3/uL",
+                    "reference_range": "0 - 0.45"
+                },
+                {
+                    "test_name": "Basophils %",
+                    "result": 1.0,
+                    "unit": "%",
+                    "reference_range": "0 - 1.8"
+                },
+                {
+                    "test_name": "Basophils #",
+                    "result": 0.02,
+                    "unit": "x10^3/uL",
+                    "reference_range": "0 - 0.2"
+                },
+                {
+                    "test_name": "Nucleated Red Cell %",
+                    "result": "--",
+                    "unit": "/ 100 WBC",
+                    "reference_range": null
+                },
+                {
+                    "test_name": "Nucleated Red Cell #",
+                    "result": "--",
+                    "unit": "x10^3/uL",
+                    "reference_range": null,
+                    "note": "\u0e40\u0e1b\u0e47\u0e19\u0e1c\u0e25\u0e01\u0e32\u0e23\u0e15\u0e23\u0e27\u0e08\u0e27\u0e34\u0e40\u0e04\u0e23\u0e32\u0e30\u0e2b\u0e4c\u0e08\u0e32\u0e01\u0e40\u0e04\u0e23\u0e37\u0e48\u0e2d\u0e07\u0e2d\u0e31\u0e15\u0e42\u0e19\u0e21\u0e31\u0e15\u0e34\u0e17\u0e35\u0e48\u0e21\u0e35 Limit of Detection \u0e02\u0e2d\u0e07 nRBC 0.02 x 10^3/uL \u0e01\u0e23\u0e38\u0e13\u0e32\u0e1e\u0e34\u0e08\u0e32\u0e23\u0e13\u0e32\u0e1c\u0e25\u0e15\u0e23\u0e27\u0e08\u0e27\u0e34\u0e40\u0e04\u0e23\u0e32\u0e30\u0e2b\u0e4c\u0e23\u0e48\u0e27\u0e21\u0e01\u0e31\u0e1a\u0e2d\u0e32\u0e01\u0e32\u0e23\u0e17\u0e32\u0e07\u0e04\u0e25\u0e34\u0e19\u0e34\u0e01"
+                }
+            ],
+            "metadata": {
+                "requested_by": "\u0e28.\u0e14\u0e23.\u0e19\u0e1e.\u0e27\u0e34\u0e42\u0e23\u0e08\u0e19\u0e4c \u0e28\u0e23\u0e35\u0e2d\u0e38\u0e17\u0e23\u0e32\u0e1e\u0e07\u0e28\u0e4c",
+                "request_date": "13/11/2567 16:30:00",
+                "released_by": "\u0e19.\u0e28.\u0e25\u0e31\u0e01\u0e29\u0e13\u0e32 \u0e17\u0e34\u0e1e\u0e22\u0e4c\u0e2a\u0e38\u0e23\u0e34\u0e22\u0e30",
+                "approved_by": "\u0e19.\u0e28.\u0e27\u0e23\u0e32\u0e23\u0e31\u0e15\u0e19\u0e4c \u0e21\u0e32\u0e2a\u0e30\u0e41\u0e25\u0e30",
+                "approval_date": "27/11/2567 15:55:34",
+                "notes": "\u0e2b\u0e21\u0e32\u0e22\u0e40\u0e2b\u0e15\u0e38\u0e1c\u0e25\u0e15\u0e23\u0e27\u0e08 *= \u0e1c\u0e34\u0e14\u0e1b\u0e01\u0e15\u0e34 L=\u0e15\u0e48\u0e33 LL=\u0e15\u0e48\u0e33(\u0e27\u0e34\u0e01\u0e24\u0e15), H=\u0e2a\u0e39\u0e07 HH=\u0e2a\u0e39\u0e07(\u0e27\u0e34\u0e01\u0e24\u0e15) ! = \u0e04\u0e48\u0e32\u0e2d\u0e31\u0e19\u0e15\u0e23\u0e32\u0e22"
+            }
+        },
+        {
+            "CBC": {
+                "Red Cell Count": {
+                    "value": 2.85,
+                    "unit": "x10^6 /uL",
+                    "flag": "L",
+                    "reference_range": "3.9 - 5.5"
+                },
+                "Hemoglobin": {
+                    "value": 8.2,
+                    "unit": "g/dL",
+                    "flag": "L",
+                    "reference_range": "12.0 - 15.0"
+                },
+                "Hematocrit": {
+                    "value": 26.3,
+                    "unit": "%",
+                    "flag": "L",
+                    "reference_range": "36.0 - 45.0"
+                },
+                "MCV": {
+                    "value": 92.3,
+                    "unit": "fL",
+                    "reference_range": "80.0 - 100.0"
+                },
+                "MCH": {
+                    "value": 28.8,
+                    "unit": "pg",
+                    "reference_range": "27.0 - 33.0"
+                },
+                "MCHC": {
+                    "value": 31.2,
+                    "unit": "g/dL",
+                    "flag": "L",
+                    "reference_range": "33.0 - 37.0"
+                },
+                "RDW": {
+                    "value": 20.3,
+                    "unit": "%",
+                    "flag": "H",
+                    "reference_range": "11.0 - 14.5"
+                },
+                "Platelets Count": {
+                    "value": 87,
+                    "unit": "x10^3 /uL",
+                    "flag": "L",
+                    "reference_range": "150 - 450"
+                },
+                "Platelet on smear": {
+                    "note": "decreased"
+                },
+                "MPV": {
+                    "value": 10.3,
+                    "unit": "fL",
+                    "reference_range": "9.2 - 12.0"
+                },
+                "White Cell Count": {
+                    "value": 2.11,
+                    "unit": "x10^3 /uL",
+                    "flag": "L",
+                    "reference_range": "4.5 - 11.0"
+                },
+                "Neutrophils %": {
+                    "value": 50.0,
+                    "unit": "%",
+                    "reference_range": "40.0 - 70.9"
+                },
+                "Neutrophils #": {
+                    "value": 1.06,
+                    "unit": "x10^3 /uL",
+                    "flag": "L",
+                    "reference_range": "1.8 - 7.8"
+                },
+                "Lymphocytes %": {
+                    "value": 29.0,
+                    "unit": "%",
+                    "reference_range": "22.2 - 43.6"
+                }
+            }
+        },
+        {
+            "Chemistry": {
+                "Creatinine": {
+                    "value": 0.77,
+                    "unit": "mg/dL",
+                    "reference_range": "0.50 - 1.00"
+                },
+                "Thai eGFR Equation": {
+                    "value": 68.33,
+                    "unit": "mL/min/1.73sqm"
+                },
+                "eGFR MDRD (Caucasian)": {
+                    "value": 72.5,
+                    "unit": "mL/min/1.73sqm"
+                },
+                "eGFR CKD-EPI": {
+                    "value": 74.19,
+                    "unit": "mL/min/1.73sqm"
+                },
+                "Bilirubin (Total)": {
+                    "value": 0.4,
+                    "unit": "mg/dL",
+                    "reference_range": "0.20 - 1.20"
+                },
+                "Bilirubin (Direct)": {
+                    "value": 0.15,
+                    "unit": "mg/dL",
+                    "reference_range": "0.0 - 0.5"
+                },
+                "AST (SGOT)": {
+                    "value": 39,
+                    "unit": "U/L",
+                    "flag": "H",
+                    "reference_range": "5 - 35"
+                },
+                "ALT (SGPT)": {
+                    "value": 23,
+                    "unit": "U/L",
+                    "reference_range": "0 - 40"
+                },
+                "Alkaline Phosphatase": {
+                    "value": 82,
+                    "unit": "U/L",
+                    "reference_range": "40 - 120"
+                }
+            }
+        }
+    ],
+    [
+        {
+            "hospital": {
+                "name": "\u0e42\u0e23\u0e07\u0e1e\u0e22\u0e32\u0e1a\u0e32\u0e25\u0e08\u0e38\u0e2c\u0e32\u0e25\u0e07\u0e01\u0e23\u0e13\u0e4c \u0e2a\u0e20\u0e32\u0e01\u0e32\u0e0a\u0e32\u0e14\u0e44\u0e17\u0e22",
+                "address": "1873 \u0e16\u0e19\u0e19\u0e1e\u0e23\u0e30\u0e23\u0e32\u0e21 4 \u0e1b\u0e17\u0e38\u0e21\u0e27\u0e31\u0e19 \u0e01\u0e23\u0e38\u0e07\u0e40\u0e17\u0e1e\u0e2f 10330",
+                "department": "\u0e1d\u0e48\u0e32\u0e22 \u0e40\u0e27\u0e0a\u0e28\u0e32\u0e2a\u0e15\u0e23\u0e4c\u0e02\u0e31\u0e49\u0e19\u0e2a\u0e39\u0e15\u0e23",
+                "accreditation": {
+                    "status": "\u0e44\u0e14\u0e49\u0e23\u0e31\u0e1a\u0e01\u0e32\u0e23\u0e23\u0e31\u0e1a\u0e23\u0e2d\u0e07\u0e04\u0e27\u0e32\u0e21\u0e2a\u0e32\u0e21\u0e32\u0e23\u0e16",
+                    "standard": "\u0e2b\u0e49\u0e2d\u0e07\u0e1b\u0e0f\u0e34\u0e1a\u0e31\u0e15\u0e34\u0e01\u0e32\u0e23 ISO 15189",
+                    "number": "Acereditation No. 4006447"
+                }
+            },
+            "patient": {
+                "name": "\u0e19\u0e32\u0e07\u0e1b\u0e19\u0e38\u0e0f\u0e0a\u0e32 \u0e40\u0e25\u0e35\u0e22\u0e07\u0e41\u0e01\u0e49\u0e27",
+                "HN": "12014466",
+                "gender": "\u0e2b\u0e0d\u0e34\u0e07",
+                "age": "78 \u0e1b\u0e35",
+                "department": "\u0e40\u0e04\u0e21\u0e35\u0e1a\u0e33\u0e1a\u0e31\u0e14 Med Onco \u0e20\u0e39\u0e21\u0e34\u0e28\u0e34\u0e23\u0e34\u202211C (\u0e19\u0e2d\u0e01\u0e40\u0e27\u0e25\u0e32)",
+                "access_no": "247276413",
+                "specimen": "Heparinized blood",
+                "lab_no": "CC-49383867",
+                "collection_date": "14/08/2567 14:56:48",
+                "received_date": "14/08/2567 15:20:13"
+            },
+            "tests": {
+                "chemistry": [
+                    {
+                        "category": "Creatinine",
+                        "tests": [
+                            {
+                                "test": "Creatinine",
+                                "result": 1.02,
+                                "flag": "H",
+                                "unit": "mg/dL",
+                                "reference_range": "0.50 - 1.00"
+                            },
+                            {
+                                "test": "Thai eGFR Equation",
+                                "result": 53.84,
+                                "unit": "mL/min/1.73m^2"
+                            },
+                            {
+                                "test": "eGFR MDRD (Caucasian)",
+                                "result": 52.41,
+                                "unit": "mL/min/1.73m^2"
+                            },
+                            {
+                                "test": "eGFR CKD-EPI",
+                                "result": 52.81,
+                                "unit": "mL/min/1.73m^2"
+                            }
+                        ]
+                    },
+                    {
+                        "test": "Bilirubin (Total)",
+                        "result": 0.45,
+                        "unit": "mg/dL",
+                        "reference_range": "0.20 - 1.20"
+                    },
+                    {
+                        "test": "Bilirubin (direct)",
+                        "result": 0.18,
+                        "unit": "mg/dL",
+                        "reference_range": "0.00 - 0.50"
+                    },
+                    {
+                        "test": "AST (SGOT)",
+                        "result": 50,
+                        "flag": "H",
+                        "unit": "U/L",
+                        "reference_range": "5 - 35"
+                    },
+                    {
+                        "test": "ALT (SGPT)",
+                        "result": 22,
+                        "unit": "U/L",
+                        "reference_range": "0 - 40"
+                    },
+                    {
+                        "test": "Alkaline phosphatase",
+                        "result": 102,
+                        "unit": "U/L",
+                        "reference_range": "40 - 120"
+                    }
+                ]
+            },
+            "medical_staff": {
+                "requested_by": "\u0e28.\u0e14\u0e23.\u0e19\u0e1e.\u0e27\u0e34\u0e42\u0e23\u0e08\u0e19\u0e4c \u0e28\u0e23\u0e35\u0e2d\u0e38\u0e2c\u0e32\u0e23\u0e1e\u0e07\u0e28\u0e4c",
+                "request_date": "17/07/2567 16:30:00",
+                "released_by": "\u0e19.\u0e2a.\u0e21\u0e31\u0e25\u0e25\u0e34\u0e01\u0e32 \u0e08\u0e32\u0e23\u0e38\u0e2d\u0e32\u0e23\u0e22\u0e19\u0e31\u0e19\u0e17\u0e4c",
+                "approved_by": "\u0e19.\u0e2a.\u0e21\u0e31\u0e25\u0e25\u0e34\u0e01\u0e32 \u0e08\u0e32\u0e23\u0e38\u0e2d\u0e32\u0e23\u0e22\u0e19\u0e31\u0e19\u0e17\u0e4c",
+                "approval_date": "14/08/2567 15:41:19"
+            },
+            "notes": "\u0e2b\u0e21\u0e32\u0e22\u0e40\u0e2b\u0e15\u0e38\u0e1c\u0e25\u0e15\u0e23\u0e27\u0e08 *= \u0e1c\u0e34\u0e14\u0e1b\u0e01\u0e15\u0e34 L=\u0e15\u0e48\u0e33 LL=\u0e15\u0e48\u0e33(\u0e27\u0e34\u0e01\u0e24\u0e15), H=\u0e2a\u0e39\u0e07 HH=\u0e2a\u0e39\u0e07(\u0e27\u0e34\u0e01\u0e24\u0e15) 1 = \u0e04\u0e48\u0e33\u0e27\u0e34\u0e01\u0e24\u0e15"
+        }
+    ],
+    [
+        {
+            "Access No": "247795455",
+            "Lab No": "CH-550654/67",
+            "Specimen": "EDTA blood",
+            "Collection Date": "30/10/2567 14:29:44",
+            "Report Date": "30/10/2567 15:13:22",
+            "Tests": [
+                {
+                    "Name": "Red Cell Count",
+                    "Value": "3.13",
+                    "Unit": "x10^6 /uL",
+                    "Reference Range": "3.9 - 5.5"
+                },
+                {
+                    "Name": "Hemoglobin",
+                    "Value": "8.9 L",
+                    "Unit": "g/dL",
+                    "Reference Range": "12.0 - 15.0"
+                },
+                {
+                    "Name": "Hematocrit",
+                    "Value": "26.7 L",
+                    "Unit": "%",
+                    "Reference Range": "36.0 - 45.0"
+                },
+                {
+                    "Name": "MCV",
+                    "Value": "85.3",
+                    "Unit": "fL",
+                    "Reference Range": "80.0 - 100.0"
+                },
+                {
+                    "Name": "MCH",
+                    "Value": "28.4",
+                    "Unit": "pg",
+                    "Reference Range": "27.0 - 33.0"
+                },
+                {
+                    "Name": "MCHC",
+                    "Value": "33.3",
+                    "Unit": "g/dL",
+                    "Reference Range": "33.0 - 37.0"
+                },
+                {
+                    "Name": "RDW",
+                    "Value": "15.5 H",
+                    "Unit": "%",
+                    "Reference Range": "11.0 - 14.5"
+                },
+                {
+                    "Name": "Platelets Count",
+                    "Value": "41 L",
+                    "Unit": "x10^3 /uL",
+                    "Reference Range": "150 - 450"
+                },
+                {
+                    "Name": "Platelet on smear",
+                    "Value": "Decreased"
+                },
+                {
+                    "Name": "MPV",
+                    "Value": "10.2",
+                    "Unit": "fL",
+                    "Reference Range": "9.2 - 12.0"
+                },
+                {
+                    "Name": "White Cell Count",
+                    "Value": "4.08 L",
+                    "Unit": "x10^3 /uL",
+                    "Reference Range": "4.5 - 11.0"
+                },
+                {
+                    "Name": "Neutrophils %",
+                    "Value": "60.9",
+                    "Unit": "%",
+                    "Reference Range": "40.0 - 70.9"
+                },
+                {
+                    "Name": "Neutrophils #",
+                    "Value": "2.48",
+                    "Unit": "x10^3 /uL",
+                    "Reference Range": "1.8 - 7.8"
+                },
+                {
+                    "Name": "Lymphocytes %",
+                    "Value": "24.5",
+                    "Unit": "%",
+                    "Reference Range": "22.2 - 43.6"
+                },
+                {
+                    "Name": "Lymphocytes #",
+                    "Value": "1.00",
+                    "Unit": "x10^3 /uL"
+                }
+            ]
+        },
+        {
+            "hospital": {
+                "name": "\u0e42\u0e23\u0e07\u0e1e\u0e22\u0e32\u0e1a\u0e32\u0e25\u0e08\u0e38\u0e2c\u0e32\u0e25\u0e07\u0e01\u0e23\u0e13\u0e4c \u0e2a\u0e20\u0e32\u0e01\u0e32\u0e0a\u0e32\u0e14\u0e44\u0e17\u0e22",
+                "address": "1873 \u0e16\u0e19\u0e19\u0e1e\u0e23\u0e30\u0e23\u0e32\u0e21 + \u0e1b\u0e17\u0e38\u0e21\u0e27\u0e31\u0e19 \u0e01\u0e23\u0e38\u0e07\u0e40\u0e17\u0e1e\u0e2f 10330",
+                "department": "\u0e1d\u0e48\u0e32\u0e22 \u0e40\u0e27\u0e0a\u0e28\u0e32\u0e2a\u0e15\u0e23\u0e4c\u0e23\u0e31\u0e29\u0e0e\u0e35\u0e2a\u0e32\u0e23",
+                "contact": "+66 22564000 ext. 80324-5",
+                "accreditation": {
+                    "standard": "ISO 15189",
+                    "number": "4006/47"
+                }
+            },
+            "patient": {
+                "name": "\u0e19\u0e32\u0e07\u0e1b\u0e19\u0e38\u0e01\u0e39\u0e25\u0e32 \u0e40\u0e2a\u0e35\u0e22\u0e07\u0e41\u0e08\u0e49\u0e27",
+                "HN": "12014/66",
+                "gender": "\u0e2b\u0e0d\u0e34\u0e07",
+                "age": 78,
+                "specimen": "EDTA blood",
+                "requesting_unit": "\u0e40\u0e04\u0e21\u0e35\u0e1a\u0e33\u0e1a\u0e31\u0e14 Med Onco \u0e20\u0e39\u0e21\u0e34\u0e2a\u0e34\u0e23\u0e34+1C (\u0e19\u0e2d\u0e01\u0e40\u0e27\u0e25\u0e32)"
+            },
+            "test_details": {
+                "access_no": "247795455",
+                "lab_no": "CH-550654/67",
+                "collection_date": "30/10/2567 14:29:44",
+                "received_date": "30/10/2567 15:13:22",
+                "requested_by": "\u0e19\u0e1e.\u0e27\u0e34\u0e42\u0e23\u0e08\u0e19\u0e4c \u0e28\u0e23\u0e35\u0e2d\u0e38\u0e2b\u0e32\u0e23\u0e1e\u0e07\u0e28\u0e4c",
+                "request_date": "16/10/2567 16:30:00",
+                "released_by": "\u0e19\u0e32\u0e22\u0e10\u0e32\u0e19\u0e01\u0e23\u0e13\u0e4c \u0e40\u0e17\u0e1e\u0e19\u0e23\u0e34\u0e19\u0e17\u0e23\u0e4c",
+                "approved_by": "\u0e19.\u0e2a.\u0e2a\u0e38\u0e19\u0e31\u0e14\u0e14\u0e32 \u0e40\u0e1a\u0e32\u0e27\u0e23\u0e31\u0e15\u0e19\u0e4c\u0e42\u0e2a\u0e20\u0e13",
+                "approval_date": "30/10/2567 15:43:34"
+            },
+            "test_results": [
+                {
+                    "test_name": "Eosinophils #",
+                    "result": 0.07,
+                    "unit": "x10*3 /uL",
+                    "reference_range": "0 - 0.45"
+                },
+                {
+                    "test_name": "Basophils %",
+                    "result": 0.2,
+                    "unit": "%",
+                    "reference_range": "0 - 1.8"
+                },
+                {
+                    "test_name": "Basophils #",
+                    "result": 0.01,
+                    "unit": "x10*3 /uL",
+                    "reference_range": "0 - 0.2"
+                },
+                {
+                    "test_name": "Nucleated Red Cell %",
+                    "result": "--",
+                    "unit": "/ 100 WBC",
+                    "reference_range": null,
+                    "note": "\u0e40\u0e1b\u0e47\u0e19\u0e1c\u0e25\u0e01\u0e32\u0e23\u0e15\u0e23\u0e27\u0e08\u0e27\u0e34\u0e40\u0e04\u0e23\u0e32\u0e30\u0e2b\u0e4c\u0e08\u0e32\u0e01\u0e40\u0e04\u0e23\u0e37\u0e48\u0e2d\u0e07\u0e2d\u0e31\u0e15\u0e42\u0e19\u0e21\u0e31\u0e15\u0e34\u0e17\u0e35\u0e48\u0e21\u0e35 Limit of Detection \u0e02\u0e2d\u0e07 nRBC 0.02 x 10*3/uL \u0e01\u0e23\u0e38\u0e13\u0e32\u0e1e\u0e34\u0e08\u0e32\u0e19\u0e32\u0e1c\u0e25\u0e01\u0e32\u0e23\u0e15\u0e23\u0e27\u0e08\u0e27\u0e34\u0e40\u0e04\u0e23\u0e32\u0e30\u0e2b\u0e4c\u0e23\u0e48\u0e27\u0e21\u0e01\u0e31\u0e1a\u0e2d\u0e32\u0e01\u0e32\u0e23\u0e17\u0e32\u0e07\u0e04\u0e25\u0e34\u0e19\u0e34\u0e01"
+                },
+                {
+                    "test_name": "Nucleated Red Cell #",
+                    "result": "--",
+                    "unit": "x10*3 /uL",
+                    "reference_range": null,
+                    "note": "\u0e40\u0e1b\u0e47\u0e19\u0e1c\u0e25\u0e01\u0e32\u0e23\u0e15\u0e23\u0e27\u0e08\u0e27\u0e34\u0e40\u0e04\u0e23\u0e32\u0e30\u0e2b\u0e4c\u0e08\u0e32\u0e01\u0e40\u0e04\u0e23\u0e37\u0e48\u0e2d\u0e07\u0e2d\u0e31\u0e15\u0e42\u0e19\u0e21\u0e31\u0e15\u0e34\u0e17\u0e35\u0e48\u0e21\u0e35 Limit of Detection \u0e02\u0e2d\u0e07 nRBC 0.02 x 10*3/uL \u0e01\u0e23\u0e38\u0e13\u0e32\u0e1e\u0e34\u0e08\u0e32\u0e19\u0e32\u0e1c\u0e25\u0e01\u0e32\u0e23\u0e15\u0e23\u0e27\u0e08\u0e27\u0e34\u0e40\u0e04\u0e23\u0e32\u0e30\u0e2b\u0e4c\u0e23\u0e48\u0e27\u0e21\u0e01\u0e31\u0e1a\u0e2d\u0e32\u0e01\u0e32\u0e23\u0e17\u0e32\u0e07\u0e04\u0e25\u0e34\u0e19\u0e34\u0e01"
+                }
+            ],
+            "notes": {
+                "result_notes": "*= \u0e1c\u0e34\u0e14\u0e1b\u0e01\u0e15\u0e34 L=\u0e15\u0e48\u0e33 LL=\u0e15\u0e48\u0e33(\u0e27\u0e34\u0e01\u0e24\u0e15), H=\u0e2a\u0e39\u0e07 HH=\u0e2a\u0e39\u0e07(\u0e27\u0e34\u0e01\u0e24\u0e15) ! = \u0e04\u0e48\u0e33\u0e27\u0e34\u0e01\u0e24\u0e15"
+            }
+        }
+    ],
+    [
+        {
+            "Access No": "247844122",
+            "Lab No": "CH-564703/67",
+            "Specimen": "EDTA blood",
+            "Collection Date": "06/11/2567 13:58:47",
+            "Report Date": "06/11/2567 14:41:37",
+            "Tests": [
+                {
+                    "Name": "Eosinophils #",
+                    "Value": "0.05",
+                    "Unit": "x10^3 /uL",
+                    "Reference Range": "0 - 0.45"
+                },
+                {
+                    "Name": "Basophils %",
+                    "Value": "0.7",
+                    "Unit": "%",
+                    "Reference Range": "0 - 1.8"
+                },
+                {
+                    "Name": "Basophils #",
+                    "Value": "0.02",
+                    "Unit": "x10^3 /uL",
+                    "Reference Range": "0 - 0.2"
+                },
+                {
+                    "Name": "Nucleated Red Cell %",
+                    "Value": "-",
+                    "Unit": "/ 100 WBC"
+                },
+                {
+                    "Name": "Nucleated Red Cell #",
+                    "Value": "-",
+                    "Unit": "x10^3 /uL"
+                }
+            ]
+        },
+        {
+            "Access No": "247844122",
+            "Lab No": "CH-564703/67",
+            "Specimen": "EDTA blood",
+            "Collection Date": "06/11/2567 13:58:47",
+            "Report Date": "06/11/2567 14:41:37",
+            "Tests": [
+                {
+                    "Name": "Red Cell Count",
+                    "Value": "3.33 L",
+                    "Unit": "x10^6 /uL",
+                    "Reference Range": "3.9 - 5.5"
+                },
+                {
+                    "Name": "Hemoglobin",
+                    "Value": "9.3 L",
+                    "Unit": "g/dL",
+                    "Reference Range": "12.0 - 15.0"
+                },
+                {
+                    "Name": "Hematocrit",
+                    "Value": "29.5",
+                    "Unit": "%",
+                    "Reference Range": "36.0 - 45.0"
+                },
+                {
+                    "Name": "MCV",
+                    "Value": "88.6",
+                    "Unit": "fL",
+                    "Reference Range": "80.0 - 100.0"
+                },
+                {
+                    "Name": "MCH",
+                    "Value": "27.9",
+                    "Unit": "pg",
+                    "Reference Range": "27.0 - 33.0"
+                },
+                {
+                    "Name": "MCHC",
+                    "Value": "31.5 L",
+                    "Unit": "g/dL",
+                    "Reference Range": "33.0 - 37.0"
+                },
+                {
+                    "Name": "RDW",
+                    "Value": "18.0 H",
+                    "Unit": "%",
+                    "Reference Range": "11.0 - 14.5"
+                },
+                {
+                    "Name": "Platelets Count",
+                    "Value": "116 L",
+                    "Unit": "x10^3 /uL",
+                    "Reference Range": "150 - 450"
+                },
+                {
+                    "Name": "MPV",
+                    "Value": "10.1",
+                    "Unit": "fL",
+                    "Reference Range": "9.2 - 12.0"
+                },
+                {
+                    "Name": "White Cell Count",
+                    "Value": "2.95 L",
+                    "Unit": "x10^3 /uL",
+                    "Reference Range": "4.5 - 11.0"
+                },
+                {
+                    "Name": "Neutrophils %",
+                    "Value": "57.2",
+                    "Unit": "%",
+                    "Reference Range": "40.0 - 70.9"
+                },
+                {
+                    "Name": "Neutrophils #",
+                    "Value": "1.69 L",
+                    "Unit": "x10^3 /uL",
+                    "Reference Range": "1.8 - 7.8"
+                },
+                {
+                    "Name": "Lymphocytes %",
+                    "Value": "26.8",
+                    "Unit": "%",
+                    "Reference Range": "22.2 - 43.0"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "report_type": "\u0e43\u0e1a\u0e23\u0e32\u0e22\u0e07\u0e32\u0e19\u0e1c\u0e25\u0e15\u0e23\u0e27\u0e08\u0e17\u0e32\u0e07\u0e2b\u0e49\u0e2d\u0e07\u0e1b\u0e0f\u0e34\u0e1a\u0e31\u0e15\u0e34\u0e01\u0e32\u0e23",
+            "patient": {
+                "name": "\u0e19\u0e32\u0e07 \u0e1b\u0e19\u0e38\u0e01\u0e39\u0e25\u0e32 \u0e40\u0e2a\u0e35\u0e22\u0e07\u0e41\u0e08\u0e49\u0e27",
+                "HN": "00439282",
+                "LN": "66148834",
+                "insurance": "\u0e40\u0e07\u0e34\u0e19\u0e2a\u0e14",
+                "age": "77 \u0e1b\u0e35 5 \u0e40\u0e14\u0e37\u0e2d\u0e19 2 \u0e27\u0e31\u0e19",
+                "gender": "\u0e2b\u0e0d\u0e34\u0e07",
+                "contract": "",
+                "department": "\u0e04\u0e25\u0e34\u0e19\u0e34\u0e01\u0e04\u0e31\u0e14\u0e01\u0e23\u0e2d\u0e07 (99)",
+                "registration_date": "13/06/2566 13:07",
+                "ordering_doctor": "\u0e2b\u0e49\u0e2d\u0e07\u0e15\u0e23\u0e27\u0e08\u0e17\u0e31\u0e48\u0e27\u0e44\u0e1b (OPD_GP)",
+                "specimen_received_date": "13/06/2566 13:23"
+            },
+            "tests": {
+                "hematology": {
+                    "specimen": "EDTA Tube (\u0e1d\u0e48\u0e32\u0e2a\u0e35\u0e21\u0e48\u0e27\u0e07)",
+                    "cbc": [
+                        {
+                            "test": "Hb",
+                            "result": 10.0,
+                            "flag": "L",
+                            "unit": "g/dl",
+                            "normal_range": "F (12 - 16)",
+                            "method": "Automation"
+                        },
+                        {
+                            "test": "Het",
+                            "result": 32,
+                            "flag": "L",
+                            "unit": "%",
+                            "normal_range": "F (36 - 48)",
+                            "method": "Automation"
+                        },
+                        {
+                            "test": "WBC",
+                            "result": 4810,
+                            "flag": "L",
+                            "unit": "cells/cu.mm",
+                            "normal_range": "(5000 - 10000)",
+                            "method": "Automation"
+                        },
+                        {
+                            "test": "PMN",
+                            "result": 59,
+                            "unit": "%",
+                            "normal_range": "(40 - 70)",
+                            "method": "Automation"
+                        },
+                        {
+                            "test": "Lymph",
+                            "result": 32,
+                            "unit": "%",
+                            "normal_range": "(20 - 40)",
+                            "method": "Automation"
+                        },
+                        {
+                            "test": "Eos",
+                            "result": 0,
+                            "unit": "%",
+                            "normal_range": "(0 - 5)",
+                            "method": "Automation"
+                        },
+                        {
+                            "test": "Mono",
+                            "result": 9,
+                            "flag": "H",
+                            "unit": "%",
+                            "normal_range": "(2 - 8)",
+                            "method": "Automation"
+                        },
+                        {
+                            "test": "Baso",
+                            "result": 0,
+                            "unit": "%",
+                            "normal_range": "(0 - 2)",
+                            "method": "Automation"
+                        },
+                        {
+                            "test": "Band",
+                            "result": 0,
+                            "unit": "%",
+                            "normal_range": "(0 - 5)",
+                            "method": "Automation"
+                        },
+                        {
+                            "test": "NRC",
+                            "result": 0,
+                            "unit": "cells/100 WB",
+                            "method": "Automation"
+                        },
+                        {
+                            "test": "Absolute neutrophil count",
+                            "result": 2838,
+                            "unit": "cells/cu.mm",
+                            "normal_range": "F (1800 - 6800)",
+                            "method": "Automation"
+                        },
+                        {
+                            "test": "RDW",
+                            "result": 23.3,
+                            "flag": "H",
+                            "unit": "%",
+                            "normal_range": "(12.0 - 14.8)",
+                            "method": "Automation"
+                        },
+                        {
+                            "test": "MCV",
+                            "result": 91,
+                            "unit": "fl",
+                            "normal_range": "(80 - 92)",
+                            "method": "Automation"
+                        },
+                        {
+                            "test": "MCH",
+                            "result": 29,
+                            "unit": "pg",
+                            "normal_range": "(27 - 32)",
+                            "method": "Automation"
+                        },
+                        {
+                            "test": "MCHC",
+                            "result": 32,
+                            "flag": "L",
+                            "unit": "g/dl",
+                            "normal_range": "(33 - 37)",
+                            "method": "Automation"
+                        },
+                        {
+                            "test": "Platelet count",
+                            "result": 94000,
+                            "flag": "L",
+                            "unit": "cells/cu.mm",
+                            "normal_range": "(140000 - 440000)",
+                            "method": "Automation"
+                        },
+                        {
+                            "test": "Platelet Smear",
+                            "result": "Decrease",
+                            "normal_range": "Adequate",
+                            "method": "Automation"
+                        },
+                        {
+                            "test": "RBC Morphology",
+                            "result": "Abnormal",
+                            "normal_range": "Normal",
+                            "method": "Automation"
+                        },
+                        {
+                            "test": "Anisocytosis",
+                            "result": "Few",
+                            "method": "Automation"
+                        }
+                    ]
+                }
+            },
+            "financial": {
+                "test_cost": "90.00 \u0e1a\u0e32\u0e17"
+            },
+            "staff": {
+                "reported_by": "\u0e17\u0e19\u0e1e\u0e0d. \u0e01\u0e38\u0e25\u0e18\u0e34\u0e14\u0e32 \u0e01\u0e2d\u0e07\u0e28\u0e34\u0e25\u0e1b\u0e4c \u0e17\u0e19.13263",
+                "report_date": "13/06/2566 13:46",
+                "approved_by": "\u0e17\u0e19\u0e1e\u0e0d. \u0e01\u0e38\u0e25\u0e18\u0e34\u0e14\u0e32 \u0e01\u0e2d\u0e07\u0e28\u0e34\u0e25\u0e1b\u0e4c \u0e17\u0e19.13263",
+                "approval_date": "13/06/2566 13:50"
+            }
+        }
+    ],
+    [
+        {
+            "Access No": "247561776",
+            "Lab No": "CC-587633/67",
+            "Specimen": "Heparinized blood",
+            "Collection Date": "25/09/2567 14:10:33",
+            "Report Date": "25/09/2567 14:46:55",
+            "Tests": [
+                {
+                    "Name": "Creatinine",
+                    "Value": "0.95",
+                    "Unit": "mg/dL",
+                    "Reference Range": "0.50 - 1.00"
+                },
+                {
+                    "Name": "eGFR Thai Equation",
+                    "Value": "57.18",
+                    "Unit": "mL/min/1.73sqm"
+                },
+                {
+                    "Name": "eGFR MDRD (Caucasian)",
+                    "Value": "56.89",
+                    "Unit": "mL/min/1.73sqm"
+                },
+                {
+                    "Name": "eGFR CKD-EPI",
+                    "Value": "57.55",
+                    "Unit": "mL/min/1.73sqm"
+                }
+            ]
+        },
+        {
+            "hospital": "\u0e42\u0e23\u0e07\u0e1e\u0e22\u0e32\u0e1a\u0e32\u0e25\u0e08\u0e38\u0e2c\u0e32\u0e25\u0e07\u0e01\u0e23\u0e13\u0e4c \u0e2a\u0e20\u0e32\u0e01\u0e32\u0e0a\u0e32\u0e14\u0e44\u0e17\u0e22",
+            "address": "1873 \u0e16\u0e19\u0e19\u0e1e\u0e23\u0e30\u0e23\u0e32\u0e21 4 \u0e1b\u0e17\u0e38\u0e21\u0e27\u0e31\u0e19 \u0e01\u0e23\u0e38\u0e07\u0e40\u0e17\u0e1e\u0e2f 10330",
+            "department": "\u0e1d\u0e48\u0e32\u0e22 \u0e40\u0e27\u0e0a\u0e28\u0e32\u0e2a\u0e15\u0e23\u0e4c\u0e08\u0e31\u0e19\u0e18\u0e38\u0e15\u0e23\u0e32 +66 22564000 ext. 80324-5",
+            "accreditation": "Accreditation No. 400647",
+            "patient": {
+                "name": "\u0e19\u0e32\u0e07\u0e1b\u0e19\u0e38\u0e01\u0e39\u0e25\u0e32 \u0e40\u0e2a\u0e35\u0e22\u0e07\u0e41\u0e08\u0e49\u0e27",
+                "HN": "12014/66",
+                "gender": "\u0e2b\u0e0d\u0e34\u0e07",
+                "age": "78 \u0e1b\u0e35",
+                "specimen": "EDTA blood",
+                "lab_no": "CH-483384/67",
+                "collection_date": "25/09/2567 14:10:35",
+                "received_date": "25/09/2567 14:47:00"
+            },
+            "tests": {
+                "CBC": [
+                    {
+                        "test": "Red Cell Count",
+                        "result": 4.01,
+                        "unit": "x10^6/uL",
+                        "reference_range": "3.9 - 5.5"
+                    },
+                    {
+                        "test": "Hemoglobin",
+                        "result": 11.0,
+                        "flag": "L",
+                        "unit": "g/dL",
+                        "reference_range": "12.0 - 15.0"
+                    },
+                    {
+                        "test": "Hematocrit",
+                        "result": 33.6,
+                        "flag": "L",
+                        "unit": "%",
+                        "reference_range": "36.0 - 45.0"
+                    },
+                    {
+                        "test": "MCV",
+                        "result": 83.8,
+                        "unit": "fL",
+                        "reference_range": "80.0 - 100.0"
+                    },
+                    {
+                        "test": "MCH",
+                        "result": 27.4,
+                        "unit": "pg",
+                        "reference_range": "27.0 - 33.0"
+                    },
+                    {
+                        "test": "MCHC",
+                        "result": 32.7,
+                        "flag": "L",
+                        "unit": "g/dL",
+                        "reference_range": "33.0 - 37.0"
+                    },
+                    {
+                        "test": "RDW",
+                        "result": 14.6,
+                        "flag": "H",
+                        "unit": "%",
+                        "reference_range": "11.0 - 14.5"
+                    },
+                    {
+                        "test": "Platelets Counts",
+                        "result": 141,
+                        "flag": "L",
+                        "unit": "x10^3/uL",
+                        "reference_range": "150 - 450"
+                    },
+                    {
+                        "test": "MPV",
+                        "result": 9.6,
+                        "unit": "fL",
+                        "reference_range": "9.2 - 12.0"
+                    },
+                    {
+                        "test": "White Cell Count",
+                        "result": 1.88,
+                        "flag": "L",
+                        "unit": "x10^3/uL",
+                        "reference_range": "4.5 - 11.0"
+                    }
+                ],
+                "Differential": [
+                    {
+                        "test": "Neutrophils %",
+                        "result": 22.3,
+                        "flag": "L",
+                        "unit": "%",
+                        "reference_range": "40.0 - 70.9"
+                    },
+                    {
+                        "test": "Neutrophils #",
+                        "result": 0.42,
+                        "flag": "LL",
+                        "note": "\u0e04\u0e48\u0e33\u0e27\u0e34\u0e01\u0e24\u0e15\u0e34 (Repeated)",
+                        "unit": "x10^3/uL",
+                        "reference_range": "1.8 - 7.8"
+                    },
+                    {
+                        "test": "Lymphocytes %",
+                        "result": 62.2,
+                        "flag": "H",
+                        "unit": "%",
+                        "reference_range": "22.2 - 43.6"
+                    },
+                    {
+                        "test": "Lymphocytes #",
+                        "result": 1.17,
+                        "unit": "x10^3/uL",
+                        "reference_range": "1.0 - 4.8"
+                    },
+                    {
+                        "test": "Monocytes %",
+                        "result": 1.1,
+                        "unit": "%",
+                        "reference_range": "0 - 7.3"
+                    },
+                    {
+                        "test": "Monocytes #",
+                        "result": 0.02,
+                        "unit": "x10^3/uL",
+                        "reference_range": "0 - 0.8"
+                    }
+                ],
+                "note": "Too low to differential by slide"
+            },
+            "medical_staff": {
+                "requested_by": "\u0e28.\u0e14\u0e23.\u0e19\u0e1e.\u0e27\u0e34\u0e42\u0e23\u0e08\u0e19\u0e4c \u0e28\u0e23\u0e35\u0e2d\u0e38\u0e17\u0e32\u0e23\u0e1e\u0e07\u0e28\u0e4c",
+                "request_date": "18/09/2567 16:30:00",
+                "released_by": "\u0e19\u0e32\u0e22\u0e10\u0e32\u0e19\u0e42\u0e17\u0e23\u0e13\u0e35 \u0e40\u0e17\u0e1e\u0e19\u0e23\u0e34\u0e19\u0e17\u0e23\u0e4c",
+                "approved_by": "\u0e19\u0e32\u0e22\u0e10\u0e32\u0e19\u0e42\u0e17\u0e23\u0e13\u0e35 \u0e40\u0e17\u0e1e\u0e19\u0e23\u0e34\u0e19\u0e17\u0e23\u0e4c",
+                "approval_date": "25/09/2567 15:30:52"
+            },
+            "notes": "\u0e2b\u0e21\u0e32\u0e22\u0e40\u0e2b\u0e15\u0e38\u0e1c\u0e25\u0e15\u0e23\u0e27\u0e08 = \u0e1c\u0e34\u0e14\u0e1b\u0e01\u0e15\u0e34 L=\u0e15\u0e48\u0e33 LL=\u0e15\u0e48\u0e33(\u0e27\u0e34\u0e01\u0e24\u0e15), H=\u0e2a\u0e39\u0e07 HH=\u0e2a\u0e39\u0e07(\u0e27\u0e34\u0e01\u0e24\u0e15) 1 = \u0e04\u0e48\u0e33\u0e27\u0e34\u0e01\u0e24\u0e15"
+        },
+        {
+            "hospital": "\u0e42\u0e23\u0e07\u0e1e\u0e22\u0e32\u0e1a\u0e32\u0e25\u0e08\u0e38\u0e2c\u0e32\u0e25\u0e07\u0e01\u0e23\u0e13\u0e4c \u0e2a\u0e20\u0e32\u0e01\u0e32\u0e0a\u0e32\u0e14\u0e44\u0e17\u0e22",
+            "address": "1873 \u0e16\u0e19\u0e19\u0e1e\u0e23\u0e30\u0e23\u0e32\u0e21 4 \u0e1b\u0e17\u0e38\u0e21\u0e27\u0e31\u0e19 \u0e01\u0e23\u0e38\u0e07\u0e40\u0e17\u0e1e\u0e2f 10330",
+            "department": "\u0e1d\u0e48\u0e32\u0e22 \u0e40\u0e27\u0e0a\u0e28\u0e32\u0e2a\u0e15\u0e23\u0e4c\u0e08\u0e31\u0e19\u0e15\u0e38\u0e15\u0e23 +66 22564000 ext. 80324-5",
+            "print_date": "25/09/2567 15:57:50",
+            "page_info": "page 2 of 2",
+            "accreditation": "\u0e2b\u0e49\u0e2d\u0e07\u0e1b\u0e0f\u0e34\u0e1a\u0e31\u0e15\u0e34\u0e01\u0e32\u0e23 ISO 15189",
+            "patient": {
+                "name": "\u0e19\u0e32\u0e07\u0e1b\u0e19\u0e0e\u0e0a\u0e32 \u0e40\u0e25\u0e35\u0e22\u0e07\u0e41\u0e08\u0e49\u0e27",
+                "HN": "12014/66",
+                "gender": "\u0e2b\u0e0d\u0e34\u0e07",
+                "age": "78 \u0e1b\u0e35",
+                "specimen": "EDTA blood",
+                "access_no": "247561777",
+                "lab_no": "CH-483384/67",
+                "collection_date": "25/09/2567 14:10:35",
+                "received_date": "25/09/2567 14:47:00"
+            },
+            "tests": [
+                {
+                    "test": "Eosinophils %",
+                    "result": 14.4,
+                    "flag": "H",
+                    "unit": "%",
+                    "reference_range": "0 - 4.1"
+                },
+                {
+                    "test": "Eosinophils #",
+                    "result": 0.27,
+                    "unit": "x10^3/uL",
+                    "reference_range": "0 - 0.45"
+                },
+                {
+                    "test": "Basophils %",
+                    "result": 0.0,
+                    "unit": "%",
+                    "reference_range": "0 - 1.8"
+                },
+                {
+                    "test": "Basophils #",
+                    "result": 0.0,
+                    "unit": "x10^3/uL",
+                    "reference_range": "0 - 0.2"
+                },
+                {
+                    "test": "Nucleated Red Cell %",
+                    "result": "\u2013",
+                    "unit": "/ 100 WBC",
+                    "reference_range": "",
+                    "note": "\u0e40\u0e1b\u0e47\u0e19\u0e1c\u0e25\u0e01\u0e32\u0e23\u0e15\u0e23\u0e27\u0e08\u0e27\u0e34\u0e40\u0e04\u0e23\u0e32\u0e30\u0e2b\u0e4c\u0e08\u0e32\u0e01\u0e40\u0e04\u0e23\u0e37\u0e48\u0e2d\u0e07\u0e2d\u0e31\u0e15\u0e42\u0e19\u0e21\u0e31\u0e15\u0e34\u0e17\u0e35\u0e48\u0e21\u0e35 Limit of Detection \u0e02\u0e2d\u0e07 nRBC 0.02 x 10^3/uL \u0e01\u0e23\u0e38\u0e13\u0e32\u0e17\u0e34\u0e08\u0e34\u0e15\u0e2d\u0e25\u0e21\u0e32\u0e1c\u0e25\u0e01\u0e32\u0e23\u0e15\u0e23\u0e27\u0e08\u0e27\u0e34\u0e40\u0e04\u0e23\u0e32\u0e30\u0e2b\u0e4c\u0e23\u0e48\u0e27\u0e21\u0e01\u0e31\u0e1a\u0e2d\u0e32\u0e01\u0e32\u0e23\u0e17\u0e32\u0e07\u0e04\u0e25\u0e34\u0e19\u0e34\u0e01"
+                },
+                {
+                    "test": "Nucleated Red Cell #",
+                    "result": "\u2013",
+                    "unit": "x10^3/uL",
+                    "reference_range": "",
+                    "note": "\u0e40\u0e1b\u0e47\u0e19\u0e1c\u0e25\u0e01\u0e32\u0e23\u0e15\u0e23\u0e27\u0e08\u0e27\u0e34\u0e40\u0e04\u0e23\u0e32\u0e30\u0e2b\u0e4c\u0e08\u0e32\u0e01\u0e40\u0e04\u0e23\u0e37\u0e48\u0e2d\u0e07\u0e2d\u0e31\u0e15\u0e42\u0e19\u0e21\u0e31\u0e15\u0e34\u0e17\u0e35\u0e48\u0e21\u0e35 Limit of Detection \u0e02\u0e2d\u0e07 nRBC 0.02 x 10^3/uL \u0e01\u0e23\u0e38\u0e13\u0e32\u0e17\u0e34\u0e08\u0e34\u0e15\u0e2d\u0e25\u0e21\u0e32\u0e1c\u0e25\u0e01\u0e32\u0e23\u0e15\u0e23\u0e27\u0e08\u0e27\u0e34\u0e40\u0e04\u0e23\u0e32\u0e30\u0e2b\u0e4c\u0e23\u0e48\u0e27\u0e21\u0e01\u0e31\u0e1a\u0e2d\u0e32\u0e01\u0e32\u0e23\u0e17\u0e32\u0e07\u0e04\u0e25\u0e34\u0e19\u0e34\u0e01"
+                }
+            ],
+            "medical_staff": {
+                "requested_by": "\u0e28.\u0e14\u0e23.\u0e19\u0e1e.\u0e27\u0e34\u0e42\u0e23\u0e08\u0e19\u0e4c \u0e28\u0e23\u0e35\u0e2d\u0e38\u0e1e\u0e23\u0e23\u0e1e\u0e07\u0e28\u0e4c",
+                "request_date": "18/09/2567 16:30:00",
+                "released_by": "\u0e19\u0e32\u0e22\u0e10\u0e32\u0e19\u0e44\u0e17\u0e23\u0e13\u0e4c \u0e40\u0e17\u0e1e\u0e1a\u0e38\u0e23\u0e34\u0e19\u0e17\u0e23\u0e4c",
+                "approved_by": "\u0e19\u0e32\u0e22\u0e10\u0e32\u0e19\u0e44\u0e17\u0e23\u0e13\u0e4c \u0e40\u0e17\u0e1e\u0e1a\u0e38\u0e23\u0e34\u0e19\u0e17\u0e23\u0e4c",
+                "approval_date": "25/09/2567 15:30:52"
+            },
+            "notes": "\u0e2b\u0e21\u0e32\u0e22\u0e40\u0e2b\u0e15\u0e38\u0e1c\u0e25\u0e15\u0e23\u0e27\u0e08 *= \u0e1c\u0e34\u0e14\u0e1b\u0e01\u0e15\u0e34 L=\u0e15\u0e48\u0e33 LL=\u0e15\u0e48\u0e33(\u0e27\u0e34\u0e01\u0e24\u0e15), H=\u0e2a\u0e39\u0e07 HH=\u0e2a\u0e39\u0e07(\u0e27\u0e34\u0e01\u0e24\u0e15) 1 = \u0e04\u0e48\u0e33\u0e27\u0e34\u0e01\u0e24\u0e15"
+        }
+    ],
+    [
+        {
+            "hospital": {
+                "name": "\u0e2a\u0e16\u0e32\u0e1a\u0e31\u0e19\u0e42\u0e23\u0e04\u0e17\u0e23\u0e27\u0e07\u0e2d\u0e01",
+                "address": "74 \u0e16.\u0e14\u0e34\u0e27\u0e32\u0e19\u0e19\u0e17\u0e4c \u0e15.\u0e1a\u0e32\u0e07\u0e01\u0e23\u0e30\u0e2a\u0e2d \u0e2d.\u0e40\u0e21\u0e37\u0e2d\u0e07 \u0e08.\u0e19\u0e19\u0e17\u0e1a\u0e38\u0e23\u0e35 11000",
+                "phone": "02-547-0999"
+            },
+            "patient": {
+                "name": "\u0e19\u0e32\u0e07 \u0e1b\u0e19\u0e38\u0e01\u0e39\u0e25\u0e32 \u0e40\u0e2a\u0e35\u0e22\u0e07\u0e41\u0e08\u0e49\u0e27",
+                "HN": "00439282",
+                "AN": "",
+                "LN": "66130748",
+                "insurance": "\u0e40\u0e07\u0e34\u0e19\u0e2a\u0e14",
+                "age": "77 \u0e1b\u0e35 4 \u0e40\u0e14\u0e37\u0e2d\u0e19 13 \u0e27\u0e31\u0e19",
+                "gender": "\u0e2b\u0e0d\u0e34\u0e07",
+                "contract": "",
+                "department": "\u0e04\u0e25\u0e34\u0e19\u0e34\u0e01\u0e1c\u0e39\u0e49\u0e1b\u0e48\u0e27\u0e22\u0e19\u0e2d\u0e01\u0e42\u0e23\u0e04\u0e2b\u0e31\u0e27\u0e43\u0e08 (11)",
+                "registration_date": "24/05/2566 13:01",
+                "ordering_doctor": "\u0e41\u0e1e\u0e17\u0e22\u0e4c\u0e42\u0e23\u0e04\u0e2b\u0e31\u0e27\u0e43\u0e08",
+                "specimen_received_date": "24/05/2566 13:13"
+            },
+            "tests": {
+                "hematology": {
+                    "specimen": "EDTA Tube (\u0e1d\u0e48\u0e32\u0e21\u0e35\u0e21\u0e48\u0e27\u0e07)",
+                    "cbc": [
+                        {
+                            "test": "Hb",
+                            "result": "LL2",
+                            "flag": "L",
+                            "unit": "g/dl",
+                            "normal_range": "F (12 - 16)",
+                            "method": "Automation"
+                        },
+                        {
+                            "test": "Het",
+                            "result": 35,
+                            "flag": "L",
+                            "unit": "%",
+                            "normal_range": "F (36 - 48)",
+                            "method": "Automation"
+                        },
+                        {
+                            "test": "WBC",
+                            "result": 5150,
+                            "unit": "cells/cu.mm",
+                            "normal_range": "(5000 - 10000)",
+                            "method": "Automation"
+                        },
+                        {
+                            "test": "PMN",
+                            "result": 58,
+                            "unit": "%",
+                            "normal_range": "(40 - 70)",
+                            "method": "Automation"
+                        },
+                        {
+                            "test": "Lymph",
+                            "result": 32,
+                            "unit": "%",
+                            "normal_range": "(20 - 40)",
+                            "method": "Automation"
+                        },
+                        {
+                            "test": "Eos",
+                            "result": 1,
+                            "unit": "%",
+                            "normal_range": "(0 - 5)",
+                            "method": "Automation"
+                        },
+                        {
+                            "test": "Mono",
+                            "result": 2,
+                            "unit": "%",
+                            "normal_range": "(2 - 8)",
+                            "method": "Automation"
+                        },
+                        {
+                            "test": "Baso",
+                            "result": 0,
+                            "unit": "%",
+                            "normal_range": "(0 - 2)",
+                            "method": "Automation"
+                        },
+                        {
+                            "test": "Band",
+                            "result": 0,
+                            "unit": "%",
+                            "normal_range": "(0 - 5)",
+                            "method": "Automation"
+                        },
+                        {
+                            "test": "NRC",
+                            "result": 0,
+                            "unit": "cells/100 WB",
+                            "method": "Automation"
+                        },
+                        {
+                            "test": "Absolute neutrophil count",
+                            "result": 2987,
+                            "unit": "cells/cu.mm",
+                            "normal_range": "F (1800 - 6800)",
+                            "method": "Automation"
+                        },
+                        {
+                            "test": "RDW",
+                            "result": 22.7,
+                            "unit": "%",
+                            "normal_range": "(12.0 - 14.8)",
+                            "method": "Automation"
+                        },
+                        {
+                            "test": "MCV",
+                            "result": 88,
+                            "unit": "fl",
+                            "normal_range": "(80 - 92)",
+                            "method": "Automation"
+                        },
+                        {
+                            "test": "MCH",
+                            "result": 28,
+                            "unit": "pg",
+                            "normal_range": "(27 - 32)",
+                            "method": "Automation"
+                        },
+                        {
+                            "test": "MCHC",
+                            "result": 32,
+                            "unit": "g/dl",
+                            "normal_range": "(33 - 37)",
+                            "method": "Automation"
+                        },
+                        {
+                            "test": "Platelet count",
+                            "result": 158000,
+                            "unit": "cells/cu.mm",
+                            "normal_range": "(140000 - 440000)",
+                            "method": "Automation"
+                        },
+                        {
+                            "test": "Platelet Smear",
+                            "result": "Adequate",
+                            "normal_range": "Adequate",
+                            "method": "Automation"
+                        },
+                        {
+                            "test": "RBC Morphology",
+                            "result": "Abnormal",
+                            "normal_range": "Normal",
+                            "method": "Automation"
+                        },
+                        {
+                            "test": "Hypochromia",
+                            "result": "Few",
+                            "method": "Automation"
+                        }
+                    ]
+                }
+            },
+            "financial": {
+                "test_cost": "90.00 \u0e1a\u0e32\u0e17"
+            },
+            "staff": {
+                "reported_by": "\u0e17\u0e19\u0e1e\u0e0d. \u0e01\u0e38\u0e25\u0e18\u0e34\u0e14\u0e32 \u0e01\u0e2d\u0e07\u0e28\u0e34\u0e25\u0e1b\u0e4c \u0e17\u0e19.13263",
+                "approved_by": "\u0e17\u0e19\u0e1e\u0e0d. \u0e01\u0e38\u0e25\u0e18\u0e34\u0e14\u0e32 \u0e01\u0e2d\u0e07\u0e28\u0e34\u0e25\u0e1b\u0e4c \u0e17\u0e19.13263",
+                "report_date": "24/05/2566 13:28",
+                "approval_date": "24/05/2566 13:28"
+            }
+        },
+        {
+            "hospital": {
+                "name": "\u0e2a\u0e16\u0e32\u0e1a\u0e31\u0e19\u0e42\u0e23\u0e04\u0e17\u0e23\u0e27\u0e07\u0e2d\u0e01",
+                "address": "74 \u0e16.\u0e14\u0e34\u0e27\u0e32\u0e19\u0e19\u0e17\u0e4c \u0e15.\u0e1a\u0e32\u0e07\u0e01\u0e23\u0e30\u0e2a\u0e2d \u0e2d.\u0e40\u0e21\u0e37\u0e2d\u0e07 \u0e08.\u0e19\u0e19\u0e17\u0e1a\u0e38\u0e23\u0e35 11000",
+                "phone": "02-547-0999"
+            },
+            "patient": {
+                "name": "\u0e19\u0e32\u0e07 \u0e1b\u0e19\u0e38\u0e01\u0e39\u0e25\u0e32 \u0e40\u0e2a\u0e35\u0e22\u0e07\u0e41\u0e08\u0e49\u0e27",
+                "HN": "00439282",
+                "LN": "66130749",
+                "insurance": "\u0e40\u0e07\u0e34\u0e19\u0e2a\u0e14",
+                "age": "77 \u0e1b\u0e35 4 \u0e40\u0e14\u0e37\u0e2d\u0e19 13 \u0e27\u0e31\u0e19",
+                "gender": "\u0e2b\u0e0d\u0e34\u0e07",
+                "department": "\u0e04\u0e25\u0e34\u0e19\u0e34\u0e01\u0e1c\u0e39\u0e49\u0e1b\u0e48\u0e27\u0e22\u0e19\u0e2d\u0e01\u0e42\u0e23\u0e04\u0e2b\u0e31\u0e27\u0e43\u0e08 (11)",
+                "ordering_doctor": "\u0e41\u0e1e\u0e17\u0e22\u0e4c\u0e42\u0e23\u0e04\u0e2b\u0e31\u0e27\u0e43\u0e08",
+                "registration_date": "24/05/2566 13:01",
+                "specimen_received_date": "24/05/2566 13:13"
+            },
+            "tests": [
+                {
+                    "category": "CREATININE",
+                    "specimen": "Clot blood (\u0e1d\u0e48\u0e32\u0e2a\u0e35\u0e41\u0e14\u0e07)",
+                    "tests": [
+                        {
+                            "test": "CREATININE",
+                            "result": 0.81,
+                            "flag": "H",
+                            "unit": "mg/dl",
+                            "normal_range": "F (0.5 - 0.8)",
+                            "method": "Enzymatic Calculation"
+                        },
+                        {
+                            "test": "eGFR Value",
+                            "result": 70.28,
+                            "unit": "ml/ml/1.73m2"
+                        },
+                        {
+                            "test": "CKD Stage",
+                            "result": "G2"
+                        }
+                    ]
+                },
+                {
+                    "category": "DIRECT BILIRUBIN",
+                    "specimen": "Clot blood (\u0e1d\u0e48\u0e32\u0e2a\u0e35\u0e41\u0e14\u0e07)",
+                    "tests": [
+                        {
+                            "test": "DIRECT BILIRUBIN",
+                            "result": 0.16,
+                            "unit": "mg/dl",
+                            "normal_range": "(0.00 - 0.30)",
+                            "method": "Vanadate oxidation"
+                        }
+                    ]
+                },
+                {
+                    "category": "TOTAL BILIRUBIN",
+                    "specimen": "Clot blood (\u0e1d\u0e48\u0e32\u0e2a\u0e35\u0e41\u0e14\u0e07)",
+                    "tests": [
+                        {
+                            "test": "TOTAL BILIRUBIN",
+                            "result": 0.6,
+                            "unit": "mg/dl",
+                            "normal_range": "(0.3 - 1.2)",
+                            "method": "Vanadate oxidation"
+                        }
+                    ]
+                },
+                {
+                    "category": "SGOT(AST)",
+                    "specimen": "Clot blood (\u0e1d\u0e48\u0e32\u0e2a\u0e35\u0e41\u0e14\u0e07)",
+                    "tests": [
+                        {
+                            "test": "SGOT",
+                            "result": 44,
+                            "flag": "H",
+                            "unit": "U/L",
+                            "normal_range": "(0 - 34)",
+                            "method": "Modified IFCC"
+                        }
+                    ]
+                },
+                {
+                    "category": "SGPT(ALT)",
+                    "specimen": "Clot blood (\u0e1d\u0e48\u0e32\u0e2a\u0e35\u0e41\u0e14\u0e07)",
+                    "tests": [
+                        {
+                            "test": "SGPT",
+                            "result": 32,
+                            "unit": "U/L",
+                            "normal_range": "(10 - 49)",
+                            "method": "Modified IFCC"
+                        }
+                    ]
+                },
+                {
+                    "category": "ALKALINE PHOSPHATASE",
+                    "specimen": "Clot blood (\u0e1d\u0e48\u0e32\u0e2a\u0e35\u0e41\u0e14\u0e07)",
+                    "tests": [
+                        {
+                            "test": "ALKALINE PHOSPHATASE",
+                            "result": 89,
+                            "unit": "U/L",
+                            "normal_range": "(46 - 116)",
+                            "method": "IFCC Standardization"
+                        }
+                    ]
+                }
+            ],
+            "financial": {
+                "test_cost": "240.00 \u0e1a\u0e32\u0e17"
+            },
+            "staff": {
+                "reported_by": "\u0e17\u0e19\u0e1e\u0e0d. \u0e40\u0e1e\u0e47\u0e0d\u0e08\u0e34\u0e23\u0e32 \u0e1a\u0e38\u0e0d\u0e40\u0e19\u0e15\u0e23 \u0e17\u0e19.10274",
+                "approved_by": "\u0e17\u0e19\u0e1e\u0e0d. \u0e40\u0e1e\u0e47\u0e0d\u0e08\u0e34\u0e23\u0e32 \u0e1a\u0e38\u0e0d\u0e40\u0e19\u0e15\u0e23 \u0e17\u0e19.10274",
+                "printed_by": "\u0e19\u0e32\u0e07\u0e2a\u0e32\u0e27 \u0e19\u0e34\u0e15\u0e22\u0e32 \u0e42\u0e1e\u0e18\u0e34\u0e4c\u0e2a\u0e32\u0e23\u0e32\u0e0a",
+                "report_date": "24/05/2566 13:51",
+                "approval_date": "24/05/2566 13:51",
+                "print_info": {
+                    "IP": "10.3.1.52",
+                    "print_date": "24/05/2566 14:25"
+                }
+            },
+            "notes": {
+                "page_info": "Page 1 / 1"
+            }
+        }
+    ]
+]

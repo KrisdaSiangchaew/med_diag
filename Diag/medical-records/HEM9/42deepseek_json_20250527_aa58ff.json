@@ -1,0 +1,68 @@
+{
+  "hospital": "โรงพยาบาลจุฬาลงกรณ์ สภากาชาดไทย",
+  "address": "1873 ถนนพระราม 4 ปทุมวัน กรุงเทพฯ 10330",
+  "department": "ฝ่าย เวชศาสตร์จันตุตร +66 22564000 ext. 80324-5",
+  "print_date": "25/09/2567 15:57:50",
+  "page_info": "page 2 of 2",
+  "accreditation": "ห้องปฏิบัติการ ISO 15189",
+  "patient": {
+    "name": "นางปนฎชา เลียงแจ้ว",
+    "HN": "12014/66",
+    "gender": "หญิง",
+    "age": "78 ปี",
+    "specimen": "EDTA blood",
+    "access_no": "247561777",
+    "lab_no": "CH-483384/67",
+    "collection_date": "25/09/2567 14:10:35",
+    "received_date": "25/09/2567 14:47:00"
+  },
+  "tests": [
+    {
+      "test": "Eosinophils %",
+      "result": 14.4,
+      "flag": "H",
+      "unit": "%",
+      "reference_range": "0 - 4.1"
+    },
+    {
+      "test": "Eosinophils #",
+      "result": 0.27,
+      "unit": "x10^3/uL",
+      "reference_range": "0 - 0.45"
+    },
+    {
+      "test": "Basophils %",
+      "result": 0.0,
+      "unit": "%",
+      "reference_range": "0 - 1.8"
+    },
+    {
+      "test": "Basophils #",
+      "result": 0.00,
+      "unit": "x10^3/uL",
+      "reference_range": "0 - 0.2"
+    },
+    {
+      "test": "Nucleated Red Cell %",
+      "result": "–",
+      "unit": "/ 100 WBC",
+      "reference_range": "",
+      "note": "เป็นผลการตรวจวิเคราะห์จากเครื่องอัตโนมัติที่มี Limit of Detection ของ nRBC 0.02 x 10^3/uL กรุณาทิจิตอลมาผลการตรวจวิเคราะห์ร่วมกับอาการทางคลินิก"
+    },
+    {
+      "test": "Nucleated Red Cell #",
+      "result": "–",
+      "unit": "x10^3/uL",
+      "reference_range": "",
+      "note": "เป็นผลการตรวจวิเคราะห์จากเครื่องอัตโนมัติที่มี Limit of Detection ของ nRBC 0.02 x 10^3/uL กรุณาทิจิตอลมาผลการตรวจวิเคราะห์ร่วมกับอาการทางคลินิก"
+    }
+  ],
+  "medical_staff": {
+    "requested_by": "ศ.ดร.นพ.วิโรจน์ ศรีอุพรรพงศ์",
+    "request_date": "18/09/2567 16:30:00",
+    "released_by": "นายฐานไทรณ์ เทพบุรินทร์",
+    "approved_by": "นายฐานไทรณ์ เทพบุรินทร์",
+    "approval_date": "25/09/2567 15:30:52"
+  },
+  "notes": "หมายเหตุผลตรวจ *= ผิดปกติ L=ต่ำ LL=ต่ำ(วิกฤต), H=สูง HH=สูง(วิกฤต) 1 = ค่ำวิกฤต"
+}

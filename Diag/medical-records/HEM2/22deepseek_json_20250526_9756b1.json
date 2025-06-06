@@ -1,0 +1,169 @@
+{
+  "hospital": {
+    "name": "โรงพยาบาลจุฬาลงกรณ์ สภากาชาดไทย",
+    "address": "1873 ถนนพระราม 4 ปทุมวัน กรุงเทพฯ 10330",
+    "department": "ฝ่าย เวชศาสตร์จันธุตรา",
+    "contact": "+66 22564000 ext. 80324-5"
+  },
+  "patient": {
+    "name": "นางปนฎชา เสียงแจ้ว",
+    "hn": "12014/66",
+    "gender": "หญิง",
+    "age": 78,
+    "an": null,
+    "department": "เคมีบำบัด Med Onco ภูมิสิริขาIC (นอกเวลา)"
+  },
+  "specimen": {
+    "type": "EDTA blood",
+    "collection_date": "11/12/2567 14:19:38",
+    "received_date": "11/12/2567 14:45:04",
+    "access_no": "240082365",
+    "lab_no": "CH-632166/67"
+  },
+  "test_results": {
+    "CBC": [
+      {
+        "test_name": "Red Cell Count",
+        "result": 2.92,
+        "flag": "L",
+        "unit": "x10^6/uL",
+        "reference_range": "3.9 - 5.5"
+      },
+      {
+        "test_name": "Hemoglobin",
+        "result": 8.9,
+        "flag": "L",
+        "unit": "g/dL",
+        "reference_range": "12.0 - 15.0"
+      },
+      {
+        "test_name": "Hematocrit",
+        "result": 27.8,
+        "flag": "L",
+        "unit": "%",
+        "reference_range": "36.0 - 45.0"
+      },
+      {
+        "test_name": "MCV",
+        "result": 95.2,
+        "flag": null,
+        "unit": "fL",
+        "reference_range": "80.0 - 100.0"
+      },
+      {
+        "test_name": "MCH",
+        "result": 30.5,
+        "flag": null,
+        "unit": "pg",
+        "reference_range": "27.0 - 33.0"
+      },
+      {
+        "test_name": "MCHC",
+        "result": 32.0,
+        "flag": "L",
+        "unit": "g/dL",
+        "reference_range": "33.0 - 37.0"
+      },
+      {
+        "test_name": "RDW",
+        "result": 20.3,
+        "flag": "H",
+        "unit": "%",
+        "reference_range": "11.0 - 14.5"
+      },
+      {
+        "test_name": "Platelets Counts",
+        "result": 287,
+        "flag": null,
+        "unit": "x10^3/uL",
+        "reference_range": "150 - 450"
+      },
+      {
+        "test_name": "MPV",
+        "result": 9.7,
+        "flag": null,
+        "unit": "fL",
+        "reference_range": "9.2 - 12.0"
+      },
+      {
+        "test_name": "White Cell Count",
+        "result": 2.85,
+        "flag": "L",
+        "unit": "x10^3/uL",
+        "reference_range": "4.5 - 11.0"
+      },
+      {
+        "test_name": "Neutrophils %",
+        "result": 59.3,
+        "flag": null,
+        "unit": "%",
+        "reference_range": "40.0 - 70.9"
+      },
+      {
+        "test_name": "Neutrophils #",
+        "result": 1.69,
+        "flag": "L",
+        "unit": "x10^3/uL",
+        "reference_range": "1.8 - 7.8"
+      },
+      {
+        "test_name": "Lymphocytes %",
+        "result": 21.4,
+        "flag": "L",
+        "unit": "%",
+        "reference_range": "22.2 - 43.6"
+      },
+      {
+        "test_name": "Lymphocytes #",
+        "result": 0.61,
+        "flag": "L",
+        "unit": "x10^3/uL",
+        "reference_range": "1.0 - 4.8"
+      },
+      {
+        "test_name": "Monocytes %",
+        "result": 14.4,
+        "flag": "H",
+        "unit": "%",
+        "reference_range": "0 - 7.3"
+      },
+      {
+        "test_name": "Monocytes #",
+        "result": 0.41,
+        "flag": null,
+        "unit": "x10^3/uL",
+        "reference_range": "0 - 0.8"
+      },
+      {
+        "test_name": "Eosinophils %",
+        "result": 4.2,
+        "flag": "H",
+        "unit": "%",
+        "reference_range": "0 - 4.1"
+      },
+      {
+        "test_name": "Eosinophils #",
+        "result": 0.12,
+        "flag": null,
+        "unit": "x10^3/uL",
+        "reference_range": "0 - 0.45"
+      },
+      {
+        "test_name": "Basophils %",
+        "result": 0.7,
+        "flag": null,
+        "unit": "%",
+        "reference_range": "0 - 1.8"
+      }
+    ]
+  },
+  "metadata": {
+    "requested_by": "ศ.ดร.นพ.วิโรจน์ ศรีอุฬารพงศ์",
+    "request_date": "27/11/2567 16:30:00",
+    "released_by": "นายศุภกร วงศ์กำชัย",
+    "approved_by": "น.ส.สุนัลตา แนวรัตน์โสภณ",
+    "approval_date": "11/12/2567 14:55:08",
+    "notes": "หมายเหตุผลตรวจ *= ผิดปกติ L=ค่า LL=ค่า(วิกฤต), H=สูง HH=สูง(วิกฤต) 1 = ค่าวิกฤต",
+    "accreditation": "ISO 15189"
+  }
+}

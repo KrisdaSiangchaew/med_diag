@@ -1,0 +1,87 @@
+{
+    "Access No": "247844122",
+    "Lab No": "CH-564703/67",
+    "Specimen": "EDTA blood",
+    "Collection Date": "06/11/2567 13:58:47",
+    "Report Date": "06/11/2567 14:41:37",
+    "Tests": [
+        {
+            "Name": "Red Cell Count",
+            "Value": "3.33 L",
+            "Unit": "x10^6 /uL",
+            "Reference Range": "3.9 - 5.5"
+        },
+        {
+            "Name": "Hemoglobin",
+            "Value": "9.3 L",
+            "Unit": "g/dL",
+            "Reference Range": "12.0 - 15.0"
+        },
+        {
+            "Name": "Hematocrit",
+            "Value": "29.5",
+            "Unit": "%",
+            "Reference Range": "36.0 - 45.0"
+        },
+        {
+            "Name": "MCV",
+            "Value": "88.6",
+            "Unit": "fL",
+            "Reference Range": "80.0 - 100.0"
+        },
+        {
+            "Name": "MCH",
+            "Value": "27.9",
+            "Unit": "pg",
+            "Reference Range": "27.0 - 33.0"
+        },
+        {
+            "Name": "MCHC",
+            "Value": "31.5 L",
+            "Unit": "g/dL",
+            "Reference Range": "33.0 - 37.0"
+        },
+        {
+            "Name": "RDW",
+            "Value": "18.0 H",
+            "Unit": "%",
+            "Reference Range": "11.0 - 14.5"
+        },
+        {
+            "Name": "Platelets Count",
+            "Value": "116 L",
+            "Unit": "x10^3 /uL",
+            "Reference Range": "150 - 450"
+        },
+        {
+            "Name": "MPV",
+            "Value": "10.1",
+            "Unit": "fL",
+            "Reference Range": "9.2 - 12.0"
+        },
+        {
+            "Name": "White Cell Count",
+            "Value": "2.95 L",
+            "Unit": "x10^3 /uL",
+            "Reference Range": "4.5 - 11.0"
+        },
+        {
+            "Name": "Neutrophils %",
+            "Value": "57.2",
+            "Unit": "%",
+            "Reference Range": "40.0 - 70.9"
+        },
+        {
+            "Name": "Neutrophils #",
+            "Value": "1.69 L",
+            "Unit": "x10^3 /uL",
+            "Reference Range": "1.8 - 7.8"
+        },
+        {
+            "Name": "Lymphocytes %",
+            "Value": "26.8",
+            "Unit": "%",
+            "Reference Range": "22.2 - 43.0"
+        }
+    ]
+}

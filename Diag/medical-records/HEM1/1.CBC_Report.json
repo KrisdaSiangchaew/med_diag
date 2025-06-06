@@ -1,0 +1,135 @@
+[
+    {
+        "Test Name": "Red Cell Count",
+        "Result": "2.47",
+        "Unit": "x10\u2076 /\u00b5L",
+        "Flag": "L",
+        "Reference Range": "3.9 \u2013 5.5"
+    },
+    {
+        "Test Name": "Hemoglobin",
+        "Result": "9.1",
+        "Unit": "g/dL",
+        "Flag": "L",
+        "Reference Range": "12.0 \u2013 15.0"
+    },
+    {
+        "Test Name": "Hematocrit",
+        "Result": "20.1",
+        "Unit": "%",
+        "Flag": "L",
+        "Reference Range": "36.0 \u2013 45.0"
+    },
+    {
+        "Test Name": "MCV",
+        "Result": "98.0",
+        "Unit": "fL",
+        "Flag": "",
+        "Reference Range": "80.0 \u2013 100.0"
+    },
+    {
+        "Test Name": "MCH",
+        "Result": "30.6",
+        "Unit": "pg",
+        "Flag": "",
+        "Reference Range": "27.0 \u2013 33.0"
+    },
+    {
+        "Test Name": "MCHC",
+        "Result": "31.4",
+        "Unit": "g/dL",
+        "Flag": "L",
+        "Reference Range": "33.0 \u2013 37.0"
+    },
+    {
+        "Test Name": "RDW",
+        "Result": "19.4",
+        "Unit": "%",
+        "Flag": "H",
+        "Reference Range": "11.0 \u2013 14.5"
+    },
+    {
+        "Test Name": "Platelet Count",
+        "Result": "250",
+        "Unit": "x10\u00b3 /\u00b5L",
+        "Flag": "",
+        "Reference Range": "150 \u2013 450"
+    },
+    {
+        "Test Name": "MPV",
+        "Result": "0.6",
+        "Unit": "fL",
+        "Flag": "",
+        "Reference Range": "9.2 \u2013 12.0"
+    },
+    {
+        "Test Name": "White Cell Count",
+        "Result": "6.08",
+        "Unit": "x10\u00b3 /\u00b5L",
+        "Flag": "",
+        "Reference Range": "4.5 \u2013 11.0"
+    },
+    {
+        "Test Name": "Neutrophils %",
+        "Result": "73.5",
+        "Unit": "%",
+        "Flag": "H",
+        "Reference Range": "40.0 \u2013 70.0"
+    },
+    {
+        "Test Name": "Neutrophils #",
+        "Result": "4.47",
+        "Unit": "x10\u00b3 /\u00b5L",
+        "Flag": "",
+        "Reference Range": "1.8 \u2013 7.8"
+    },
+    {
+        "Test Name": "Lymphocytes %",
+        "Result": "15.1",
+        "Unit": "%",
+        "Flag": "L",
+        "Reference Range": "22.2 \u2013 43.6"
+    },
+    {
+        "Test Name": "Lymphocytes #",
+        "Result": "0.92",
+        "Unit": "x10\u00b3 /\u00b5L",
+        "Flag": "L",
+        "Reference Range": "1.0 \u2013 4.8"
+    },
+    {
+        "Test Name": "Monocytes %",
+        "Result": "9.4",
+        "Unit": "%",
+        "Flag": "H",
+        "Reference Range": "0.0 \u2013 7.3"
+    },
+    {
+        "Test Name": "Monocytes #",
+        "Result": "0.57",
+        "Unit": "x10\u00b3 /\u00b5L",
+        "Flag": "",
+        "Reference Range": "0.2 \u2013 0.8"
+    },
+    {
+        "Test Name": "Eosinophils %",
+        "Result": "1.0",
+        "Unit": "%",
+        "Flag": "",
+        "Reference Range": "0.0 \u2013 4.1"
+    },
+    {
+        "Test Name": "Eosinophils #",
+        "Result": "0.09",
+        "Unit": "x10\u00b3 /\u00b5L",
+        "Flag": "",
+        "Reference Range": "0.0 \u2013 0.45"
+    },
+    {
+        "Test Name": "Basophils %",
+        "Result": "0.5",
+        "Unit": "%",
+        "Flag": "",
+        "Reference Range": "0.0 \u2013 1.8"
+    }
+]

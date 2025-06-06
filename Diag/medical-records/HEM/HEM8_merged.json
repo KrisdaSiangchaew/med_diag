@@ -1,0 +1,291 @@
+[
+    {
+        "hospital": "โรงพยาบาลจุฬาลงกรณ์ สภากาชาดไทย",
+        "address": "1873 ถนนพระราม 4 ปทุมวัน กรุงเทพฯ 10330",
+        "department": "ฝ่าย เวชศาสตร์รัหญตร +66 22564000 ext. 80324-5",
+        "accreditation": "Accreditation No. 4006/47",
+        "patient": {
+            "name": "นางปนุธุรา เสียงแจ้ว",
+            "HN": "12014/66",
+            "gender": "หญิง",
+            "age": "78 ปี",
+            "specimen": "Heparinized blood",
+            "lab_no": "CC-619394/67",
+            "collection_date": "09/10/2567 14:18:41",
+            "received_date": "09/10/2567 14:44:38"
+        },
+        "tests": [
+            {
+                "category": "Creatinine",
+                "tests": [
+                    {
+                        "test": "Creatinine",
+                        "result": 0.9,
+                        "unit": "mg/dL",
+                        "reference_range": "0.50 - 1.00"
+                    },
+                    {
+                        "test": "Thai eGFR Equation",
+                        "result": 59.86,
+                        "unit": "mL/min/1.73sqm",
+                        "reference_range": ""
+                    },
+                    {
+                        "test": "eGFR MDRD (Caucasian)",
+                        "result": 60.56,
+                        "unit": "mL/min/1.73sqm",
+                        "reference_range": ""
+                    },
+                    {
+                        "test": "eGFR CKD-EPI",
+                        "result": 61.44,
+                        "unit": "mL/min/1.73sqm",
+                        "reference_range": ""
+                    }
+                ]
+            },
+            {
+                "test": "Bilirubin (Total)",
+                "result": 0.3,
+                "unit": "mg/dL",
+                "reference_range": "0.20 - 1.20"
+            },
+            {
+                "test": "Bilirubin (direct)",
+                "result": 0.12,
+                "unit": "mg/dL",
+                "reference_range": "0.0 - 0.5"
+            },
+            {
+                "test": "AST (SGOT)",
+                "result": 46,
+                "unit": "U/L",
+                "reference_range": "5 - 35",
+                "flag": "H"
+            },
+            {
+                "test": "ALT (SGPT)",
+                "result": 40,
+                "unit": "U/L",
+                "reference_range": "0 - 40"
+            },
+            {
+                "test": "Alkaline phosphatase",
+                "result": 96,
+                "unit": "U/L",
+                "reference_range": "40 - 120"
+            }
+        ],
+        "medical_staff": {
+            "requested_by": "ศ.ดร.นพ.วิโรจน์ ศรีอุตารพงศ์",
+            "request_date": "25/09/2567 16:30:00",
+            "released_by": "น.ส.นภัส อมรพิชญ์",
+            "approved_by": "น.ส.นัดลิกา จารุอารอนันท์",
+            "approval_date": "09/10/2567 15:14:08"
+        },
+        "notes": "หมายเหตุผลตรวจ *= ผิดปกติ L=ต่ำ LL=ต่ำ(วิกฤต), H=สูง HH=สูง(วิกฤต) ! = ค่ำวิกฤต"
+    },
+    {
+        "hospital": "โรงพยาบาลจุฬาลงกรณ์ สภากาชาดไทย",
+        "address": "1873 ถนนพระราม + ปทุมวัน กรุงเทพฯ 10330",
+        "department": "ฝ่าย เวชศาสตร์ชั้นสูตร +66 22564000 ext. 80324-5",
+        "accreditation": "Accreditation No. 4006/47",
+        "patient": {
+            "name": "นางปนุกูลา เสียงแจ้ว",
+            "HN": "12014/66",
+            "age": "78 ปี",
+            "specimen": "EDTA blood",
+            "lab_no": "CH-511659/67",
+            "collection_date": "09/10/2567 14:18:46",
+            "received_date": "09/10/2567 14:45:01"
+        },
+        "tests": [
+            {
+                "test": "Eosinophils #",
+                "result": "0.02",
+                "unit": "x10^3/uL",
+                "reference_range": "0 - 0.45"
+            },
+            {
+                "test": "Basophils %",
+                "result": "0.4",
+                "unit": "%",
+                "reference_range": "0 - 1.8"
+            },
+            {
+                "test": "Basophils #",
+                "result": "0.01",
+                "unit": "x10^3/uL",
+                "reference_range": "0 - 0.2"
+            },
+            {
+                "test": "Nucleated Red Cell %",
+                "result": "--",
+                "unit": "/ 100 WBC",
+                "reference_range": ""
+            },
+            {
+                "test": "Nucleated Red Cell #",
+                "result": "เป็นผลการตรวจวิเคราะห์จากเครื่องอัตโนมัติที่มี Limit of Detection ของ nRBC 0.02 x 10*3/uL กรุณาที่จำแนกผลการตรวจวิเคราะห์ร่วมกับอาการทางคลินิก -- x10^3/uL เป็นผลการตรวจวิเคราะห์จากเครื่องอัตโนมัติที่มี Limit of Detection ของ nRBC 0.02 x 10*3/uL กรุณาที่จำแนกผลการตรวจวิเคราะห์ร่วมกับอาการทางคลินิก --",
+                "unit": "",
+                "reference_range": ""
+            }
+        ],
+        "medical_staff": {
+            "requested_by": "ศ.ดร.นพ.วิโรจน์ ศรีอุหารพงศ์",
+            "request_date": "25/09/2567 16:30:00",
+            "released_by": "ไม่ระบุแพทย์",
+            "approved_by": "น.ส.สุนัดดา แนวรัตน์โสภณ",
+            "approval_date": "09/10/2567 15:40:42"
+        },
+        "notes": "หมายเหตุผลตรวจ *= ผิดปกติ L=ต่ำ LL=ต่ำ(วิกฤต), H=สูง HH=สูง(วิกฤต) ! = ค่ำวิกฤต"
+    },
+    {
+        "hospital": "โรงพยาบาลจุฬาลงกรณ์ สภากาชาดไทย",
+        "address": "1873 ถนนพระราม 4 ปทุมวัน กรุงเทพฯ 10330",
+        "department": "ฝ่าย เวชศาสตร์รัมย์สุตร +66 22564000 ext. 80324-5",
+        "print_date": "09/10/2567 16:50:31",
+        "accreditation": "Accreditation No. 4006/47",
+        "patient": {
+            "name": "นางปนูลูจา เสียงแจ้ว",
+            "HN": "12014/66",
+            "specimen": "EDTA blood",
+            "lab_no": "CH-511659/67",
+            "collection_date": "09/10/2567 14:18:46",
+            "received_date": "09/10/2567 14:45:01"
+        },
+        "tests": {
+            "CBC": [
+                {
+                    "test": "Red Cell Count",
+                    "value": 3.31,
+                    "flag": "L",
+                    "unit": "x10^6/uL",
+                    "reference_range": "3.9 - 5.5"
+                },
+                {
+                    "test": "Hemoglobin",
+                    "value": 9.2,
+                    "flag": "L",
+                    "unit": "g/dL",
+                    "reference_range": "12.0 - 15.0"
+                },
+                {
+                    "test": "Hematocrit",
+                    "value": 28.5,
+                    "flag": "L",
+                    "unit": "%",
+                    "reference_range": "36.0 - 45.0"
+                },
+                {
+                    "test": "MCV",
+                    "value": 86.1,
+                    "flag": "",
+                    "unit": "fL",
+                    "reference_range": "80.0 - 100.0"
+                },
+                {
+                    "test": "MCH",
+                    "value": 27.8,
+                    "flag": "",
+                    "unit": "pg",
+                    "reference_range": "27.0 - 33.0"
+                },
+                {
+                    "test": "MCHC",
+                    "value": 32.3,
+                    "flag": "L",
+                    "unit": "g/dL",
+                    "reference_range": "33.0 - 37.0"
+                },
+                {
+                    "test": "RDW",
+                    "value": 15.1,
+                    "flag": "H",
+                    "unit": "%",
+                    "reference_range": "11.0 - 14.5"
+                },
+                {
+                    "test": "Platelets Counts",
+                    "value": 115,
+                    "flag": "L",
+                    "unit": "x10^3/uL",
+                    "reference_range": "150 - 450"
+                },
+                {
+                    "test": "MPV",
+                    "value": 10.2,
+                    "flag": "",
+                    "unit": "fL",
+                    "reference_range": "9.2 - 12.0"
+                },
+                {
+                    "test": "White Cell Count",
+                    "value": 2.74,
+                    "flag": "L",
+                    "unit": "x10^3/uL",
+                    "reference_range": "4.5 - 11.0"
+                }
+            ],
+            "Differential": [
+                {
+                    "test": "Neutrophils %",
+                    "value": 45.6,
+                    "flag": "",
+                    "unit": "%",
+                    "reference_range": "40.0 - 70.9"
+                },
+                {
+                    "test": "Neutrophils #",
+                    "value": 1.25,
+                    "flag": "L",
+                    "unit": "x10^3/uL",
+                    "reference_range": "1.8 - 7.8"
+                },
+                {
+                    "test": "Lymphocytes %",
+                    "value": 38.0,
+                    "flag": "",
+                    "unit": "%",
+                    "reference_range": "22.2 - 43.6"
+                },
+                {
+                    "test": "Lymphocytes #",
+                    "value": 1.04,
+                    "flag": "",
+                    "unit": "x10^3/uL",
+                    "reference_range": "1.0 - 4.8"
+                },
+                {
+                    "test": "Monocytes %",
+                    "value": 15.3,
+                    "flag": "H",
+                    "unit": "%",
+                    "reference_range": "0 - 7.3"
+                },
+                {
+                    "test": "Monocytes #",
+                    "value": 0.42,
+                    "flag": "",
+                    "unit": "x10^3/uL",
+                    "reference_range": "0 - 0.8"
+                },
+                {
+                    "test": "Eosinophils %",
+                    "value": 0.7,
+                    "flag": "",
+                    "unit": "%",
+                    "reference_range": "0 - 4.1"
+                }
+            ]
+        },
+        "medical_staff": {
+            "requested_by": "พ.ศร.นพ.วิโรจน์ ศรีอุตารพงศ์",
+            "request_date": "25/09/2567 16:30:00",
+            "released_by": "ไม่ระบุแพทย์",
+            "approved_by": "น.ส.ธุุนิติดา แนวรัตน์โสภณ",
+            "approval_date": "09/10/2567 15:40:42"
+        },
+        "notes": "หมายเหตุผลตรวจ *= ผิดปกติ L=ต่ำ LL=ต่ำ(วิกฤต), H=สูง HH=สูง(วิกฤต) 1 = ค่ำวิกฤต"
+    }
+]

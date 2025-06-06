@@ -1,0 +1,119 @@
+[
+    {
+        "Access No": "247703006",
+        "Lab No": "CH-524127/67",
+        "Specimen": "EDTA blood",
+        "Collection Date": "16/10/2567 14:24:39",
+        "Report Date": "16/10/2567 15:14:23",
+        "Tests": [
+            {
+                "Name": "Basophils #",
+                "Value": "0.01",
+                "Unit": "x10^3 /uL",
+                "Reference Range": "0 - 0.2"
+            },
+            {
+                "Name": "Nucleated Red Cell %",
+                "Value": "-",
+                "Unit": "/ 100 WBC"
+            },
+            {
+                "Name": "Nucleated Red Cell #",
+                "Value": "-",
+                "Unit": "x10^3 /uL"
+            }
+        ]
+    },
+    {
+        "Access No": "247703006",
+        "Lab No": "CH-524127/67",
+        "Specimen": "EDTA blood",
+        "Collection Date": "16/10/2567 14:24:39",
+        "Report Date": "16/10/2567 15:14:23",
+        "Tests": [
+            {
+                "Name": "Red Cell Count",
+                "Value": "3.52 L",
+                "Unit": "x10^6 /uL",
+                "Reference Range": "3.9 - 5.5"
+            },
+            {
+                "Name": "Hemoglobin",
+                "Value": "9.7 L",
+                "Unit": "g/dL",
+                "Reference Range": "12.0 - 15.0"
+            },
+            {
+                "Name": "Hematocrit",
+                "Value": "30.7 L",
+                "Unit": "%",
+                "Reference Range": "36.0 - 45.0"
+            },
+            {
+                "Name": "MCV",
+                "Value": "87.2",
+                "Unit": "fL",
+                "Reference Range": "80.0 - 100.0"
+            },
+            {
+                "Name": "MCH",
+                "Value": "27.6",
+                "Unit": "pg",
+                "Reference Range": "27.0 - 33.0"
+            },
+            {
+                "Name": "MCHC",
+                "Value": "31.6 L",
+                "Unit": "g/dL",
+                "Reference Range": "33.0 - 37.0"
+            },
+            {
+                "Name": "RDW",
+                "Value": "17.2 H",
+                "Unit": "%",
+                "Reference Range": "11.0 - 14.5"
+            },
+            {
+                "Name": "Platelets Count",
+                "Value": "526 H",
+                "Unit": "x10^3 /uL",
+                "Reference Range": "150 - 450"
+            },
+            {
+                "Name": "MPV",
+                "Value": "9.1 L",
+                "Unit": "fL",
+                "Reference Range": "9.2 - 12.0"
+            },
+            {
+                "Name": "White Cell Count",
+                "Value": "3.47 L",
+                "Unit": "x10^3 /uL",
+                "Reference Range": "4.5 - 11.0"
+            },
+            {
+                "Name": "Neutrophils %",
+                "Value": "49.8",
+                "Unit": "%",
+                "Reference Range": "40.0 - 70.9"
+            },
+            {
+                "Name": "Neutrophils #",
+                "Value": "1.73 L",
+                "Unit": "x10^3 /uL",
+                "Reference Range": "1.8 - 7.8"
+            },
+            {
+                "Name": "Lymphocytes %",
+                "Value": "30.6",
+                "Unit": "%",
+                "Reference Range": "22.2 - 43.6"
+            },
+            {
+                "Name": "Lymphocytes #",
+                "Value": "1.06",
+                "Unit": "x10^3 /uL"
+            }
+        ]
+    }
+]
